@@ -63,7 +63,7 @@
 - **Open Source Projects**: CI tools are often used in open source projects to ensure code quality and maintainability.
 - ### **Influence**
   
-  CI has significantly influenced the way software is developed and released, leading to practices like Continuous Deployment and DevOps. Tools like #Jenkins, #Travis-CI, #CircleCI, and #GitHub-Actions have made CI essential in modern software development workflows.
+  CI has significantly influenced the way software is developed and released, leading to practices like #[[Continuous Deployment]] and #DevOps. Tools like #Jenkins, #Travis-CI, #CircleCI, and #GitHub-Actions have made CI essential in modern software development workflows.
 - ### **Why Implement CI?**
 - **Improved Code Quality**: CI helps catch bugs early, improving overall code quality.
 - **Reduced Integration Issues**: Frequent integrations mean fewer merge conflicts and easier integration.

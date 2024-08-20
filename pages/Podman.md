@@ -39,7 +39,7 @@
   ```
 - ### **Applications**
 - **Development Environments**: Podman can be used to create isolated development environments.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Automate testing, building, and deployment processes using containers. #[[Continuous Integration/Continuous Deployment]]
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Automate testing, building, and deployment processes using containers. #[[Continuous Integration]] #[[Continuous Deployment]]
 - **Microservices**: Facilitate the development and deployment of #microservices using containerized applications.
 - **Kubernetes**: Podman’s pod feature aligns closely with Kubernetes, making it easier to manage containerized applications in #orchestration-platforms.
 - ### **Influence**
