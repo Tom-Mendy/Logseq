@@ -33,7 +33,7 @@
 - **Orchestration**: Coordinating a chain of events in various systems, services, and applications.
 - ### **Influence**
   
-  Ansible has influenced the landscape of IT operations by promoting the notion of "Infrastructure as Code" (IaC), making automation critical in modern #DevOps practices. Its simplicity has inspired other tools and frameworks in the automation space.
+  Ansible has influenced the landscape of IT operations by promoting the notion of "#[[Infrastructure as Code]]" (IaC), making automation critical in modern #DevOps practices. Its simplicity has inspired other tools and frameworks in the automation space.
 - ### **Why Learn Ansible?**
 - **Ease of Use**: The simplicity of YAML files and agentless architecture makes Ansible easy to get started with.
 - **Scalability**: Efficiently manages a small number of servers or thousands of machines.
