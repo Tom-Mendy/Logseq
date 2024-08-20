@@ -59,7 +59,7 @@
   ```
 - ### **Applications**
 - **Microservices Architecture**: Deploying, scaling, and managing microservices.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Automating the build, test, and deployment processes. #[[Continuous Integration/CD]]
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Automating the build, test, and deployment processes. #[[Continuous Integration/Continuous Deployment]]
 - **Scalable Web Applications**: Running scalable and distributed web applications and services.
 - **Hybrid Cloud and Multi-Cloud Deployments**: Managing deployments across multiple cloud providers and on-prem environments.
 - **Big Data and AI/ML Workloads**: Running data-intensive workloads such as big data processing and AI/ML pipelines.
