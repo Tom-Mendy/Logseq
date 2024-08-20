@@ -37,7 +37,7 @@
 - **Interoperability**: Works well with various programming languages by providing an easily readable and writable format.
 - ### **Influence**
   
-  YAML has influenced and been influenced by other serialization formats like JSON and XML. It is particularly popular in the DevOps and automation communities due to its simplicity and readability.
+  YAML has influenced and been influenced by other serialization formats like #JSON and #XML. It is particularly popular in the #DevOps and automation communities due to its simplicity and readability.
 - ### **Why Learn YAML?**
 - **Ease of Use**: YAML is easy to both read and write, making it perfect for configuration files and data serialization.
 - **Human-Readable**: Reduces the complexity in configuration management and data exchange formats.
