@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:orphan-pages? true
- :excluded-pages? false}}
+ :excluded-pages? true}
+ :graph/forcesettings {:link-dist 80}}

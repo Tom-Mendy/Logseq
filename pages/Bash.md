@@ -31,11 +31,8 @@
   Here’s a simple example of a "Hello, World!" script in Bash:
   
   ```sh
-  
   #!/bin/bash
-  
   echo "Hello, World!"
-  
   ```
 - ### **Applications**
 - **System Administration**: Automating routine and complex administrative tasks on #UNIX / #Linux systems.

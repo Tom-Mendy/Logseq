@@ -421,4 +421,4 @@
  :file/name-format :triple-lowbar
  :graph/settings {:orphan-pages? true
  :excluded-pages? true}
- :graph/forcesettings {:link-dist 80}}
+ :graph/forcesettings {:link-dist 130}}
