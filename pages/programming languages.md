@@ -27,11 +27,11 @@
 	- #Assembly: Used for the most performance-critical tasks.
 - ### Game Development
 	- #C++: Widely used for game engines and high-performance gaming applications.
-	- #C: Preferred for game development with the Unity engine.
+	- #[[C#]]: Preferred for game development with the Unity engine.
 	- #Lua: Often used for scripting in game engines.
 - ### Enterprise and Backend Development
 	- #Java: Widely used in enterprise environments and large-scale systems.
-	- #C# : Popular for enterprise applications, especially within the Microsoft ecosystem.
+	- #[[C#]] : Popular for enterprise applications, especially within the Microsoft ecosystem.
 	- #Scala: Used for scalable applications and big data processing (often with Apache Spark).
 	- #Go: Increasingly popular for backend systems and microservices.
 	- #Python: Also used for backend development, especially in startups and web development ecosystems.

@@ -32,7 +32,7 @@
 - **Web Development**: Leveraged in server-side web applications, notably through frameworks like Ocsigen.
 - ### **Influence**
   
-  OCaml has influenced the design of other programming languages, particularly in the functional programming community. Languages like #Fsharp and #ReasonML draw direct inspiration from OCaml.
+  OCaml has influenced the design of other programming languages, particularly in the functional programming community. Languages like #[[F#]] and #ReasonML draw direct inspiration from OCaml.
 - ### **Why Learn OCaml?**
 - **Functional and Imperative**: Offers a blend of functional and imperative programming styles.
 - **Safety and Efficiency**: Strong type system helps ensure program safety while being efficient in terms of performance.
