@@ -9,7 +9,7 @@
 - **Zero-cost Abstractions**: Ensures that high-level abstractions have no runtime cost.
 - **Strong Type System**: Features a strong and static type system that helps catch errors at compile time.
 - **Pattern Matching**: Rust provides extensive support for pattern matching, which allows for more expressive code.
-- **Cargo**: Rust’s package manager and build system, which simplifies managing dependencies and building projects.
+- **Cargo**: Rust’s package manager and build system, which simplifies managing dependencies and building projects. #cargo
 - ### **Basic Syntax**
 - **Structure**: Rust programs are structured into modules and crates (which are collections of Rust source code files). The entry point of a Rust program is the `main` function.
 - **Variables and Data Types**: Variables are immutable by default but can be made mutable using the `mut` keyword. Rust has built-in data types like scalar types (`i32`, `u32`, `f64`, `bool`, `char`) and compound types (tuples, arrays).
