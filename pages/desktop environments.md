@@ -4,4 +4,7 @@
 - #I3
 - #Hyprland
 - #sway
+- #xmonad
+- #lxqt
+- #bungi
 -
