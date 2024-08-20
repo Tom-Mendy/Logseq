@@ -3,7 +3,7 @@
 		- #Linux-Mint
 		- #Pop-OS
 - #Fedora
-	- #Red-hat-
+	- #Red-Hat-Linux
 - #Open-SUSE
 - #Arch
 	- #Manjaro
