@@ -2,7 +2,7 @@
 - **Developed by**: José Valim
 - **Year**: 2011
 - **Location**: Platformatec, Brazil
-- **Purpose**: Created to enable concurrent and distributed system development with high fault tolerance, leveraging the Erlang VM's strengths.
+- **Purpose**: Created to enable concurrent and distributed system development with high fault tolerance, leveraging the #Erlang VM's strengths.
 - ### **Key Features**
 - **Concurrency**: Elixir provides excellent support for concurrent programming using lightweight processes and the Actor model, thanks to the Erlang VM.
 - **Fault Tolerance**: Built on the Erlang VM, Elixir inherits robust fault tolerance features, including supervision trees for automatic recovery.
@@ -44,7 +44,7 @@
 - **Data Processing**: Suitable for concurrent data processing tasks, handling large volumes of data efficiently.
 - ### **Influence**
   
-  Elixir is heavily influenced by Erlang and leverages its runtime for concurrency and fault tolerance. It also draws inspiration from Ruby in terms of syntax and developer ergonomics, making it approachable for developers experienced with Ruby.
+  Elixir is heavily influenced by Erlang and leverages its runtime for concurrency and fault tolerance. It also draws inspiration from Ruby in terms of syntax and developer ergonomics, making it approachable for developers experienced with #Ruby.
 - ### **Why Learn Elixir?**
 - **Concurrency and Fault-Tolerance**: Understanding and implementing concurrent and highly available systems.
 - **Scalability**: Learning to build scalable applications suitable for distributed environments.
