@@ -29,11 +29,11 @@
 - ### **Applications**
 - **Configuration Management**: Managing and maintaining the configuration of servers and applications.
 - **Application Deployment**: Automating the deployment of applications in a consistent and repeatable manner.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Integrating with CI/CD pipelines to automate the deployment process.
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Integrating with CI/CD pipelines to automate the deployment process. #[[Continuous Integration]] #[[Continuous Deployment]]
 - **Orchestration**: Coordinating a chain of events in various systems, services, and applications.
 - ### **Influence**
   
-  Ansible has influenced the landscape of IT operations by promoting the notion of "Infrastructure as Code" (IaC), making automation critical in modern DevOps practices. Its simplicity has inspired other tools and frameworks in the automation space.
+  Ansible has influenced the landscape of IT operations by promoting the notion of "Infrastructure as Code" (IaC), making automation critical in modern #DevOps practices. Its simplicity has inspired other tools and frameworks in the automation space.
 - ### **Why Learn Ansible?**
 - **Ease of Use**: The simplicity of YAML files and agentless architecture makes Ansible easy to get started with.
 - **Scalability**: Efficiently manages a small number of servers or thousands of machines.
