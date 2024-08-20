@@ -19,45 +19,28 @@
   Here’s a simple example of a Grafana dashboard configuration in JSON format:
   
   ```json
-  
   {
-  
   "title": "Sample Dashboard",
-  
   "panels": [
-  
     {
-  
       "type": "graph",
-  
       "title": "CPU Usage",
-  
       "targets": [
-  
         {
-  
           "expr": "avg(rate(node_cpu_seconds_total[5m])) by (job)",
-  
           "legendFormat": "{{job}}"
-  
         }
-  
       ],
-  
       "id": 1
-  
     }
-  
   ]
-  
   }
-  
   ```
 - ### **Applications**
 - **Monitoring and Observability**: Grafana is extensively used for monitoring the performance and health of systems, applications, and infrastructures.
-- **DevOps**: Often employed in DevOps environments to monitor CI/CD pipelines, deployment health, and infrastructure.
+- **DevOps**: Often employed in #DevOps environments to monitor CI/CD #pipelines, deployment health, and infrastructure.
 - **Business Intelligence**: Utilized for visualizing key metrics and analytics for business decision-making.
-- **IoT**: Applied in Internet of Things (IoT) solutions to monitor sensor data and device metrics.
+- **IoT**: Applied in Internet of Things (#[[IoT]] ) solutions to monitor sensor data and device metrics.
 - ### **Influence**
 - **Visualization Standards**: Grafana has influenced the standardization of data visualization approaches in the observability space.
 - **Community Ecosystem**: A large community has contributed plugins, data source integrations, and various enhancements.
