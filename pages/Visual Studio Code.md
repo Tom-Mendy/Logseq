@@ -5,7 +5,7 @@
 - **Purpose**: Visual Studio Code (VS Code) was developed to provide developers with a lightweight, yet powerful code editor that supports a wide range of programming languages and development tools.
 - ### **Key Features**
 - **Lightweight and Fast**: VS Code is designed to be a fast and lightweight code editor, providing a quick startup and minimal lag while coding.
-- **Built-In Git**: Offers native Git integration, making it easy to perform version control operations directly within the editor.
+- **Built-In Git**: Offers native #Git integration, making it easy to perform version control operations directly within the editor.
 - **Extensible**: Supports a wide range of extensions available through the Visual Studio Code Marketplace. Users can add new languages, themes, debuggers, and more.
 - **IntelliSense**: Advanced code completion feature that provides smart completions based on variable types, function definitions, and imported modules.
 - **Debugging**: Includes robust debugging capabilities, allowing developers to debug their code directly from the editor.
@@ -30,17 +30,11 @@
   3. **Write Code**:
   
   ```c
-  
   #include <stdio.h>
-  
   int main() {
-  
     printf("Hello, World!\n");
-  
     return 0;
-  
   }
-  
   ```
   
   4. **Run Code**: Use the integrated terminal to compile and run the program.
@@ -52,7 +46,7 @@
 - **Embedded Systems**: Good support for C/C++ development makes it useful for embedded systems development.
 - ### **Influence**
   
-  VS Code has become one of the most popular text editors in the developer community, highly regarded for its speed, functionality, and customization. It has influenced other editors and IDEs to adopt similar features and extensibility models.
+  VS Code has become one of the most popular #[[text editors]] in the developer community, highly regarded for its speed, functionality, and customization. It has influenced other editors and #IDE to adopt similar features and extensibility models.
 - ### **Why Use Visual Studio Code?**
 - **Cross-Platform**: Works across all major operating systems, ensuring a consistent development experience.
 - **Community and Support**: Backed by a robust ecosystem with frequent updates and a plethora of available extensions.
