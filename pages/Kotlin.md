@@ -5,7 +5,7 @@
 - **Location**: Saint Petersburg, Russia
 - **Purpose**: Initially created to improve productivity by providing a modern, expressive language that is fully interoperable with #Java for JVM-based development.
 - ### **Key Features**
-- **Interoperability**: Kotlin is fully interoperable with Java, allowing for seamless integration with existing Java codebases.
+- **Interoperability**: Kotlin is fully interoperable with #Java, allowing for seamless integration with existing Java codebases.
 - **Conciseness**: Kotlin's syntax is designed to be concise, reducing boilerplate code and improving readability.
 - **Null Safety**: Kotlin introduces nullable and non-nullable types to reduce the risk of NullPointerExceptions.
 - **Type Inference**: The language offers powerful type inference capabilities, making the code more elegant and less verbose.
@@ -28,14 +28,14 @@
   }
   ```
 - ### **Applications**
-- **Android Development**: Kotlin is the preferred language for Android development, officially supported by Google.
+- **Android Development**: Kotlin is the preferred language for #Android development, officially supported by #Google.
 - **Server-side Development**: Used in frameworks like Ktor and Spring Boot.
 - **Web Development**: Kotlin/JS allows you to transpile Kotlin code to JavaScript.
 - **Data Science**: Libraries like KotlinDL (for deep learning) make it increasingly popular in data science.
 - **Multiplatform Development**: Kotlin Multiplatform allows for sharing code across different platforms (JVM, JavaScript, Native).
 - ### **Influence**
   
-  Kotlin has been influenced by many languages, including Java, C#, and Scala. Its modern features and JVM compatibility make it a popular choice for new applications and migrating legacy Java applications.
+  Kotlin has been influenced by many languages, including #Java,#[[C#]], and #Scala. Its modern features and #JVM compatibility make it a popular choice for new applications and migrating legacy Java applications.
 - ### **Why Learn Kotlin?**
 - **Modern Language**: Kotlin provides modern features that simplify coding and improve productivity.
 - **Official Android Support**: The de facto language for Android app development.
