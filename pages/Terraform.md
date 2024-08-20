@@ -33,10 +33,10 @@
 - **Cloud Infrastructure Provisioning**: Automated deployment and scaling of cloud resources.
 - **Multi-cloud Management**: Managing resources across multiple cloud providers from a single configuration.
 - **Terraform Enterprise**: Advanced use cases in large enterprises for collaboration and governance.
-- **Networking**: Configuring load balancers, virtual private clouds (VPCs), and other networking infrastructure.
+- **Networking**: Configuring #[[load balancers]], #[[virtual private clouds]] (VPCs), and other networking infrastructure.
 - ### **Influence**
   
-  Terraform has influenced the development of other Infrastructure as Code tools and has set a precedent for cloud infrastructure management. Its principles and practices are now integral to modern DevOps processes.
+  Terraform has influenced the development of other #[[Infrastructure as Code]] tools and has set a precedent for cloud infrastructure management. Its principles and practices are now integral to modern #DevOps processes.
 - ### **Why Learn Terraform?**
 - **Automation**: Simplifies and automates infrastructure management tasks.
 - **Consistency**: Ensures infrastructure is provisioned consistently across different environments.
