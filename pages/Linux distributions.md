@@ -2,8 +2,8 @@
 	- #Ubuntu
 		- #[[Linux Mint]]
 		- #Pop-OS
-		- rhino Linux
-	- Vanilla
+		- #[[Rhino Linux]]
+	- #Vanilla
 - #Fedora
 	- #Red-Hat-Linux
 - #Open-SUSE
@@ -11,4 +11,5 @@
 	- #Manjaro
 - #Nixos
 - #Gentoo
+- #[[Linux Void]]
 -
