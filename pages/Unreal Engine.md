@@ -1,5 +1,5 @@
 ### **History and Background**
-- **Developed by**: Tim Sweeney (#Epic Games]] )
+- **Developed by**: Tim Sweeney (#[[Epic Games]] )
 - **Year**: 1998 (initial release)
 - **Location**: Cary, North Carolina, USA
 - **Purpose**: Originally designed for first-person shooter games, Unreal Engine has evolved to support various types of games and is used for creating high-fidelity, real-time 3D experiences across multiple platforms.
