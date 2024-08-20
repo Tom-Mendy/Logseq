@@ -11,19 +11,15 @@
 - **Strong Community Support**: Ubuntu has a large and active community that provides extensive documentation, forums, and other support resources.
 - **Security**: Ubuntu includes built-in security features like automatic updates, a firewall, and software designed to protect against malware and viruses.
 - ### **Basic Usage**
-- **Desktop Environment**: Ubuntu uses the GNOME desktop environment by default, providing a smooth and cohesive user experience.
+- **Desktop Environment**: Ubuntu uses the #GNOME desktop environment by default, providing a smooth and cohesive user experience.
 - **Command Line Interface**: The Terminal is available for executing commands and scripts, providing powerful control over the system.
-- **Package Management**: Ubuntu uses the `apt` (Advanced Package Tool) package manager for installing, upgrading, and removing software packages.
+- **Package Management**: Ubuntu uses the `apt` (Advanced Package Tool) package manager for installing, upgrading, and removing software packages. #[[apt]]
 - ### **Example Command**
   
   Here's an example of updating the package list and upgrading installed packages using the command line:
-  
-  ```bash
-  
+- ```bash
   sudo apt update
-  
   sudo apt upgrade
-  
   ```
 - ### **Applications**
 - **Desktop Use**: Ideal for personal computers, education, and office use.
