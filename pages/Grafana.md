@@ -40,7 +40,7 @@
 - **Monitoring and Observability**: Grafana is extensively used for monitoring the performance and health of systems, applications, and infrastructures.
 - **DevOps**: Often employed in #DevOps environments to monitor CI/CD #pipelines, deployment health, and infrastructure. #[[Continuous Integration]] #[[Continuous Deployment]]
 - **Business Intelligence**: Utilized for visualizing key metrics and analytics for business decision-making.
-- **IoT**: Applied in Internet of Things (#[[IoT ) solutions to monitor sensor data and device metrics.
+- **IoT**: Applied in #[[Internet of Things]] (IoT) solutions to monitor sensor data and device metrics.
 - ### **Influence**
 - **Visualization Standards**: Grafana has influenced the standardization of data visualization approaches in the observability space.
 - **Community Ecosystem**: A large community has contributed plugins, data source integrations, and various enhancements.
