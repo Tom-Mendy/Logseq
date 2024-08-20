@@ -6,8 +6,8 @@
 - **Daemonless Architecture**: Unlike #Docker, which relies on a #daemon, Podman operates without a central daemon, reducing potential security vulnerabilities.
 - **Rootless Containers**: Podman allows running containers as a non-root user, improving system security.
 - **Compatibility with Docker**: Podman is compatible with #Docker-CLI commands, enabling an easy transition for Docker users.
-- **Pods**: Inspired by #Kubernetes, Podman introduces the concept of pods, grouping together multiple containers that share resources.
-- **Integrated with Systemd**: Podman can integrate with Systemd to manage container lifecycle more efficiently.
+- **Pods**: Inspired by #Kubernetes, Podman introduces the concept of #pods, grouping together multiple containers that share resources.
+- **Integrated with Systemd**: Podman can integrate with #Systemd to manage #container lifecycle more efficiently.
 - ### **Basic Syntax**
 - **Podman Command**: The primary command is `podman`, followed by various subcommands to manage containers.
 - **Common Commands**:
@@ -22,39 +22,24 @@
   Here’s a simple example of pulling an image and running a container using Podman:
   
   ```sh
-  
   # Pull a container image from a registry
-  
   podman pull alpine
-  
   # Run a container from the pulled image
-  
   podman run -it --name my_alpine alpine sh
-  
   # Inside the container, run a command
-  
   echo "Hello, Podman!"
-  
   # Exit the container
-  
   exit
-  
   # List running containers
-  
   podman ps
-  
   # Stop the container
-  
   podman stop my_alpine
-  
   # Remove the container
-  
   podman rm my_alpine
-  
   ```
 - ### **Applications**
 - **Development Environments**: Podman can be used to create isolated development environments.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Automate testing, building, and deployment processes using containers.
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Automate testing, building, and deployment processes using containers. #CI/CD
 - **Microservices**: Facilitate the development and deployment of microservices using containerized applications.
 - **Kubernetes**: Podman’s pod feature aligns closely with Kubernetes, making it easier to manage containerized applications in orchestration platforms.
 - ### **Influence**
