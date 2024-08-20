@@ -1,16 +1,16 @@
 - Sure, here is a similar overview for Git:
 - ### **Git**
 - ### **History and Background**
-- **Developed by**: Linus Torvalds
+- **Developed by**: #[[Linus Torvalds]]
 - **Year**: 2005
 - **Purpose**: Initially developed to support the version control of the Linux kernel project after the issue with BitKeeper.
 - ### **Key Features**
-- **Distributed Version Control**: Git is a distributed system, meaning every user has a complete local copy of the entire repository history.
+- **Distributed Version Control**: Git is a distributed system, meaning every user has a complete local copy of the entire #repository history.
 - **Branching and Merging**: Git's branching model allows multiple lines of development with lightweight, flexible branches. Merging in Git is also very efficient.
 - **Efficient Storing**: Git uses techniques like delta compression to efficiently store changes.
 - **Integrity**: Every file and commit are checksummed and fetched by its cryptographic hash.
 - **Speed**: Operations in Git are typically very fast because most of them are local.
-- **Support for Non-linear Development**: Git supports multiple parallel branches which can be developed, tested, or scrapped without affecting the main development line.
+- **Support for Non-linear Development**: Git supports multiple parallel #branches which can be developed, tested, or scrapped without affecting the main development line.
 - ### **Basic Syntax**
 - **Creating a Repository**: Initialize a new Git repository using `git init`.
 - **Commit Changes**: Record changes to the repository with `git commit`.
@@ -42,8 +42,8 @@
   git push -u origin main
   ```
 - ### **Applications**
-- **Source Code Management**: Git is primarily used for tracking changes in the source code during software development.
-- **Collaboration**: Facilitates collaboration among multiple developers.
+- **Source Code Management**: Git is primarily used for tracking changes in the #[[source code]] during software development.
+- **Collaboration**: Facilitates collaboration among multiple #developers.
 - **Configuration Management**: Used to track changes in system configurations.
 - **Documentation**: Version control for collaborative documentation efforts.
 - ### **Influence**
