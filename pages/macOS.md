@@ -36,8 +36,8 @@
   ```
 - ### **Applications**
 - **Creative Professionals**: Widely used in graphic design, video editing, and music production with apps like Adobe Creative Cloud, Final Cut Pro, and Logic Pro.
-- **Software Development**: Provides tools like Xcode for iOS and macOS application development.
-- **Everyday Use**: Includes productivity apps such as Pages, Numbers, and Keynote, as well as communication tools like Mail and Safari.
+- **Software Development**: Provides tools like #Xcode for #iOS and macOS application development.
+- **Everyday Use**: Includes productivity apps such as Pages, Numbers, and Keynote, as well as communication tools like Mail and #Safari.
 - **Scientific Computing**: Employed in academic and research settings for its powerful Unix-based tools.
 - ### **Influence**
   
