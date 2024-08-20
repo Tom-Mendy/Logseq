@@ -17,9 +17,7 @@
   Here’s a simple example of a command that lists all files in a directory in UNIX:
   
   ```sh
-  
   ls -lah
-  
   ```
 - ### **Applications**
 - **System Administration**: CLIs are extensively used for system configuration, maintenance, and troubleshooting.
@@ -30,9 +28,9 @@
 - ### **Influence**
   
   CLI concepts have influenced modern technologies like:
-- **Integrated Development Environments (IDEs)**: Many include integrated terminals for CLI access.
+- **#[[Integrated Development Environments]] (IDEs)**: Many include integrated terminals for CLI access.
 - **DevOps and Continuous Integration**: Rely on CLI tools for build automation and deployment.
-- **Cloud Computing**: Services from AWS, Azure, and Google Cloud often include powerful CLIs for resource management.
+- **Cloud Computing**: Services from #AWS, #Azure, and #[[Google Cloud]] often include powerful CLIs for resource management.
 - ### **Why Use CLI?**
 - **Precision**: Allows fine-grained control over operating systems and software applications.
 - **Automation**: Facilitates the automation of repetitive and complex tasks through scripting.
