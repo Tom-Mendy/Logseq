@@ -26,9 +26,9 @@
   ```
 - ### **Applications**
 - **Desktop Operating System**: Suitable for personal desktops with various #[[desktop environments]] like #GNOME, #KDE, and #XFCE.
-- **Servers**: Widely used for #[[web servers]], #[[database servers]], file servers, and more due to its robustness and security.
+- **Servers**: Widely used for #[[web servers]], #[[database servers]], #[[file servers]], and more due to its robustness and security.
 - **Development**: Provides a stable environment for development and testing applications.
-- **Embedded Systems**: Used in embedded systems and Internet of Things (IoT) devices due to its customizable nature.
+- **Embedded Systems**: Used in embedded systems and #[[Internet of Things]] (IoT) devices due to its customizable nature.
 - **Scientific Computing**: Employed in research institutions for high-performance computing tasks.
 - ### **Influence**
   
