@@ -8,18 +8,18 @@
 - **Cutting-edge Technologies**: Fedora is known for incorporating the latest advancements in open-source software, including the latest kernels, desktop environments, and applications.
 - **Strong Security**: Features like SELinux (Security-Enhanced Linux) provide robust security mechanisms.
 - **Modular Design**: Fedora comes in different editions such as Fedora Workstation, Fedora Server, and Fedora IoT, tailored for different use cases.
-- **RPM Package Management**: Uses RPM (Red Hat Package Manager) for package management, along with #DNF (Dandified YUM) for handling dependencies and updates.
+- **RPM Package Management**: Uses #RPM (Red Hat Package Manager) for package management, along with #DNF (Dandified YUM) for handling dependencies and updates.
 - **Strong Community Support**: Backed by a strong community of developers and users who contribute to various aspects of the project.
 - ### **Basic Structure**
 - **Editions**:
-	- **Fedora Workstation**: Aimed at developers and desktop users, providing a robust graphical interface (GNOME by default).
+	- **Fedora Workstation**: Aimed at developers and desktop users, providing a robust graphical interface (#GNOME by default).
 	- **Fedora Server**: Geared towards server environments, providing advanced server and cloud features.
 	- **Fedora IoT**: Designed for Internet of Things devices.
 	- **Fedora Silverblue**: An immutable variant focused on container-based workflows.
 - **Package Management**:
 	- **RPM**: The core package format, facilitating software installation.
 	- **DNF**: The modern package manager used for installing, updating, and removing packages.
-- **Desktop Environments**: Supports multiple desktop environments like GNOME, KDE Plasma, XFCE, and more. GNOME is the default for Fedora Workstation.
+- **Desktop Environments**: Supports multiple desktop environments like GNOME, #KDE Plasma, #XFCE, and more. GNOME is the default for Fedora Workstation.
 - **Release Cycle**: Typically has a six-month release cycle, ensuring users have access to the latest software.
 - ### **Example Usage**
   
