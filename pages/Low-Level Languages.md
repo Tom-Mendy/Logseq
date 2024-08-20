@@ -17,43 +17,27 @@
   Here’s an example of an assembly language code snippet, which is considered a low-level language:
   
   ```assembly
-  
   section .data
-  
     msg db 'Hello, World!', 0
-  
   section .text
-  
     global _start
-  
   _start:
-  
     ; write our string to stdout
-  
     mov eax, 4         ; system call for sys_write
-  
     mov ebx, 1         ; file descriptor 1 is stdout
-  
     mov ecx, msg       ; pointer to our message
-  
     mov edx, 13        ; length of our message
-  
     int 0x80           ; call kernel
-  
     ; exit program
-  
     mov eax, 1         ; system call for sys_exit
-  
     xor ebx, ebx       ; exit code 0
-  
     int 0x80           ; call kernel
-  
   ```
 - ### **Applications**
 - **Operating Systems**: Critical components of operating systems, such as kernels and device drivers, are often written in low-level languages.
-- **Embedded Systems**: Used in programming microcontrollers, sensors, and other embedded devices.
+- **Embedded Systems**: Used in programming #microcontrollers, #sensors, and other embedded devices.
 - **Real-Time Systems**: Suitable for applications that require precise timing and control.
-- **System Utilities**: Commonly used for creating utilities like debuggers and systems diagnostics tools.
+- **System Utilities**: Commonly used for creating utilities like #debuggers and systems diagnostics tools.
 - ### **Influence**
   
   Low-level languages have had a significant influence on the development of high-level languages, as they provide the foundational concepts related to computer architecture, memory management, and system-level programming. Knowledge of low-level languages is crucial for understanding how high-level languages work under the hood.
