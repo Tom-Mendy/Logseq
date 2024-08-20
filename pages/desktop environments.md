@@ -3,4 +3,5 @@
 - #XFCE
 - #I3
 - #Hyprland
+- #sway
 -
