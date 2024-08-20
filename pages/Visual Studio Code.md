@@ -1,7 +1,7 @@
 ### **History and Background**
 - **Developed by**: #Microsoft
 - **Initial Release**: April 29, 2015
-- **Platform**: Cross-platform (#Windows, #macOS, #Linux)
+- **Platform**: Cross-platform (#Windows, #macOS, #Linux )
 - **Purpose**: Visual Studio Code (VS Code) was developed to provide developers with a lightweight, yet powerful code editor that supports a wide range of programming languages and development tools.
 - ### **Key Features**
 - **Lightweight and Fast**: VS Code is designed to be a fast and lightweight code editor, providing a quick startup and minimal lag while coding.
