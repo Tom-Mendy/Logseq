@@ -25,7 +25,7 @@
   sudo apt-get upgrade
   ```
 - ### **Applications**
-- **Desktop Operating System**: Suitable for personal desktops with various #[[desktop environments]] like #GNOME, #KDE, and #XFCE.
+- **Desktop Operating System**: Suitable for personal desktops with various #[[desktop environments]] like #GNOME, #[[KDE Plasma]], and #XFCE.
 - **Servers**: Widely used for #[[web servers]], #[[database servers]], #[[file servers]], and more due to its robustness and security.
 - **Development**: Provides a stable environment for development and testing applications.
 - **Embedded Systems**: Used in embedded systems and #[[Internet of Things]] (IoT) devices due to its customizable nature.

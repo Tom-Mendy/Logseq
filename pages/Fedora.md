@@ -19,7 +19,7 @@
 - **Package Management**:
 	- **RPM**: The core package format, facilitating software installation.
 	- **DNF**: The modern package manager used for installing, updating, and removing packages.
-- **Desktop Environments**: Supports multiple desktop environments like GNOME, #KDE Plasma, #XFCE, and more. GNOME is the default for Fedora Workstation.
+- **Desktop Environments**: Supports multiple desktop environments like GNOME, #[[KDE Plasma]], #XFCE, and more. GNOME is the default for Fedora Workstation.
 - **Release Cycle**: Typically has a six-month release cycle, ensuring users have access to the latest software.
 - ### **Example Usage**
   

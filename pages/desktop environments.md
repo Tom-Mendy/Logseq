@@ -1,2 +1,6 @@
 - #GNOME
-- #KDE
+- #[[KDE Plasma]]
+- #XFCE
+- #I3
+- #Hyprland
+-
