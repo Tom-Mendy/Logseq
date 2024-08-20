@@ -5,7 +5,7 @@
 - **Purpose**: Created to be a completely free and open-source operating system, emphasizing stability and security.
 - ### **Key Features**
 - **Stability**: Debian is well-known for its stability. The software included in the stable release goes through extensive testing.
-- **Package Management**: Uses the Advanced Package Tool (APT) for software management, making it easy to install, update, and remove software packages.
+- **Package Management**: Uses the Advanced Package Tool (#APT ) for software management, making it easy to install, update, and remove software packages.
 - **Large Repository**: It has one of the largest collections of software packages, with over 50,000 available.
 - **Security**: Prioritizes security, with a dedicated team of security experts ensuring frequent updates and patches.
 - **Customizability**: Offers various configurations and supports multiple architectures, making it flexible for different uses.

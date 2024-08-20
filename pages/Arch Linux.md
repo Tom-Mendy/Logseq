@@ -15,7 +15,7 @@
 - ### **Basic Usage**
 - **Installation**: Arch Linux installation is command-line-based and more involved compared to other distributions. Users have to manually configure their system components, which provides a deep learning experience.
 - **Configuration**: Post-installation, users need to configure the system manually by editing configuration files, allowing complete control over the system.
-- **Package Management**: Pacman commands for package management, such as installing (`sudo pacman -S package_name`), updating (`sudo pacman -Syu`), and removing packages (`sudo pacman -R package_name`).
+- **Package Management**: #Pacman commands for package management, such as installing (`sudo pacman -S package_name`), updating (`sudo pacman -Syu`), and removing packages (`sudo pacman -R package_name`).
 - ### **Example Configuration**
   
   Here's a simple example of how to install a package and update the system using Pacman:

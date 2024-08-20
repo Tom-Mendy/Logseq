@@ -1,2 +1,5 @@
 - #cargo
+- #pacman
+- #apt
+- #dnf
 -
