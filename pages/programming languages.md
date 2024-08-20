@@ -44,7 +44,7 @@
 	- #Haskell: Known for its strong type system and purity.
 	- #Erlang: Used for concurrent and distributed systems.
 	- #Elixir: Built on the Erlang VM for scalable and fault-tolerant applications.
-	- #Fsharp: Functional-first language on the .NET platform.
+	- #[[F#]]: Functional-first language on the .NET platform.
 - Each language has its strengths and is often chosen based on specific requirements and use cases. The landscape of programming languages is also constantly evolving, with new languages and frameworks gaining popularity over time.
 -
 - **All Languages**
@@ -63,7 +63,7 @@
 - #Elixir
 - #Erlang
 - **F**
-- #Fsharp
+- #[[F#]]
 - **G**
 - #Go
 - **H**
