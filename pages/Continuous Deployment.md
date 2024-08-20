@@ -8,11 +8,11 @@
 - **Consistency**: Ensures that the deployment process is consistent across different environments, such as staging and production.
 - **Integration with CI**: Continuous Deployment typically builds on Continuous Integration by automatically deploying code that passes CI tests into production.
 - ### **Basic Workflow**
-- **Code Commit**: Developers make changes to the codebase and commit those changes to a shared repository.
+- **Code Commit**: Developers make changes to the #codebase and #commit those changes to a shared #repository.
 - **Automated Testing**: A Continuous Integration server automatically runs tests on the new code changes.
 - **Build**: The application is built and prepared for deployment if tests pass.
 - **Deployment**: The build is automatically deployed to a staging environment and, if it passes further tests and approvals, to a production environment.
-- **Monitoring**: After deployment, the application is monitored to ensure it performs as expected and to catch any issues early.
+- **Monitoring**: After deployment, the application is monitored to ensure it performs as expected and to catch any issues early. #monitoring
 - ### **Example Process**
   
   Here’s a simplified example of a Continuous Deployment pipeline:
