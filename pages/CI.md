@@ -1,10 +1,9 @@
-- Here's a brief overview of Continuous Integration (CI) using the same structure:
-- ### **History and Background**
+### **History and Background**
 - **Concept Developed by**: Kent Beck, originally with Extreme Programming (XP)
 - **Year**: Early 2000s
 - **Purpose**: To improve software quality and reduce the time it takes to deliver updates by frequently integrating code changes into a shared repository.
 - ### **Key Features**
-- **Frequent Code Integration**: Developers frequently commit code to a shared repository, minimizing merge conflicts and integration issues.
+- **Frequent Code Integration**: Developers frequently #commit code to a shared #repository, minimizing #merge-conflicts and #integration-issues.
 - **Automated Builds**: Each commit triggers an automated build to check if the application compiles and runs.
 - **Automated Testing**: Automated tests are executed on each build to catch bugs early in the development process.
 - **Immediate Feedback**: CI systems provide immediate feedback to developers, allowing them to fix issues as soon as they are introduced.
@@ -26,67 +25,36 @@
   Here's an example of setting up a simple CI pipeline in Jenkins:
   
   ```groovy
-  
   pipeline {
-  
     agent any
-  
     
-  
     stages {
-  
         stage('Build') {
-  
             steps {
-  
                 echo 'Building...'
-  
                 sh 'make'  // Assuming a Makefile is available
-  
             }
-  
         }
-  
         stage('Test') {
-  
             steps {
-  
                 echo 'Testing...'
-  
                 sh 'make test'  // Assuming 'make test' runs the test suite
-  
             }
-  
         }
-  
     }
-  
     post {
-  
         always {
-  
             echo 'Cleaning up...'
-  
             sh 'make clean'  // Clean up the build environment
-  
         }
-  
         success {
-  
             echo 'Build and tests succeeded!'
-  
         }
-  
         failure {
-  
             echo 'Build or tests failed!'
-  
         }
-  
     }
-  
   }
-  
   ```
 - ### **Applications**
 - **Software Development**: CI is widely used in software development to improve code quality and reduce integration problems.
