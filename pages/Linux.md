@@ -1,6 +1,6 @@
 - Sure, here is an overview of Linux using the same structured format:
 - ### **History and Background**
-- **Developed by**: Linus Torvalds, with contributions from thousands of developers worldwide.
+- **Developed by**: #[[Linus Torvalds]], with contributions from thousands of developers worldwide.
 - **Year**: 1991
 - **Location**: Helsinki, Finland (initial development), global community
 - **Purpose**: Initially created as a free and open-source alternative to MINIX, a UNIX-like operating system.
