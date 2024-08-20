@@ -8,7 +8,7 @@
 - **Embedded within HTML**: PHP code can be embedded directly into #HTML code, allowing for dynamic content generation.
 - **Extensive libraries**: PHP has numerous built-in functions and libraries that facilitate tasks such as database access, working with sessions, and sending/receiving cookies.
 - **Database integration**: PHP easily integrates with various databases like #MySQL, #PostgreSQL, #SQLite, and others.
-- **Cross-platform**: Runs on various platforms like #Windows, #Linux, and #macOS, and is supported by most web servers including Apache and Nginx.
+- **Cross-platform**: Runs on various platforms like #Windows, #Linux, and #macOS, and is supported by most web servers including #Apache and #Nginx.
 - **Dynamic and weakly typed**: Variables in PHP do not need to be declared with a data type, making it easy to write and modify scripts quickly.
 - ### **Basic Syntax**
 - **Structure**: PHP scripts can be embedded within HTML using `<?php ... ?>` tags. The `main` entry point is the script itself when executed by the server.
@@ -30,7 +30,7 @@
   ```
 - ### **Applications**
 - **Web Development**: PHP is widely used for developing full-featured websites and web applications.
-- **Content Management Systems**: Many popular CMS platforms (e.g., WordPress, Joomla, Drupal) are built using PHP.
+- **Content Management Systems**: Many popular CMS platforms (e.g., #WordPress, #Joomla, #Drupal ) are built using PHP.
 - **E-commerce**: E-commerce platforms like Magento and OpenCart utilize PHP.
 - **Server-side applications**: Backend services for mobile and web applications.
 - **APIs**: Development of RESTful APIs and backend services.
