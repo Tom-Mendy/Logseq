@@ -30,8 +30,8 @@
 - ### **Applications**
 - **Data Exchange**: Used for exchanging data between systems in web services like #SOAP and #REST APIs.
 - **Configuration Files**: Commonly used in configuration files for applications and software systems.
-- **Document Representation**: Formats like XHTML and Microsoft Office formats utilize XML for document representation.
-- **Metadata**: Used in RSS feeds, Atom feeds, and numerous other metadata standards.
+- **Document Representation**: Formats like #XHTML and #Microsoft-Office formats utilize XML for document representation.
+- **Metadata**: Used in #RSS feeds, Atom feeds, and numerous other metadata standards.
 - **Industry-specific Standards**: Widely adopted in healthcare (HL7), finance (FIX), and telecom (WSDL and SOAP) standards.
 - ### **Influence**
   

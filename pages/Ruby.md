@@ -21,9 +21,7 @@
   Here’s a simple example of a "Hello, World!" program in Ruby:
   
   ```ruby
-  
   puts 'Hello, World!'
-  
   ```
 - ### **Applications**
 - **Web Development**: Ruby is widely known for the Ruby on #Rails framework, which makes developing web applications more straightforward and faster.
