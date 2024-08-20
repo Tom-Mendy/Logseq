@@ -2,7 +2,7 @@
 - **Developed by**: Bill Joy
 - **Year**: 1976
 - **Location**: University of California, Berkeley, USA
-- **Purpose**: Created as a part of the Berkeley Software Distribution (BSD) to provide an efficient and feature-rich text editor for programmers.
+- **Purpose**: Created as a part of the Berkeley Software Distribution (BSD) to provide an efficient and feature-rich #[[text editor]] for programmers.
 - ### **Key Features**
 - **Modes**: `vi` operates mainly in two modes –
 	- **Normal Mode**: For navigating and manipulating text.
@@ -11,7 +11,7 @@
 - **Extensible functionalities**: Offers powerful commands for text editing and navigation.
 - **Customization**: Highly customizable using configuration files like `.vimrc`.
 - **Integration**: Easily integrates with various programming environments and tools.
-- **Portable**: Available and consistent across many Unix-based systems.
+- **Portable**: Available and consistent across many #Unix -based systems.
 - ### **Basic Syntax and Commands**
 - **Starting `vi`**: Open a file with `vi filename`.
 - **Switch to Insert Mode**: Press `i`.
@@ -51,7 +51,7 @@
 - **Development Environments**: Utilized by many developers for efficient coding due to its powerful feature set and speed.
 - ### **Influence**
   
-  `vi` has inspired numerous clones and variants, the most notable being Vim (`Vi IMproved`). It has a lasting impact on how text editors are designed and serves as a foundation for many editor tools and environments.
+  `vi` has inspired numerous clones and variants, the most notable being #Vim (`Vi IMproved`). It has a lasting impact on how text editors are designed and serves as a foundation for many editor tools and environments.
 - ### **Why Learn `vi`?**
 - **Efficiency**: Mastery of `vi` commands can greatly enhance productivity.
 - **Availability**: Pre-installed on almost all Unix-based systems.
