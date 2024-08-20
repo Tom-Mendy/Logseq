@@ -3,10 +3,10 @@
 - **Developed by**: Originally founded by Andy Rubin, Rich Miner, Nick Sears, and Chris White; later acquired by #Google.
 - **Year**: Announced in 2007; first commercial release in 2008.
 - **Location**: Originally developed by Android Inc. in Palo Alto, USA; development continued under Google.
-- **Purpose**: Designed as an #open-source operating system for mobile devices, including smartphones and tablets. Extensible to other embedded devices like smartwatches, TVs, and cars.
+- **Purpose**: Designed as an #open-source operating system for mobile devices, including #smartphones and #tablets. Extensible to other embedded devices like #smartwatches, #TVs, and #cars.
 - ### **Key Features**
-- **Open-source**: Android is released under the Android Open Source Project (AOSP), allowing developers to modify and distribute the software.
-- **Linux Kernel**: The OS is built on top of the Linux kernel, providing a robust and secure foundation.
+- **Open-source**: Android is released under the #[[Android Open Source Project]] (AOSP), allowing developers to modify and distribute the software.
+- **Linux Kernel**: The OS is built on top of the #[[Linux kernel]], providing a robust and secure foundation.
 - **App Ecosystem**: Supports a vast ecosystem of applications available through the Google Play Store and other sources.
 - **Customizability**: Manufacturers and developers can customize the user interface and functionality.
 - **Integration with Google Services**: Includes built-in support for various Google services such as Gmail, Google Maps, and Google Assistant.
