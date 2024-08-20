@@ -21,17 +21,11 @@
   Here’s a simple example of a "Hello, World!" program in Scala:
   
   ```scala
-  
   object HelloWorld {
-  
     def main(args: Array[String]): Unit = {
-  
         println("Hello, World!")
-  
     }
-  
   }
-  
   ```
 - ### **Applications**
 - **Big Data**: Scala is widely used in big data processing frameworks like Apache Spark.
@@ -40,7 +34,7 @@
 - **Distributed Systems**: Scala can be used to develop robust distributed systems.
 - ### **Influence**
   
-  Scala has influenced other languages and frameworks with its blend of functional and object-oriented programming, type inference, and pattern matching capabilities. It stands alongside Java and Kotlin as a major language for JVM-based development.
+  Scala has influenced other languages and frameworks with its blend of functional and object-oriented programming, type inference, and pattern matching capabilities. It stands alongside #Java and #Kotlin as a major language for JVM-based development.
 - ### **Why Learn Scala?**
 - **Combines Paradigms**: Scala blends object-oriented and functional programming, providing flexibility in how to approach problems.
 - **JVM Compatibility**: Leverage the vast ecosystem and libraries available in the Java platform.
