@@ -29,8 +29,8 @@
   ls -l
   ```
 - ### **Applications**
-- **Servers**: Web servers (e.g., #Apache, #Nginx), database servers (e.g., #MySQL, #PostgreSQL ), and more.
-- **Desktops**: Various Linux distributions (e.g., Ubuntu, Fedora, Debian) are popular choices for desktop computing.
+- **Servers**: Web servers (e.g., #Apache, #Nginx ), database servers (e.g., #MySQL, #PostgreSQL ), and more.
+- **Desktops**: Various #linux-distribution (e.g., Ubuntu, Fedora, Debian) are popular choices for desktop computing.
 - **Embedded Systems**: Used in IoT devices, routers, and other specialized hardware.
 - **Development**: Many developers use Linux for software development due to its powerful tools and compatibility with different programming languages.
 - **Supercomputing**: Linux is the most common operating system on supercomputers.
@@ -45,5 +45,5 @@
   Overall, Linux is an essential technology in many fields, offering robustness, flexibility, and a supportive community, making it a pivotal skill for IT professionals.
 -
 -
-- #linux-distribution
+-
 -
