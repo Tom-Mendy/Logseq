@@ -50,7 +50,7 @@
   
   Git has become the de facto standard for version control systems in software development. Its concepts and workflows have influenced numerous other tools and platforms, including GitHub, GitLab, and Bitbucket.
 - ### **Why Learn Git?**
-- **Industry Standard**: It's an industry-standard tool in software development and version control.
+- **Industry Standard**: It's an industry-standard tool in #[[software development]] and #[[version control]].
 - **Collaboration**: Essential for collaborative software projects.
 - **Career Advancement**: Knowledge of Git is often a required skill for many software development roles.
 - **Version Control Proficiency**: Understanding Git helps in mastering version control paradigms applicable in other environments.
