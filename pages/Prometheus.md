@@ -17,31 +17,22 @@
 - **Scrape Configurations**: Define how and what endpoints to scrape metrics from. 
   
   ```yaml
-  
   scrape_configs:
-  
     - job_name: 'example'
-  
       static_configs:
-  
         - targets: ['localhost:9090']
-  
   ```
 - **PromQL**: The Prometheus Query Language for extracting and working with metrics data. 
   
   ```promql
-  
   rate(http_requests_total[5m])
-  
   ```
 - ### **Example Query**
   
   Here’s an example of a basic PromQL query to get the rate of HTTP requests over the last 5 minutes:
   
   ```promql
-  
   rate(http_requests_total[5m])
-  
   ```
 - ### **Applications**
 - **Monitoring Infrastructure**: Tracks the performance and health of servers, databases, and other infrastructure components.
