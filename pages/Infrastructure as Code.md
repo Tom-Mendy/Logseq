@@ -5,7 +5,7 @@
 - **Purpose**: To automate the provisioning, configuration, and management of computing infrastructure using machine-readable definition files.
 - ### **Key Features**
 - **Automated and Repeatable**: IaC allows the automatic provisioning and configuration of infrastructure, which makes setups consistent and repeatable.
-- **Version Control**: Infrastructure code can be stored in version control systems just like application code, allowing teams to track changes and collaborate effectively.
+- **Version Control**: Infrastructure code can be stored in #[[version control systems]] just like application code, allowing teams to track changes and collaborate effectively.
 - **Scalability**: Facilitates scalable infrastructure management, as modifications to the infrastructure can be applied uniformly across large environments.
 - **Improved Efficiency**: Reduces the manual effort required in setting up servers, networks, and storage, which minimizes human error.
 - **Documented Infrastructure**: Provides a clear and executable documentation of infrastructure setups, making it easier to understand and manage.
@@ -32,9 +32,9 @@
 - **#[[DevOps]]**: Integrating with CI/CD pipelines to deploy applications in a consistent and reliable manner.
 - **Disaster Recovery**: Automating the setup of redundant systems for backup and recovery.
 - **Compliance**: Ensuring that infrastructure adheres to organizational and regulatory standards through code.
-- **Development Environments**: Quickly setting up and tearing down development and testing environments.
+- **#[[Development Environments]]**: Quickly setting up and tearing down development and testing environments.
 - ### **Influence**
-  IaC has significantly influenced the DevOps movement, promoting practices that automate and streamline infrastructure management. It has also driven adoption of cloud services and microservices architecture.
+  IaC has significantly influenced the DevOps movement, promoting practices that automate and streamline infrastructure management. It has also driven adoption of #[[cloud services]] and #microservices architecture.
 - ### **Why Learn IaC?**
 - **Modernization**: Critical skill for modern DevOps and cloud-native development.
 - **Efficiency**: Greatly improves deployment speed and reduces errors.
