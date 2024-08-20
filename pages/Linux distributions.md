@@ -1,6 +1,6 @@
 - #Debian
 	- #Ubuntu
-		- #Linux-Mint
+		- #[[Linux Mint]]
 		- #Pop-OS
 - #Fedora
 	- #Red-Hat-Linux
