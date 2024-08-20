@@ -33,7 +33,7 @@
 - **Databases**: Many popular databases (e.g., #MySQL ) are implemented in C.
 - **Networking**: C is widely used in developing network protocols and tools.
 - ### **Influence**
-  C has influenced many other popular programming languages, including #C++, #Csharp , #Objective-C, #Java, and #Python. It remains a fundamental language in computer science education and is essential for understanding the workings of computers and operating systems.
+  C has influenced many other popular programming languages, including #C++, #C# , #Objective-C, #Java, and #Python. It remains a fundamental language in computer science education and is essential for understanding the workings of computers and operating systems.
 - ### **Why Learn C?**
 - **Foundation**: Learning C provides a strong foundation for understanding more complex languages and concepts.
 - **Performance**: C is still one of the fastest programming languages.

@@ -31,7 +31,7 @@
 	- #Lua: Often used for scripting in game engines.
 - ### Enterprise and Backend Development
 	- #Java: Widely used in enterprise environments and large-scale systems.
-	- #Csharp : Popular for enterprise applications, especially within the Microsoft ecosystem.
+	- #C# : Popular for enterprise applications, especially within the Microsoft ecosystem.
 	- #Scala: Used for scalable applications and big data processing (often with Apache Spark).
 	- #Go: Increasingly popular for backend systems and microservices.
 	- #Python: Also used for backend development, especially in startups and web development ecosystems.
@@ -55,7 +55,7 @@
 - **C**
 - #C
 - #C++
-- #Csharp
+- #C#
 - #CSS
 - **D**
 - #Dart
