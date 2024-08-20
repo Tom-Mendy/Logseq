@@ -31,9 +31,9 @@
 - ### **Applications**
 - **Microservices Architecture**: Containers are ideal for deploying #microservices.
 - **Development and Testing**: Containers provide consistent development, testing, and production environments.
-- **DevOps and CI/CD**: Containers are central to modern DevOps practices and Continuous Integration/Continuous Deployment (CI/CD) #pipelines.
-- **Cloud-Native Applications**: Many cloud services are designed to run and manage containerized applications.
-- **Legacy Application Migration**: Containers can help modernize legacy applications by encapsulating them in a consistent runtime environment.
+- **DevOps and CI/CD**: Containers are central to modern #DevOps practices and #[[Continuous Integration]] / #[[Continuous Deployment]] (CI/CD) #pipelines.
+- **Cloud-Native Applications**: Many cloud services are designed to run and manage #[[containerized applications]].
+- **Legacy Application Migration**: Containers can help modernize legacy applications by encapsulating them in a consistent #[[runtime environment]].
 - ### **Influence**
   
   Containers have transformed software development and deployment processes. They have influenced various technologies and are foundational to cloud-native computing.
