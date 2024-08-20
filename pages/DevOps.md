@@ -6,7 +6,7 @@
 - ### **Key Features**
 - **Collaboration and Communication**: DevOps promotes a culture of collaboration between teams to foster efficiency and transparency.
 - **Automation**: End-to-end automation of the software development, testing, and deployment processes to reduce errors and increase speed.
-- **Continuous Integration and Continuous Deployment (CI/CD)**: Practices that enable frequent and reliable code changes by integrating code into a shared repository multiple times a day and automating the deployment process. #CI/CD
+- **Continuous Integration and Continuous Deployment (CI/CD)**: Practices that enable frequent and reliable code changes by integrating code into a shared repository multiple times a day and automating the deployment process. #[[Continuous Integration/CD]]
 - **Monitoring and Logging**: Continuous #monitoring of applications and infrastructure to ensure optimal performance and quick problem resolution.
 - **Infrastructure as Code (IaC)**: Managing and provisioning computing infrastructure through machine-readable configuration files rather than physical hardware configuration or interactive configuration tools. #Iac
 - ### **Basic Concepts**
