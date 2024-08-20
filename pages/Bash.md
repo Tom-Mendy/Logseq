@@ -18,13 +18,9 @@
 - **Functions**: Functions can be defined for reuse, using the syntax:
   
   ```sh
-  
   function_name() {
-  
       commands
-  
   }
-  
   ```
 - ### **Example Code**
   
