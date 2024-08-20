@@ -24,8 +24,8 @@
 - ### **Applications**
 - **Desktop Use**: Ideal for personal computers, education, and office use.
 - **Servers**: Widely used for web servers, file servers, and database servers.
-- **Cloud Computing**: Supports cloud services and is a common choice for virtual machine and container instances.
-- **Development**: A preferred platform for developers due to its extensive tool and library support.
+- **Cloud Computing**: Supports #[[cloud services]] and is a common choice for #[[virtual machine]] and #[[container instances]].
+- **Development**: A preferred platform for #developers due to its extensive tool and library support.
 - ### **Influence**
   
   Ubuntu has had a significant impact on the Linux ecosystem, inspiring various derivative distributions such as Linux Mint and elementary OS. Its ease of use has helped popularize Linux among a broader audience.
