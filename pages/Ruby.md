@@ -26,14 +26,14 @@
   
   ```
 - ### **Applications**
-- **Web Development**: Ruby is widely known for the Ruby on Rails framework, which makes developing web applications more straightforward and faster.
+- **Web Development**: Ruby is widely known for the Ruby on #Rails framework, which makes developing web applications more straightforward and faster.
 - **Automation and Scripting**: Ruby is great for writing scripts to automate repetitive tasks.
 - **Prototyping**: Due to its ease of use and fast development cycle, Ruby is ideal for prototyping and proof-of-concept work.
 - **Data Processing**: Ruby can be used for processing and analyzing data.
-- **DevOps**: Ruby is often used in configuration management and deployment automation tools like Chef and Puppet.
+- **DevOps**: Ruby is often used in configuration management and deployment automation tools like #Chef and #Puppet .
 - ### **Influence**
   
-  Ruby has inspired various other languages and frameworks, most notably Ruby on Rails, which has influenced web development practices in other languages. Ruby's focus on developer happiness has had a lasting impact on the programming community.
+  Ruby has inspired various other languages and frameworks, most notably Ruby on #Rails, which has influenced web development practices in other languages. Ruby's focus on developer happiness has had a lasting impact on the programming community.
 - ### **Why Learn Ruby?**
 - **Easy to Learn**: Ruby’s syntax and conventions are designed to be easy to understand and write.
 - **Productivity**: Ruby allows for rapid application development and prototyping.
