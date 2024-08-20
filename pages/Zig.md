@@ -39,7 +39,7 @@
   
   Although relatively new, Zig is influenced by and designed to improve upon languages like #C and #C++. It aims to offer a modern alternative for systems programming, with enhanced safety and developer productivity.
 - ### **Why Learn Zig?**
-- **Safety and Performance**: Combines the performance of #low-level-languages like #C with additional safety features.
+- **Safety and Performance**: Combines the performance of #[[Low-Level Languages]] like #C with additional safety features.
 - **Compile-Time Execution**: Unique features like compile-time code execution can lead to highly optimized and flexible code.
 - **Modern Syntax**: Provides a more modern and readable syntax compared to older systems languages.
 - **Tooling and Community**: Offers modern tooling, including a built-in #package-manager and an active community of developers.
