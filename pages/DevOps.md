@@ -19,21 +19,21 @@
   
   Here’s a simple example of a DevOps toolchain for a CI/CD pipeline:
   
-  1. **Version Control**: Git
+  1. **Version Control**: #Git
   
-  2. **Build Automation**: Jenkins
+  2. **Build Automation**: #Jenkins
   
-  3. **Testing**: Selenium, JUnit
+  3. **Testing**: #Selenium, #JUnit
   
-  4. **Containerization**: Docker
+  4. **Containerization**: #Docker, #Podman 
   
-  5. **Configuration Management**: Ansible
+  5. **Configuration Management**: #Ansible
   
-  6. **Deployment**: Kubernetes
+  6. **Deployment**: #Kubernetes
   
-  7. **Monitoring**: Prometheus, Grafana
+  7. **Monitoring**: #Prometheus, #Grafana
   
-  8. **Logging**: Elasticsearch, Logstash, Kibana (ELK Stack)
+  8. **Logging**: #Elasticsearch, #Logstash, #Kibana (ELK Stack)
 - ### **Applications**
 - **Software Development**: Automating the software development lifecycle for faster and more reliable releases.
 - **IT Operations**: Managing and maintaining IT infrastructure with improved efficiency.
