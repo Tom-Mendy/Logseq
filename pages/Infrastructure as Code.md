@@ -29,7 +29,7 @@
   ```
 - ### **Applications**
 - **Cloud Infrastructure**: Managing cloud resources such as virtual machines, databases, and networking components.
-- **DevOps**: Integrating with CI/CD pipelines to deploy applications in a consistent and reliable manner.
+- **#[[DevOps]]**: Integrating with CI/CD pipelines to deploy applications in a consistent and reliable manner.
 - **Disaster Recovery**: Automating the setup of redundant systems for backup and recovery.
 - **Compliance**: Ensuring that infrastructure adheres to organizational and regulatory standards through code.
 - **Development Environments**: Quickly setting up and tearing down development and testing environments.
