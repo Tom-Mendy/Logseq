@@ -48,12 +48,12 @@
 - **Continuous Deployment**: Deploying applications automatically after each successful build and test cycle.
 - **Monitoring**: Integrating with tools to #monitor the health and performance of builds.
 - **Reporting**: Generating and visualizing test and build reports.
-- **DevOps Integration**: Facilitating #DevOps practices by integrating with various tools like #Docker, Kubernetes, and cloud services (#AWS, #Azure, #GCP ).
+- **DevOps Integration**: Facilitating #DevOps practices by integrating with various tools like #Docker, #Kubernetes, and #cloud-services (#AWS, #Azure, #GCP ).
 - ### **Influence**
   
-  Jenkins has set the standard for CI/CD tools and has influenced many other tools and services in the DevOps space, such as CircleCI, GitLab CI, and Travis CI. Its plugin architecture has inspired modularity and extensibility in other software solutions.
+  Jenkins has set the standard for CI/CD tools and has influenced many other tools and services in the DevOps space, such as #CircleCI, #GitLab-CI, and #Travis-CI. Its plugin architecture has inspired modularity and extensibility in other software solutions.
 - ### **Why Use Jenkins?**
-- **Open-Source**: Jenkins is free and open-source, with a large and active community supporting it.
+- **Open-Source**: Jenkins is free and #open-source, with a large and active community supporting it.
 - **Mature Platform**: It has been in use for many years, making it a stable and robust CI/CD solution.
 - **Flexibility**: With its extensive plugin ecosystem, Jenkins can be customized to fit nearly any CI/CD workflow.
 - **Scalability**: Supports large-scale deployments with the capability to handle thousands of jobs and agents.
