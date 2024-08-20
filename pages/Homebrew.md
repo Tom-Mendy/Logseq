@@ -9,8 +9,8 @@
 - **Flexibility**: It allows users to install software that is not available through traditional app stores or default repositories.
 - **Extensible**: Users can create their own "formulae" to install custom software.
 - **Community-Driven**: Contributions from a large community ensure that a wide variety of software is available and up-to-date.
-- **Portability**: Originally designed for macOS, Homebrew also supports Linux and Windows Subsystem for Linux (WSL).
-- **Efficient**: Homebrew performs software installation, updates, and removal operations efficiently with simple commands.
+- **Portability**: Originally designed for #macOS, Homebrew also supports #Linux and #[[Windows Subsystem for Linux]] (WSL).
+- **Efficient**: Homebrew performs software installation, updates, and removal operations efficiently with simple commands. #package-manager
 - ### **Basic Commands**
 - **Installation**: The core Homebrew system can be installed with a single command.
 - **Formulae and Casks**: Homebrew uses "formulae" to manage binary packages and "casks" to manage GUI-based applications.
@@ -23,19 +23,12 @@
   Here’s a simple example of how to use Homebrew to install Python:
   
   ```sh
-  
   # Open your terminal and install Homebrew (if not already installed)
-  
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-  
   # Once Homebrew is installed, use it to install Python
-  
   brew install python
-  
   # Verify the installation
-  
   python3 --version
-  
   ```
 - ### **Applications**
 - **Software Development**: Install and manage development tools, libraries, and languages.
