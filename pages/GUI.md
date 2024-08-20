@@ -18,29 +18,20 @@
 - **Toolbars**: Sets of buttons and icons that provide quick access to commonly used features.
 - ### **Example Code**
   
-  Here’s a simple example of a GUI application using Python and the Tkinter library to create a window with a button:
+  Here’s a simple example of a GUI application using Python and the Tkinter library to create a #window with a #button:
   
   ```python
-  
   import tkinter as tk
-  
   def on_button_click():
-  
     print("Button clicked!")
-  
   root = tk.Tk()
-  
   root.title("Simple GUI")
-  
   button = tk.Button(root, text="Click Me!", command=on_button_click)
-  
   button.pack()
-  
   root.mainloop()
-  
   ```
 - ### **Applications**
-- **Operating Systems**: Modern operating systems like Windows, macOS, and many Linux distributions use GUIs as their primary user interface.
+- **Operating Systems**: Modern operating systems like #Windows, #macOS, and many #[[Linux distributions]] use GUIs as their primary user interface.
 - **Office Suites**: Applications like Microsoft Office and LibreOffice provide a GUI for document creation, spreadsheet management, and presentations.
 - **Design and Multimedia**: Software such as Adobe Photoshop, Illustrator, and video editing tools heavily rely on GUIs.
 - **Games**: Many computer and mobile games use sophisticated GUIs to enhance user experience.
