@@ -8,7 +8,7 @@
 - **Automated Testing**: Automated tests are executed on each build to catch bugs early in the development process.
 - **Immediate Feedback**: CI systems provide immediate feedback to developers, allowing them to fix issues as soon as they are introduced.
 - **Continuous Delivery**: Extending CI, Continuous Delivery (CD) ensures that code changes are automatically prepared for a release to production.
-- **Version Control**: CI relies on version control systems like Git to manage and track code changes.
+- **Version Control**: CI relies on version control systems like #Git to manage and track code changes.
 - ### **Basic Workflow**
   
   1. **Code Commit**: Developers write code and commit it to the version control repository frequently.
@@ -59,11 +59,11 @@
 - ### **Applications**
 - **Software Development**: CI is widely used in software development to improve code quality and reduce integration problems.
 - **Team Collaboration**: Enhances collaboration by integrating work from multiple developers efficiently.
-- **DevOps**: CI is a key part of DevOps practices, aiding in continuous delivery and deployment processes.
+- **DevOps**: CI is a key part of #DevOps practices, aiding in continuous delivery and deployment processes.
 - **Open Source Projects**: CI tools are often used in open source projects to ensure code quality and maintainability.
 - ### **Influence**
   
-  CI has significantly influenced the way software is developed and released, leading to practices like Continuous Deployment and DevOps. Tools like Jenkins, Travis CI, CircleCI, and GitHub Actions have made CI essential in modern software development workflows.
+  CI has significantly influenced the way software is developed and released, leading to practices like Continuous Deployment and DevOps. Tools like #Jenkins, #Travis-CI, #CircleCI, and #GitHub-Actions have made CI essential in modern software development workflows.
 - ### **Why Implement CI?**
 - **Improved Code Quality**: CI helps catch bugs early, improving overall code quality.
 - **Reduced Integration Issues**: Frequent integrations mean fewer merge conflicts and easier integration.
