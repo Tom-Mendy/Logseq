@@ -7,7 +7,7 @@
 - **Declarative Language**: Puppet uses a declarative language, allowing users to define the desired state of the system rather than listing procedural steps.
 - **Model-Driven Design**: Puppet constructs a model of the desired state of each system and enforces this model across multiple systems.
 - **Idempotency**: Puppet ensures that applying the same set of configurations multiple times has the same effect as applying it once, eliminating unintended consequences.
-- **Cross-Platform**: Puppet supports various operating systems, including Linux, Unix, Windows, and MacOS.
+- **Cross-Platform**: Puppet supports various operating systems, including #Linux, #Unix, #Windows, and #MacOS.
 - **Extensible**: New modules can be created or existing ones can be expanded to include custom configurations and resources.
 - ### **Basic Syntax**
 - **Manifest Structure**: Puppet configurations are written in manifests, usually with the `.pp` extension.
@@ -18,27 +18,18 @@
   Here’s a simple example of a Puppet manifest that installs Apache and ensures the service is running:
   
   ```puppet
-  
   class { 'apache':
-  
   ensure => 'present',
-  
   }
-  
   service { 'apache2':
-  
   ensure => 'running',
-  
   enable => true,
-  
   require => Package['apache'],
-  
   }
-  
   ```
 - ### **Applications**
 - **Systems Administration**: Ensuring consistent configurations across servers, automating software installations, and managing system resources.
-- **DevOps**: Integrating with continuous deployment and continuous integration pipelines for automated environment setups.
+- **DevOps**: Integrating with #[[continuous deployment]] and [[continuous integration]] pipelines for automated environment setups.
 - **Infrastructure as Code**: Defining infrastructure resources in code, allowing for version control and automation.
 - **Compliance Management**: Ensuring that systems adhere to security and compliance standards.
 - ### **Influence**
