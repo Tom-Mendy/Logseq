@@ -35,7 +35,7 @@
 - **Office Suites**: Applications like Microsoft Office and LibreOffice provide a GUI for document creation, spreadsheet management, and presentations.
 - **Design and Multimedia**: Software such as Adobe Photoshop, Illustrator, and video editing tools heavily rely on GUIs.
 - **Games**: Many computer and mobile games use sophisticated GUIs to enhance user experience.
-- **Web Applications**: Web-based applications often feature intricate GUIs built with HTML, CSS, and JavaScript frameworks.
+- **Web Applications**: Web-based applications often feature intricate GUIs built with #HTML, #CSS, and #[[JavaScript frameworks]].
 - ### **Influence**
   
   GUIs have revolutionized computer use, making it accessible to a broader audience. They have influenced numerous fields, from personal computing to professional software development. They have also led to the development of various GUI frameworks and libraries.
