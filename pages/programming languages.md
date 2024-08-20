@@ -27,7 +27,7 @@
 	- #Assembly: Used for the most performance-critical tasks.
 - ### Game Development
 	- #C++: Widely used for game engines and high-performance gaming applications.
-	- #Csharp: Preferred for game development with the Unity engine.
+	- #C: Preferred for game development with the Unity engine.
 	- #Lua: Often used for scripting in game engines.
 - ### Enterprise and Backend Development
 	- #Java: Widely used in enterprise environments and large-scale systems.

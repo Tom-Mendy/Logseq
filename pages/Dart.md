@@ -19,13 +19,9 @@
   Here’s a simple example of a "Hello, World!" program in Dart:
   
   ```dart
-  
   void main() {
-  
     print('Hello, World!');
-  
   }
-  
   ```
 - ### **Applications**
 - **Mobile Apps**: Dart is the primary language for Flutter, which is used to create #cross-platform mobile applications.
