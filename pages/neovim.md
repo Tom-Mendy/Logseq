@@ -5,7 +5,7 @@
 - **Improved User Interface**: Neovim separates the UI from the core editor, allowing for external #GUI front-ends. This modular approach provides flexibility in how the editor is used and displayed.
 - **Modern Terminal Features**: Neovim can be used as a terminal multiplexer, similar to tmux, allowing you to manage multiple terminal sessions within the editor.
 - **Built-In Language Server Protocol (LSP) Support**: Neovim has built-in support for the #[[Language Server Protocol]], enabling advanced code completion, linting, and other #IDE-like features.
-- **Compatibility with Vim**: Neovim is almost entirely compatible with Vim, meaning most Vim scripts and configurations will work in Neovim without modification.
+- **Compatibility with Vim**: Neovim is almost entirely compatible with Vim, meaning most #[[Vim scripts]] and configurations will work in Neovim without modification.
 - ### Why Choose Neovim?
 - **Customization**: Neovim allows for deep customization, enabling users to tailor the editor to their exact needs.
 - **Performance**: The asynchronous nature and Lua-based scripting offer significant performance improvements over Vim.
