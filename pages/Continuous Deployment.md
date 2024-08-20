@@ -17,11 +17,11 @@
   
   Here’s a simplified example of a Continuous Deployment pipeline:
   
-  1. **Developer Commit**: A developer commits code to a version control system like Git.
+  1. **Developer Commit**: A developer commits code to a version control system like #Git.
   
   2. **CI Server**: A CI server (e.g., Jenkins, Travis CI) detects the commit and runs automated tests.
   
-  3. **Build Creation**: If tests pass, the CI server packages the application into a build artifact (e.g., Docker container, JAR file).
+  3. **Build Creation**: If tests pass, the CI server packages the application into a build-artifact (e.g., Docker container, JAR file).
   
   4. **Automated Deployment**: The build artifact is deployed to a staging server using a deployment tool (e.g., Kubernetes, AWS CodeDeploy).
   
