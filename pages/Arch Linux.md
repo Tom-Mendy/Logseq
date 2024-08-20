@@ -6,9 +6,9 @@
 - **Location**: Canada
 - **Purpose**: Designed to be a simple, lightweight, and flexible Linux distribution that follows the KISS (Keep It Simple, Stupid) principle.
 - ### **Key Features**
-- **Rolling Release Model**: Arch Linux uses a rolling release system, meaning that users always have access to the latest software updates without needing to upgrade to a new version.
+- **Rolling Release Model**: Arch Linux uses a #[[rolling release system]], meaning that users always have access to the latest software updates without needing to upgrade to a new version.
 - **Pacman Package Manager**: Pacman is Arch's package management utility that tracks and manages software packages and dependencies with ease.
-- **AUR (Arch User Repository)**: A community-driven repository that provides thousands of user-contributed packages. It complements the official repositories by providing more software.
+- **AUR (Arch User Repository)**: A community-driven #repository that provides thousands of user-contributed packages. It complements the official repositories by providing more software.
 - **Customizability**: Arch provides a minimal base system that the user can customize by installing only the software they need.
 - **Documentation**: The Arch Wiki is known for its comprehensive and high-quality documentation. It is a valuable resource for both Arch users and the wider Linux community.
 - **Community**: Supported by an active and enthusiastic community, providing extensive support through forums and IRC channels.
@@ -35,7 +35,7 @@
 - **Learning Tool**: Valuable for users who want to learn more about Linux internals and the configuration process.
 - ### **Influence**
   
-  Arch Linux has inspired several other distributions, most notably Manjaro and Antergos, which aim to provide more user-friendly experiences while retaining the advantages of Arch.
+  Arch Linux has inspired several other distributions, most notably #Manjaro and #Antergos, which aim to provide more user-friendly experiences while retaining the advantages of Arch.
 - ### **Why Use Arch Linux?**
 - **Control**: Provides granular control over the system, allowing users to customize their operating systems to their exact needs.
 - **Learning**: Great for users who want to deepen their understanding of Linux.
