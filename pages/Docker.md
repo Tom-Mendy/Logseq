@@ -66,5 +66,3 @@
 - **Adoption**: Docker is widely adopted in industry, making it a valuable skill for software professionals.
   
   Overall, Docker continues to be a game-changer in the world of software development and deployment, promoting efficiency, consistency, and scalability.
-  
-  By following this structure, you get a comprehensive introduction to Docker, similar to how we outlined the C programming language.
