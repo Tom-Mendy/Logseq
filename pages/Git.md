@@ -48,7 +48,7 @@
 - **Documentation**: Version control for collaborative documentation efforts.
 - ### **Influence**
   
-  Git has become the de facto standard for version control systems in software development. Its concepts and workflows have influenced numerous other tools and platforms, including #GitHub, #GitLab, and #Bitbucket .
+  Git has become the de facto standard for #[[version control systems]] in software development. Its concepts and workflows have influenced numerous other tools and platforms, including #GitHub, #GitLab, and #Bitbucket .
 - ### **Why Learn Git?**
 - **Industry Standard**: It's an industry-standard tool in #[[software development]] and #[[version control]].
 - **Collaboration**: Essential for collaborative software projects.

@@ -11,7 +11,7 @@
 - **#[[Infrastructure as Code]] (IaC)**: Managing and provisioning computing infrastructure through machine-readable configuration files rather than physical hardware configuration or interactive configuration tools.
 - ### **Basic Concepts**
 - **Pipeline**: A set of automated processes through which code moves from development to production.
-- **Version Control Systems (VCS)**: Used for tracking changes in source code during software development (e.g., #Git ). #VCS
+- **#[[Version Control Systems]] (VCS)**: Used for tracking changes in source code during software development (e.g., #Git ).
 - **Build Automation**: The process of automating the creation of a software build and associated processes such as compiling code, running tests, and deploying to production (e.g., #Jenkins, #Travis-CI).
 - **Containerization**: A lightweight form of virtualization that packages an application and its dependencies into a container (e.g., #Docker, #Podman ).
 - **Configuration Management**: Managing software and hardware configurations systematically (e.g., #Ansible, #Puppet, #Chef ).
