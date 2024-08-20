@@ -2,6 +2,8 @@
 	- #Ubuntu
 		- #[[Linux Mint]]
 		- #Pop-OS
+		- rhino Linux
+	- Vanilla
 - #Fedora
 	- #Red-Hat-Linux
 - #Open-SUSE
