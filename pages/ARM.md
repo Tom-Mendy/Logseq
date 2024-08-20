@@ -33,7 +33,7 @@
     svc         0               @ make syscall
   ```
 - ### **Applications**
-- **Mobile Devices**: Widely used in smartphones and tablets (e.g., iPhone, iPad).
+- **Mobile Devices**: Widely used in #smartphones and #tablets (e.g., #iPhone, #iPad).
 - **Embedded Systems**: Microcontrollers and embedded systems, including automotive, medical devices, and consumer electronics.
 - **Wearables**: Smartwatches and fitness trackers.
 - **Networking and Storage**: Routers, switches, NAS devices.
