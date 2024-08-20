@@ -41,25 +41,21 @@
   
   JavaScript frameworks have drawn architectural inspiration from other frameworks and languages and continue to evolve. They influence each other and evolve rapidly to incorporate modern web development best practices.
 - ### **Popular Frameworks**
-  
-  1. **React**:
-	- Developed by Facebook
-	- Used for building user interfaces
-	- Component-based architecture with a strong ecosystem
-	- 2. **Angular**:
+	- 1. **#[[React]]**:
+		- Developed by Facebook
+		- Used for building user interfaces
+		- Component-based architecture with a strong ecosystem
+	- 2. **#Angular**:
 		- Developed by Google
 		- Full-featured framework with two-way data binding and dependency injection
-		  
-		  3. **Vue.js**:
+	- 3. **Vue.js**:
 		- Developed by Evan You
 		- Progressive framework for building UIs
 		- Combines features from React and Angular with simplicity
-		  
-		  4. **Ember.js**:
+	- 4. **Ember.js**:
 		- Convention-over-configuration approach
 		- Strong routing and state management solutions
-		  
-		  5. **Svelte**:
+	- 5. **Svelte**:
 		- A compiler that converts declarative components into efficient JavaScript
 		- No virtual DOM overhead
 - ### **Why Learn JavaScript Frameworks?**
