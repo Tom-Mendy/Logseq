@@ -5,7 +5,7 @@
 - #Fedora
 	- #Red-Hat-Linux
 - #Open-SUSE
-- #Arch
+- #[[Arch Linux]]
 	- #Manjaro
 - #Nixos
 - #Gentoo
