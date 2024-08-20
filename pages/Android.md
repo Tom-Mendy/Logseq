@@ -1,5 +1,4 @@
-- Here's a structured overview of "Android":
-- ### **History and Background**
+### **History and Background**
 - **Developed by**: Originally founded by Andy Rubin, Rich Miner, Nick Sears, and Chris White; later acquired by #Google.
 - **Year**: Announced in 2007; first commercial release in 2008.
 - **Location**: Originally developed by Android Inc. in Palo Alto, USA; development continued under Google.
@@ -18,9 +17,9 @@
 - **Content Provider**: Manages access to a structured set of data.
 - ### **Development Tools**
 - **#[[Android Studio]]**: The official integrated development environment (IDE) for Android development.
-- **Kotlin & #[[Java]]**: Primary programming languages used for Android development.
-- **XML**: Used for designing user interface layouts.
-- **Android SDK**: Software development kit that provides the necessary tools to develop Android applications.
+- **[[Kotlin]] & #[[Java]]**: Primary programming languages used for Android development.
+- **#[[XML]]**: Used for designing user interface layouts.
+- **#[[Android SDK]]**: Software development kit that provides the necessary tools to develop Android applications.
 - **AVD (Android Virtual Device)**: Emulator for testing Android applications.
 - ### **Example Code**
   

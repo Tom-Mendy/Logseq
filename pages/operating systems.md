@@ -1,7 +1,7 @@
 - #Windows
 - #Linux
 - #UNIX
-- #android
+- #Android
 - #ChromeOS
 - #IPadOS
 - #macOS
