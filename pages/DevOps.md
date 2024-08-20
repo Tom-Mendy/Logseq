@@ -8,13 +8,13 @@
 - **Automation**: End-to-end automation of the software development, testing, and deployment processes to reduce errors and increase speed.
 - **Continuous Integration and Continuous Deployment (CI/CD)**: Practices that enable frequent and reliable code changes by integrating code into a shared repository multiple times a day and automating the deployment process. #CI/CD
 - **Monitoring and Logging**: Continuous #monitoring of applications and infrastructure to ensure optimal performance and quick problem resolution.
-- **Infrastructure as Code (IaC)**: Managing and provisioning computing infrastructure through machine-readable configuration files rather than physical hardware configuration or interactive configuration tools. Iac
+- **Infrastructure as Code (IaC)**: Managing and provisioning computing infrastructure through machine-readable configuration files rather than physical hardware configuration or interactive configuration tools. #Iac
 - ### **Basic Concepts**
 - **Pipeline**: A set of automated processes through which code moves from development to production.
-- **Version Control Systems (VCS)**: Used for tracking changes in source code during software development (e.g., Git).
-- **Build Automation**: The process of automating the creation of a software build and associated processes such as compiling code, running tests, and deploying to production (e.g., Jenkins, Travis CI).
-- **Containerization**: A lightweight form of virtualization that packages an application and its dependencies into a container (e.g., Docker).
-- **Configuration Management**: Managing software and hardware configurations systematically (e.g., Ansible, Puppet, Chef).
+- **Version Control Systems (VCS)**: Used for tracking changes in source code during software development (e.g., #Git ). #VCS
+- **Build Automation**: The process of automating the creation of a software build and associated processes such as compiling code, running tests, and deploying to production (e.g., #Jenkins, #Travis-CI).
+- **Containerization**: A lightweight form of virtualization that packages an application and its dependencies into a container (e.g., #Docker, #Podman ).
+- **Configuration Management**: Managing software and hardware configurations systematically (e.g., #Ansible, #Puppet, #Chef).
 - ### **Example Toolchain**
   
   Here’s a simple example of a DevOps toolchain for a CI/CD pipeline:
