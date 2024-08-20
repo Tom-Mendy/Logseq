@@ -12,11 +12,11 @@
 - **Secret and Configuration Management**: Manages sensitive information without exposing it in application code.
 - ### **Basic Components and Syntax**
 - **Pods**: The smallest deployable units in Kubernetes, which contain one or more containers.
-- **Services**: Abstracts a set of pods and provides a stable endpoint for them.
+- **Services**: Abstracts a set of #pods and provides a stable endpoint for them.
 - **Deployments**: Manages the deployment and scaling of pods.
 - **Namespaces**: Provides a mechanism to divide cluster resources between multiple users.
 - **ConfigMaps and Secrets**: Manage configuration data and sensitive information respectively.
-- **YAML Files**: Kubernetes configurations are often written in YAML (Yet Another Markup Language) files.
+- **YAML Files**: Kubernetes configurations are often written in #YAML (Yet Another Markup Language) files.
 - ### **Basic Example**
   
   Here’s a simple example of a Kubernetes Deployment and Service for a "Hello, World!" application:
@@ -59,7 +59,7 @@
   ```
 - ### **Applications**
 - **Microservices Architecture**: Deploying, scaling, and managing microservices.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Automating the build, test, and deployment processes.
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Automating the build, test, and deployment processes. #CI/CD
 - **Scalable Web Applications**: Running scalable and distributed web applications and services.
 - **Hybrid Cloud and Multi-Cloud Deployments**: Managing deployments across multiple cloud providers and on-prem environments.
 - **Big Data and AI/ML Workloads**: Running data-intensive workloads such as big data processing and AI/ML pipelines.
