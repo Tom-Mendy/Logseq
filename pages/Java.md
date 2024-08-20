@@ -5,7 +5,7 @@
 - **Purpose**: Initially created as part of the Green Project to develop software for consumer electronics, but it later evolved into a language for general-purpose application development.
 - ### **Key Features**
 - **Object-Oriented**: Java is primarily an #object-oriented language, which promotes code reuse, modularity, and scalability.
-- **Platform Independence**: Java code is #compiled into bytecode, which can run on any device with a Java Virtual Machine (JVM). This "write once, run anywhere" capability is one of Java's hallmark features.
+- **Platform Independence**: Java code is #compiled into bytecode, which can run on any device with a Java Virtual Machine (#JVM ). This "write once, run anywhere" capability is one of Java's hallmark features.
 - **Automatic Memory Management**: Java handles memory allocation and deallocation automatically through garbage collection, reducing the likelihood of memory leaks and other related errors.
 - **Rich Standard Library**: Java comes with an extensive standard library (Java API), which provides ready-made solutions for tasks like networking, data structures, graphical user interfaces (GUIs), and more.
 - **Multithreading Support**: Java has built-in support for multithreading, allowing programs to perform multiple tasks simultaneously.
