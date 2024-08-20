@@ -33,7 +33,7 @@
 - **Web APIs**: JSON is extensively used in #RESTful APIs to transmit data between a server and a client.
 - **Configuration Files**: Applications often use JSON for configuration due to its simplicity.
 - **Serialization**: Many programming languages use JSON for serializing objects into strings and deserializing objects from strings.
-- **Data Storage**: Lightweight databases and storage engines (e.g., #MongoDB) use JSON or similar formats for storing data.
+- **Data Storage**: Lightweight databases and storage engines (e.g., #MongoDB ) use JSON or similar formats for storing data.
 - ### **Influence**
 - **XML**: JSON has largely replaced #XML in many applications due to its simplicity.
 - **YAML**: Like JSON, #YAML is another human-readable data format that has been influenced by the need for simpler data interchange formats.
