@@ -4,10 +4,10 @@
 - **Predecessors**: Classic Mac OS (1984-2001), NeXTSTEP (an OS developed by NeXT, a company founded by Steve Jobs)
 - **Foundation**: Built on the Unix-based NeXTSTEP and influenced by the classic Mac OS.
 - ### **Key Features**
-- **Unix-based Architecture**: macOS is built on a Unix foundation, providing robust performance, security, and command-line utilities.
+- **Unix-based Architecture**: macOS is built on a #Unix foundation, providing robust performance, security, and command-line utilities.
 - **Aqua User Interface (UI)**: Known for its visually appealing and intuitive graphical user interface.
-- **Integration with Apple Ecosystem**: Seamlessly integrates with other Apple devices and services like iPhone, iPad, Apple Watch, iCloud, and more.
-- **Core Technologies**: Includes powerful frameworks such as Metal (graphics and compute API), Core ML (machine learning), and Swift (programming language).
+- **Integration with Apple Ecosystem**: Seamlessly integrates with other Apple devices and services like #iPhone, #iPad, #[[Apple Watch]], #iCloud, and more.
+- **Core Technologies**: Includes powerful frameworks such as #Metal (graphics and compute API), Core ML (machine learning), and Swift (programming language).
 - **Security**: Features state-of-the-art security measures including Gatekeeper, XProtect, FileVault encryption, and System Integrity Protection.
 - **App Store**: Provides a centralized location for discovering, purchasing, and updating apps specifically for macOS.
 - ### **Basic Elements**
