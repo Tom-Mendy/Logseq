@@ -29,7 +29,7 @@
   
   CLI concepts have influenced modern technologies like:
 - **#[[Integrated Development Environments]] (IDEs)**: Many include integrated terminals for CLI access.
-- **DevOps and Continuous Integration**: Rely on CLI tools for build automation and deployment.
+- **#[[DevOps]] and #[[Continuous Integration]]**: Rely on CLI tools for build automation and deployment.
 - **Cloud Computing**: Services from #AWS, #Azure, and #[[Google Cloud]] often include powerful CLIs for resource management.
 - ### **Why Use CLI?**
 - **Precision**: Allows fine-grained control over operating systems and software applications.
