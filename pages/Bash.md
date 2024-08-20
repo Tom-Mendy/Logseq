@@ -2,7 +2,7 @@
 - **Developed by**: Brian Fox (original version), later maintained by Chet Ramey
 - **Year**: 1989 (first release)
 - **Location**: Free Software Foundation (GNU Project)
-- **Purpose**: Bash (Bourne Again SHell) was developed as a free software replacement for the Bourne shell (`sh`), to provide a more feature-complete #shell for #UNIX-like systems.
+- **Purpose**: Bash (Bourne Again SHell) was developed as a free software replacement for the Bourne shell (`sh`), to provide a more feature-complete #shell for #UNIX -like systems.
 - ### **Key Features**
 - **Command-line interface**: Bash provides a powerful command-line interface for interacting with #[[operating systems]] .
 - **Scripting**: It allows the automation of tasks through shell scripts.
@@ -47,7 +47,7 @@
   
   Bash has influenced numerous other shell languages and scripting environments. Its scripting capabilities and command-line interface patterns are utilized in many modern development and deployment pipelines, making it a staple in the world of #DevOps and system administration.
 - ### **Why Learn Bash?**
-- **Ubiquity**: Bash is installed by default on most #UNIX-like systems, including #Linux and #macOS.
+- **Ubiquity**: Bash is installed by default on most #UNIX -like systems, including #Linux and #macOS.
 - **Automation**: Knowledge of Bash scripting can save time through automation of repetitive tasks.
 - **System Control**: It provides powerful tools to manage and troubleshoot systems efficiently.
 - **Integration**: Bash scripts can be used to integrate various tools and applications, creating seamless workflows.
