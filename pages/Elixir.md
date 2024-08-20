@@ -37,9 +37,9 @@
   
   ```
 - ### **Applications**
-- **Web Development**: The Phoenix framework, built on Elixir, is a popular choice for building scalable real-time web applications.
+- **Web Development**: The #Phoenix-framework, built on Elixir, is a popular choice for building scalable real-time web applications.
 - **Embedded Systems**: Nerves project leverages Elixir for building reliable embedded systems.
-- **Messaging Systems**: Platforms like WhatsApp use the underlying Erlang/Elixir technologies for handling large-scale messaging requirements.
+- **Messaging Systems**: Platforms like #WhatsApp use the underlying #Erlang / #Elixir technologies for handling large-scale messaging requirements.
 - **Distributed Systems**: Ideal for developing complex distributed applications, exploiting the concurrency features.
 - **Data Processing**: Suitable for concurrent data processing tasks, handling large volumes of data efficiently.
 - ### **Influence**
