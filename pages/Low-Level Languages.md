@@ -4,7 +4,7 @@
 - **Use Case**: Initially developed to provide direct control over hardware, making them essential for writing #[[operating systems]], #[[compilers]], and other #[[system software]].
 - ### **Key Features**
 - **Direct Hardware Manipulation**: Low-level languages allow direct control over system hardware, including memory and processor instructions.
-- **Minimal Abstraction**: These languages provide little or no abstraction from the hardware, allowing the programmer to write instructions that the CPU can execute directly.
+- **Minimal Abstraction**: These languages provide little or no abstraction from the hardware, allowing the programmer to write instructions that the #CPU can execute directly.
 - **High Performance**: Code written in low-level languages tends to be highly efficient because it is optimized for the hardware.
 - **Machine-Specific**: They are often specific to a type of processor or computer architecture.
 - ### **Basic Syntax**
@@ -13,7 +13,7 @@
 - **Registers and Memory Access**: Programmers work directly with CPU registers and memory addresses.
 - ### **Example Code**
   
-  Here’s an example of an assembly language code snippet, which is considered a low-level language:
+  Here’s an example of an #assembly language code snippet, which is considered a low-level language:
   
   ```assembly
   section .data
