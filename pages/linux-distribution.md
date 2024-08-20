@@ -1,0 +1,12 @@
+- #Debian
+	- #Ubuntu
+		- #Linux-Mint
+		- #Pop-OS
+- #Fedora
+	- #Red-hat
+- #Open-SUSE
+- #Arch
+	- #Manjaro
+- #Nixos
+- #Gentoo
+-

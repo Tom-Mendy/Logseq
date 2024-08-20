@@ -1,0 +1,110 @@
+- Here's a list of commonly used programming languages categorized by their primary use cases:
+- ### Web Development
+	- #JavaScript: Predominant in client-side (and increasingly, server-side) web development.
+	- #HTML / #CSS: Essential for web content and design.
+	- #PHP: Widely used for server-side scripting.
+	- #Ruby: Known for the Ruby on Rails framework.
+	- #Python: Used in web frameworks like Django and Flask.
+	- #TypeScript: A superset of JavaScript, providing static typing.
+- ### Mobile App Development
+	- #Swift: Preferred language for iOS development.
+	- #Objective-C Legacy language for iOS development.
+	- #Kotlin: Main language for Android development, officially supported by Google.
+	- #Java: Widely used for Android development.
+	- #Dart: Used with the Flutter framework for cross-platform mobile development.
+- ### Data Science and Machine Learning
+	- #Python: Leading language due to libraries like NumPy, pandas, TensorFlow, and scikit-learn.
+	- #R: Specialized for statistics and data analysis.
+	- #Julia: Gaining traction for numerical and scientific computing.
+	- #MATLAB: Often used in academic and research settings.
+- ### Systems Programming
+	- #C: A foundational language for system software and hardware interfaces.
+	- #C++: Used for performance-critical applications and systems programming.
+	- #Rust: Gaining popularity due to its focus on safety and performance.
+- ### Embedded Systems
+	- #C: Dominant due to its low-level hardware interaction capabilities.
+	- #C++: Used for resource-constrained environments and real-time systems.
+	- #Assembly: Used for the most performance-critical tasks.
+- ### Game Development
+	- #C++: Widely used for game engines and high-performance gaming applications.
+	- #Csharp: Preferred for game development with the Unity engine.
+	- #Lua: Often used for scripting in game engines.
+- ### Enterprise and Backend Development
+	- #Java: Widely used in enterprise environments and large-scale systems.
+	- #Csharp : Popular for enterprise applications, especially within the Microsoft ecosystem.
+	- #Scala: Used for scalable applications and big data processing (often with Apache Spark).
+	- #Go: Increasingly popular for backend systems and microservices.
+	- #Python: Also used for backend development, especially in startups and web development ecosystems.
+- ### Scripting and Automation
+	- #Python: Widely adopted for its readability and extensive library support.
+	- #Bash / #Shell: Used for scripting in Unix/Linux environments.
+	- #Perl: Known for text-processing capabilities.
+	- #PowerShell: Used for automation in Windows environments.
+- ### Functional Programming
+	- #Haskell: Known for its strong type system and purity.
+	- #Erlang: Used for concurrent and distributed systems.
+	- #Elixir: Built on the Erlang VM for scalable and fault-tolerant applications.
+	- #Fsharp: Functional-first language on the .NET platform.
+- Each language has its strengths and is often chosen based on specific requirements and use cases. The landscape of programming languages is also constantly evolving, with new languages and frameworks gaining popularity over time.
+-
+- **All Languages**
+- **A**
+- #Assembly
+- **B**
+- #Bash
+- **C**
+- #C
+- #C++
+- #Csharp
+- #CSS
+- **D**
+- #Dart
+- **E**
+- #Elixir
+- #Erlang
+- **F**
+- #Fsharp
+- **G**
+- #Go
+- **H**
+- #Haskell
+- #HTML
+- **I**
+- **J**
+- #Java
+- #JavaScript
+- #Julia
+- **K**
+- #Kotlin
+- **L**
+- #Lua
+- **M**
+- #MATLAB
+- **N**
+- **O**
+- #Objective-C
+- #OCamel
+- **P**
+- #Perl
+- #PHP
+- #PowerShell
+- #Python
+- **Q**
+- **R**
+- #R
+- #Ruby
+- #Rust
+- **S**
+- #Scala
+- #Shell
+- #Swift
+- **T**
+- #TypeScript
+- **U**
+- **V**
+- **W**
+- **X**
+- **Y**
+- **Z**
+- #Zig
+-

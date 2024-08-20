@@ -1,0 +1,5 @@
+- **Vim** is a highly configurable text editor built to enable efficient text editing. It's an improved version of the older Unix editor "Vi." Vim is designed for use both from a command-line interface (CLI) and as a standalone application in a graphical user interface (GUI). It's known for its powerful features, such as:
+- **Modal Editing:** Vim operates in different modes, primarily Normal, Insert, and Visual, allowing for efficient text manipulation.
+- **Customizability:** Vim can be extensively customized with plugins, scripts, and configurations to tailor it to the user's needs.
+- **Keyboard-Centric**: Vim emphasizes keyboard shortcuts and commands over mouse-based navigation, making it popular among programmers and power users who value speed.
+- Vim is widely used for programming, scripting, and any task involving text manipulation. Despite its steep learning curve, it remains a favorite among many developers due to its flexibility and power.
