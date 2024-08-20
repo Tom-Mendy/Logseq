@@ -2,7 +2,7 @@
 - ### **JavaScript Frameworks**
 - ### **History and Background**
 - **JavaScript**: Developed by Brendan Eich in 1995 while working at Netscape Communications Corporation.
-- **Purpose**: Initially created to provide dynamic behavior on web pages, JavaScript has evolved significantly to support a wide range of applications, including server-side programming.
+- **Purpose**: Initially created to provide dynamic behavior on web pages, #JavaScript has evolved significantly to support a wide range of applications, including server-side programming.
 - ### **Key Features (of JavaScript frameworks)**
 - **Component-Based Architecture**: Many modern JavaScript frameworks use a component-based architecture, which promotes reusable and modular code.
 - **State Management**: Sophisticated state management techniques to handle the complexity of application state.
@@ -45,17 +45,17 @@
 		- Developed by Facebook
 		- Used for building user interfaces
 		- Component-based architecture with a strong ecosystem
-	- 2. **#Angular**:
+	- 2. **#[[Angular]]**:
 		- Developed by Google
 		- Full-featured framework with two-way data binding and dependency injection
-	- 3. **Vue.js**:
+	- 3. **#[[Vue.js]]**:
 		- Developed by Evan You
 		- Progressive framework for building UIs
 		- Combines features from React and Angular with simplicity
-	- 4. **Ember.js**:
+	- 4. **#[[Ember.js]]**:
 		- Convention-over-configuration approach
 		- Strong routing and state management solutions
-	- 5. **Svelte**:
+	- 5. **#[[Svelte]]**:
 		- A compiler that converts declarative components into efficient JavaScript
 		- No virtual DOM overhead
 - ### **Why Learn JavaScript Frameworks?**
