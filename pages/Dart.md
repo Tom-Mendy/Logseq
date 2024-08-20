@@ -28,9 +28,9 @@
   
   ```
 - ### **Applications**
-- **Mobile Apps**: Dart is the primary language for Flutter, which is used to create cross-platform mobile applications.
-- **Web Apps**: Dart can compile to JavaScript, allowing Dart-based web applications.
-- **Desktop Apps**: With Flutter, Dart is also used to develop desktop applications for Windows, macOS, and Linux.
+- **Mobile Apps**: Dart is the primary language for Flutter, which is used to create #cross-platform mobile applications.
+- **Web Apps**: Dart can compile to #JavaScript, allowing Dart-based web applications.
+- **Desktop Apps**: With Flutter, Dart is also used to develop desktop applications for #Windows, #macOS, and #Linux.
 - **Server-side**: Dart can be used for server-side development with tools like Dart Frog.
 - ### **Influence**
   
