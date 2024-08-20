@@ -1,12 +1,12 @@
 ### **History and Background**
-- **Developed by**: Red Hat
+- **Developed by**: #Red-Hat
 - **Birth Year**: 2018
-- **Purpose**: Podman was created as an open-source, daemonless, and rootless container engine aimed at improving container security and ease of use.
+- **Purpose**: Podman was created as an #open-source, daemonless, and rootless #container-engine aimed at improving container security and ease of use.
 - ### **Key Features**
-- **Daemonless Architecture**: Unlike Docker, which relies on a daemon, Podman operates without a central daemon, reducing potential security vulnerabilities.
+- **Daemonless Architecture**: Unlike #Docker, which relies on a #daemon, Podman operates without a central daemon, reducing potential security vulnerabilities.
 - **Rootless Containers**: Podman allows running containers as a non-root user, improving system security.
-- **Compatibility with Docker**: Podman is compatible with Docker CLI commands, enabling an easy transition for Docker users.
-- **Pods**: Inspired by Kubernetes, Podman introduces the concept of pods, grouping together multiple containers that share resources.
+- **Compatibility with Docker**: Podman is compatible with #Docker-CLI commands, enabling an easy transition for Docker users.
+- **Pods**: Inspired by #Kubernetes, Podman introduces the concept of pods, grouping together multiple containers that share resources.
 - **Integrated with Systemd**: Podman can integrate with Systemd to manage container lifecycle more efficiently.
 - ### **Basic Syntax**
 - **Podman Command**: The primary command is `podman`, followed by various subcommands to manage containers.
