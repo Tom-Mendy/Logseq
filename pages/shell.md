@@ -24,11 +24,11 @@
   echo "Hello, World!"
   ```
 - ### **Applications**
-- **System Administration**: Automating backups, system updates, and user management.
-- **Data Analysis**: Processing large datasets and automating reporting.
-- **DevOps**: Continuous integration and deployment pipelines, managing environments, and provisioning servers.
-- **Scripting Tasks**: Automating repetitive tasks, file manipulations, and software builds.
-- **Monitoring**: Setting up system health checks, logging, and alerting scripts.
+- **#[[System Administration]]**: Automating backups, system updates, and user management.
+- **#[[Data Analysis]]**: Processing large datasets and automating reporting.
+- **#[[DevOps]]**: #[[Continuous integration]] and deployment pipelines, managing environments, and provisioning servers.
+- **#[[Scripting Tasks]]**: Automating repetitive tasks, file manipulations, and software builds.
+- **#[[Monitoring]]**: Setting up system health checks, logging, and alerting scripts.
 - ### **Influence**
   
   Shell scripting has influenced many other scripting languages and automation tools, including #PowerShell (Windows) and other Unix-like interpreters (Z shell, Korn shell). Its close integration with Unix systems makes it foundational for many Unix-based operational environments.
