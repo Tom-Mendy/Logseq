@@ -1,7 +1,7 @@
 ### **History and Background**
 - **Developed by**: The Debian Project
 - **Year**: 1998
-- **Location**: Originated as part of the Debian GNU/Linux project.
+- **Location**: Originated as part of the #Debian GNU/Linux project.
 - **Purpose**: Designed to simplify the process of managing software packages on Debian-based systems.
 - ### **Key Features**
 - **Dependency Resolution**: `apt` automatically handles dependencies, ensuring that all required packages are installed or updated.
