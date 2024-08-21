@@ -1,4 +1,4 @@
-- [[Zsh]] is a powerful and versatile [[shell]] designed for interactive use, although it is also a scripting language. Here’s a brief overview:
+- [[Z Shell]] is a powerful and versatile [[shell]] designed for interactive use, although it is also a scripting language. Here’s a brief overview:
 - ### **History and Background**
 - **Developed by**: Paul Falstad
 - **Year**: 1990
