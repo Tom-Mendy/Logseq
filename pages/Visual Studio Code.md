@@ -50,6 +50,6 @@
 - ### **Why Use Visual Studio Code?**
 - **Cross-Platform**: Works across all major operating systems, ensuring a consistent development experience.
 - **Community and Support**: Backed by a robust ecosystem with frequent updates and a plethora of available extensions.
-- **Productivity**: Numerous features that help in boosting productivity, such as code navigation, refactoring, and integrated Git.
+- **Productivity**: Numerous features that help in boosting productivity, such as code navigation, refactoring, and integrated [[Git]].
   
-  Overall, Visual Studio Code continues to gain popularity and becomes an essential tool for developers in various domains due to its versatility, ease of use, and powerful features.
+  Overall, [[Visual Studio Code]] continues to gain popularity and becomes an essential tool for [[developers]] in various domains due to its versatility, ease of use, and powerful features.

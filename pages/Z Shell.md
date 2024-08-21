@@ -34,14 +34,15 @@
 - ### **Applications**
 - **Interactive Shell**: Used as an interactive shell for daily use by developers and system administrators.
 - **Scripting**: For writing [[shell]] scripts that automate tasks on [[[[Unix]]-like]] [[operating systems]].
-- **Customization and Theming**: Heavy usage in creating customized and theme-rich development environments.
+- **Customization and Theming**: Heavy usage in creating customized and theme-rich [[Development Environments]].
 - ### **Influence**
   
-  Zsh has influenced several other shells and tools, particularly in the way it integrates features for enhanced productivity and interactive use. Its plugin-oriented architecture has set a precedent for extending shell capabilities through modular components.
+  Zsh has influenced several other shells and tools, particularly in the way it integrates features for enhanced productivity and interactive use. Its plugin-oriented architecture has set a precedent for extending [[shell]] capabilities through modular components.
 - ### **Why Use Zsh?**
 - **User-Friendly**: Highly enhanced interactive features make it user-friendly, especially for new users.
 - **Customization**: Allows extensive customization, making it adaptable to a wide range of use cases.
 - **Productivity**: Features aimed at increasing productivity, such as auto-completion, spell correction, and command history.
 - **Powerful Plugins**: Leverage community-driven plugins to add new and exciting features.
   
-  Overall, Zsh is a powerful and flexible shell that enhances the experience of interactive shell usage and scripting. Its rich feature set and customization options make it a favorite among many developers and power users.
+  Overall, Zsh is a powerful and flexible [[shell]] that enhances the experience of interactive [[shell]] usage and scripting. Its rich feature set and customization options make it a favorite among many [[developers]] and [[power users]].
+-
