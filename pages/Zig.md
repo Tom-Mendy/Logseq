@@ -3,7 +3,7 @@
 - **Year**: 2015
 - **Purpose**: Designed for systems programming with an emphasis on safety, performance, and simplicity.
 - ### **Key Features**
-- **Memory Safety**: Zig provides safe memory handling without a #garbage-collector, helping to avoid common bugs like null pointer dereferences and buffer overflows.
+- **Memory Safety**: Zig provides safe memory handling without a #[[garbage collector]], helping to avoid common bugs like null pointer dereferences and buffer overflows.
 - **Manual Memory Management**: Allows explicit control of memory, similar to #C, but with added safety checks.
 - **Built-in Error Handling**: Includes a built-in approach to error handling with `try`, `catch`, and error unions.
 - **Comptime (Compile-Time) Code Execution**: Enables the execution of code at compile time, including generating optimized code paths and performing complex calculations.
@@ -32,7 +32,7 @@
   ```
 - ### **Applications**
 - **Systems Programming**: Similar to #C, Zig is well-suited for #[[operating systems]], #embedded-systems, and real-time applications.
-- **Game Development**: Due to its performance and low-level capabilities, Zig is used in #game-engine.
+- **Game Development**: Due to its performance and low-level capabilities, Zig is used in #[[game engine]].
 - **Tooling and Compilers**: Zig itself comes with its own compiler written in Zig, and the language is useful for writing various developer tools.
 - **Networking**: Zig is effective in developing network protocols and high-performance network servers.
 - ### **Influence**
