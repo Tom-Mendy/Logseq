@@ -1,6 +1,6 @@
 ### **Nix - Overview**
 
-Nix is a powerful #[[package manager]] for #Linux and other #Unix systems that takes a unique approach to package management and #[[system configuration]]. Here’s a brief overview:
+[[Nix]] is a powerful #[[package manager]] for #Linux and other #Unix systems that takes a unique approach to package management and #[[system configuration]]. Here’s a brief overview:
 - ### **History and Background**
 - **Developed by**: Eelco Dolstra
 - **Year**: 2003
