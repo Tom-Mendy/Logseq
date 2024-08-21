@@ -6,7 +6,7 @@
 - ### **Key Features**
 - **Infrastructure as Code (IaC)**: Chef uses a coding approach to manage infrastructure, making it flexible, repeatable, and versionable.
 - **Idempotency**: Chef ensures that your configuration converges to the desired state, irrespective of the current state.
-- **Multiple Platforms**: Supports many platforms, including Unix-based systems (Linux, macOS) and Windows.
+- **Multiple Platforms**: Supports many platforms, including Unix-based systems (#Linux, #macOS ) and #Windows.
 - **Cookbooks and Recipes**: Organizational structures used to define and manage configurations.
 - **Community Support**: Large and active community contributing to a wealth of resources and pre-built cookbooks.
 - **Extensible with Custom Resources**: Users can define custom resources to manage unique requirements.
