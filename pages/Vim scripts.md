@@ -17,7 +17,7 @@
 - **Functions**: Functions in [[Vim]] script are defined using the `function` keyword and can be called with positional parameters.
 - ### **Example Code**
   
-  Here’s a simple example of a Vim script that defines a function to greet the user:
+  Here’s a simple example of a [[Vim]] script that defines a function to greet the user:
   
   ```vim
   function! GreetUser(name) 
@@ -32,11 +32,12 @@
 - **Editor Configuration**: Configuring settings and key mappings to enhance the text editing experience.
 - ### **Influence**
   
-  Vim scripts heavily influence the ecosystem of Vim editors, leading to a vibrant community-driven development of numerous plugins and configurations. They inspired scripting in other text editors and IDEs.
+  [[Vim scripts]] heavily influence the ecosystem of [[Vim]] editors, leading to a vibrant community-driven development of numerous plugins and configurations. They inspired scripting in other [[text editors]] and IDEs.
 - ### **Why Learn Vim Scripts?**
 - **Enhanced Productivity**: Automate routine tasks and customize your editing environment to improve workflow efficiency.
-- **Deep Customization**: Gain the ability to deeply customize Vim, tailoring it to your specific needs and preferences.
+- **Deep Customization**: Gain the ability to deeply customize [[Vim]], tailoring it to your specific needs and preferences.
 - **Community and Plugins**: Join a large community and contribute to or benefit from a vast collection of available plugins.
-- **Skill Development**: Learning Vim scripts can improve your understanding of scripting and text manipulation in other contexts.
+- **Skill Development**: Learning [[Vim scripts]] can improve your understanding of scripting and text manipulation in other contexts.
   
-  Overall, Vim scripts provide a powerful way to enhance and extend the functionality of one of the most popular text editors in the world, making it easier to tailor the editing experience to individual needs.
+  Overall, [[Vim scripts]] provide a powerful way to enhance and extend the functionality of one of the most popular [[text editors]] in the world, making it easier to tailor the editing experience to individual needs.
+-
