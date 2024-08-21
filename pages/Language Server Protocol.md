@@ -69,12 +69,12 @@
 - ### **Influence**
   
   LSP has influenced the development of various language tools and protocols:
-- **DAP (Debug Adapter Protocol)**: Standardizes communication for debugging features.
-- **Tree-sitter**: Provides incremental parsing for syntax highlighting and code analysis, integrating with LSP.
+- **DAP ([[Debug Adapter Protocol]])**: Standardizes communication for debugging features.
+- **[[Tree-sitter]]**: Provides incremental parsing for syntax highlighting and code analysis, integrating with LSP.
 - **Adoption in Multiple Tools**: The protocol's adoption has led to a more unified development experience and consistency across different tools and languages.
 - ### **Why Learn LSP?**
 - **Standardization**: Understanding LSP allows developers to create more consistent and reusable tools.
 - **Integration**: Helps in integrating new languages and tools into existing editors and IDEs.
 - **Efficiency**: Promotes efficiency by reducing the need for multiple implementations of the same feature for different editors.
   
-  Overall, the Language Server Protocol has become an essential component in modern software development, enabling better tool support and language feature implementations across various code editors and IDEs.
+  Overall, the [[Language Server Protocol]] has become an essential component in modern [[software development]], enabling better tool support and language feature implementations across various code editors and IDEs.
