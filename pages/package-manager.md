@@ -1,14 +1,15 @@
-- #cargo
-- #pacman
-- #apt
-- #dnf
-- Nix
+- [[pacman]]
+- [[apt]]
+- [[dnf]]
+- [[Nix]]
 - #flathub
 - #snapack
-- #yum
-- #zypper
+- [[yum]]
+- zypper
 - [[winget]]
+-
 - [[Composer]]
 - [[npm]]
 - [[pip]]
 - [[maven]]
+- [[cargo]]
