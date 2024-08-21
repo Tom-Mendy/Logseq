@@ -39,7 +39,7 @@
   
   4. **Run Code**: Use the integrated terminal to compile and run the program.
 - ### **Applications**
-- **Web Development**: Supports a variety of [[web development]] frameworks and libraries, including [[React]], [[Angular]], and [[Vue]].
+- **Web Development**: Supports a variety of [[web development]] frameworks and libraries, including [[React]], [[Angular]], and [[Vue.js]] .
 - **Python Development**: Extensively used for [[Python]] scripting with special support for Django and [[Flask]].
 - **Node.js Development**: Comes with built-in support for Node.js, making it easy to create and manage Node.js applications.
 - **Data Science**: Often used for data analysis and manipulation with [[Jupyter Notebooks]] extensions.
@@ -52,4 +52,4 @@
 - **Community and Support**: Backed by a robust ecosystem with frequent updates and a plethora of available extensions.
 - **Productivity**: Numerous features that help in boosting productivity, such as code navigation, refactoring, and integrated [[Git]].
   
-  Overall, [[Visual Studio Code]] continues to gain popularity and becomes an essential tool for [[developers]] in various domains due to its versatility, ease of use, and powerful features.
+  Overall, [[[[Visual Studio]] Code]] continues to gain popularity and becomes an essential tool for [[developers]] in various domains due to its versatility, ease of use, and powerful features.

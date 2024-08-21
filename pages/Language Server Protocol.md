@@ -63,7 +63,7 @@
   }
   ```
 - ### **Applications**
-- **Code Editors and IDEs**: Widely used in editors like [[Visual Studio Code]], [[Sublime Text]], [[Neovim]] and [[Atom]] to provide language features like autocomplete, go-to-definition, and error highlighting.
+- **Code Editors and IDEs**: Widely used in editors like [[[[Visual Studio]] Code]], [[Sublime Text]], [[Neovim]] and [[Atom]] to provide language features like autocomplete, go-to-definition, and error highlighting.
 - **Language Servers**: Many language servers implement LSP to provide language-specific features for various editors.
 - **Cross-Platform Development**: Facilitates the development of consistent language tools across different platforms and editors.
 - ### **Influence**

@@ -25,7 +25,7 @@
   
   ```
 - ### **Applications**
-- **Web Development**: JavaScript is the de facto language for #front-end development (e.g., frameworks like #React, #Vue, #Angular ) and also widely used in #back-end development (e.g., #Node.js ).
+- **Web Development**: [[JavaScript]] is the de facto language for #front-end development (e.g., frameworks like #React, #Vue.js, #Angular ) and also widely used in #back-end development (e.g., #Node.js ).
 - **Mobile Development**: JavaScript frameworks like #React-Native allow for building native mobile applications.
 - **Server-Side Programming**: With environments like #Node.js, JavaScript is used extensively for building servers and APIs.
 - **Desktop Applications**: Frameworks like #Electron enable the development of #cross-platform desktop applications.

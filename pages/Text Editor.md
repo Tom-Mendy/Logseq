@@ -3,7 +3,7 @@
 - [[vi]]
 - #nano
 - #emacs
-- #[[Visual Studio Code]]
+- #[[[[Visual Studio]] Code]]
 - #Visual-Studio
 - #zed
 - #xcode

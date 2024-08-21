@@ -10,7 +10,7 @@
 - **Standardization**: The #[[Open Container Initiative]] (OCI) defines industry standards for container formats and runtimes, ensuring compatibility across different platforms.
 - ### **Basic Syntax**
 - **Structure**: A container typically starts from an image that contains everything needed to run a piece of software.
-- **Dockerfile**: Defines the steps to build a container image, including the base image, application code, and any dependencies.
+- **Dockerfile**: Defines the steps to build a [[container]] image, including the base image, application code, and any dependencies.
 - **Commands**: Common commands include `docker build` to create an image, `docker run` to start a container, and `docker-compose` for managing multi-container applications.
 - ### **Example Code**
   
