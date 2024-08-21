@@ -15,7 +15,7 @@
 - **Shell**: The command-line interface (CLI) that allows users to interact with the system.
 - **File System**: Supports a wide range of file systems like ext4, Btrfs, XFS, and more, ensuring efficient file management and storage.
 - **System Libraries**: Collections of functions that programs can use to interact with the system, such as the GNU C Library (`glibc`).
-- **Utilities**: Essential software tools for performing standard tasks like file manipulation, program execution, and system administration.
+- **Utilities**: Essential software tools for performing standard tasks like file manipulation, program execution, and #[[system administration]].
 - ### **Basic Commands**
 - **Navigation**: `ls` (list directory contents), `cd` (change directory), `pwd` (print working directory).
 - **File Operations**: `cp` (copy file), `mv` (move/rename file), `rm` (remove file), `touch` (create an empty file).

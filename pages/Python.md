@@ -24,7 +24,7 @@
 - ### **Applications**
 - **Web Development**: Python is widely used in web development, with popular frameworks like Django and Flask.
 - **Data Science and Machine Learning**: Python is the language of choice for data science, with libraries like NumPy, Pandas, TensorFlow, and Scikit-learn.
-- **Automation and Scripting**: Python is commonly used for writing scripts to automate tasks such as file management, web scraping, and system administration.
+- **Automation and Scripting**: Python is commonly used for writing scripts to automate tasks such as file management, #[[web scraping]], and #[[system administration]].
 - **Software Development**: Python is used in creating standalone software applications, including games, GUI-based applications, and more.
 - **Networking**: Python has libraries like `socket` and `asyncio` for building networking applications and protocols.
 - **Education**: Python’s simplicity makes it an ideal language for beginners, and it's widely used in teaching programming and computer science.

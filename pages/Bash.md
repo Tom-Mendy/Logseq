@@ -31,7 +31,7 @@
   echo "Hello, World!"
   ```
 - ### **Applications**
-- **System Administration**: Automating routine and complex administrative tasks on #UNIX / #Linux systems.
+- **#[[System Administration]]**: Automating routine and complex administrative tasks on #UNIX / #Linux systems.
 - **Software Development**: Facilitating build processes, continuous integration, and release scripts.
 - **Data Processing**: Manipulating and analyzing text and data files through pipelines and filter commands.
 - **Task Automation**: Automating repetitive tasks like backups, file organization, and system monitoring.
