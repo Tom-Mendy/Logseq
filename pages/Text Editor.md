@@ -1,5 +1,5 @@
-- #vim
-- #neovim
+- [[vim]]
+- #Neovim
 - #vi
 - #nano
 - #emacs
@@ -8,4 +8,5 @@
 - #zed
 - #xcode
 - #eclipse
--
+- #Atom
+- #[[Sublime Text]]
