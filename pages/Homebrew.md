@@ -10,7 +10,7 @@
 - **Extensible**: Users can create their own "formulae" to install custom software.
 - **Community-Driven**: Contributions from a large community ensure that a wide variety of software is available and up-to-date.
 - **Portability**: Originally designed for #macOS, Homebrew also supports #Linux and #[[Windows Subsystem for Linux]] (WSL).
-- **Efficient**: Homebrew performs software installation, updates, and removal operations efficiently with simple commands. #package-manager
+- **Efficient**: Homebrew performs software installation, updates, and removal operations efficiently with simple commands. #[[package manager]]
 - ### **Basic Commands**
 - **Installation**: The core Homebrew system can be installed with a single command.
 - **Formulae and Casks**: Homebrew uses "formulae" to manage binary packages and "casks" to manage GUI-based applications.

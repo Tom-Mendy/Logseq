@@ -85,9 +85,9 @@
 - #Objective-C
 - #OCamel
 - **P**
-- #Perl
-- #PHP
-- #PowerShell
+- [[Perl]]
+- [[PHP]]
+- [[PowerShell]]
 - [[Python]]
 - **Q**
 - **R**
