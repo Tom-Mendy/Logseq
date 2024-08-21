@@ -1,8 +1,4 @@
-- Sure, here's an overview of "on-premises" with a similar structure:
-  
-  ---
-- ### **On-Premises Overview**
-- ### **Definition and Background**
+### **Definition and Background**
 - **Definition**: "[[On-Premises]]" refers to the installation and operation of software or hardware systems within the physical boundaries of an organization, as opposed to being hosted remotely (such as in the cloud).
 - **Purpose**: Typically used for applications requiring high security, control, and local network dependencies. [[On-Premises]] solutions are managed by the organization’s own IT staff.
 - ### **Key Features**
@@ -14,7 +10,7 @@
 - ### **Basic Components**
 - **Hardware**: Servers, networking equipment, storage, and other infrastructure required to host the applications.
 - **Software**: Operating systems, applications, databases, and middleware installed on the local servers.
-- **Network**: Local area network (LAN) infrastructure to ensure connectivity and communication between different pieces of hardware.
+- **Network**: [[Local area network]] (LAN) infrastructure to ensure connectivity and communication between different pieces of hardware.
 - **Maintenance**: IT staff responsible for regular maintenance tasks such as updates, backups, security patches, and troubleshooting.
 - ### **Example Use Case**
 -
