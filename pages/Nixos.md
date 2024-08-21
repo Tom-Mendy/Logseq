@@ -46,6 +46,7 @@
 - ### **Why Learn NixOS?**
 - **Reliability**: Guarantees reproducible builds and deployments.
 - **Efficiency**: Simplifies managing complex environments and dependencies.
-- **Innovative**: Introduces unique concepts in package and system management that can be valuable for system administrators and DevOps engineers.
+- **Innovative**: Introduces unique concepts in package and system management that can be valuable for system administrators and #DevOps engineers.
   
   Overall, NixOS is a powerful and innovative Linux distribution that brings a fresh approach to system configuration and package management. It's especially useful in environments where reliability and reproducibility are critical.
+-
