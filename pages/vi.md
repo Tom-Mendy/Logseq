@@ -47,7 +47,7 @@
   5. **Quit `vi`**: Type `:q` and press `Enter`.
 - ### **Applications**
 - **Text Editing**: Writing and editing source code, configuration files, and any other type of text.
-- **System Administration**: Editing system files and scripts on Unix-based systems.
+- **#[[System Administration]]**: Editing system files and scripts on #Unix -based systems.
 - **Development Environments**: Utilized by many developers for efficient coding due to its powerful feature set and speed.
 - ### **Influence**
   
