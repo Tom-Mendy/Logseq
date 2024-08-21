@@ -1,11 +1,11 @@
 ### **Nix - Overview**
 
-[[Nix]] is a powerful #[[package manager]] for #Linux and other #Unix systems that takes a unique approach to package management and #[[system configuration]]. Here’s a brief overview:
+[[Nix]] is a powerful [[package manager]] for [[Linux]] and other [[Unix]] systems that takes a unique approach to package management and [[system configuration]]. Here’s a brief overview:
 - ### **History and Background**
 - **Developed by**: Eelco Dolstra
 - **Year**: 2003
-- **Project**: NixOS project, a Linux distribution built on top of Nix
-- **Purpose**: To provide a reliable, reproducible, and isolated environment for package management and system configuration.
+- **Project**: [[Nixos]] project, a [[Linux]] distribution built on top of [[Nix]]
+- **Purpose**: To provide a reliable, reproducible, and isolated environment for package management and [[system configuration]].
 - ### **Key Features**
 - **Reproducibility**: Guarantees that builds are reproducible and can be replicated on different machines.
 - **Isolation**: Packages are installed in a unique directory, avoiding dependency conflicts.
@@ -31,27 +31,18 @@
   }
   ```
 - ### **Standard Library**
-- **Nixpkgs**: A comprehensive collection of packages and libraries maintained by the Nix community. It includes thousands of packages ranging from development tools to desktop applications.
+- **Nixpkgs**: A comprehensive collection of packages and libraries maintained by the [[Nix]] community. It includes thousands of packages ranging from development tools to desktop applications.
 - ### **Example Code**
   
-  Here’s a simple example of a Nix expression to install and start the Apache HTTP server:
-  
-  ```nix
-  
+  Here’s a simple example of a [[Nix]] expression to install and start the [[Apache]] HTTP server:
+- ```nix
   { pkgs, ... }:
-  
   {
-  
   services.httpd = {
-  
     enable = true;
-  
     adminAddr = "admin@example.org";
-  
   };
-  
   }
-  
   ```
 - ### **Applications**
 - **Package Management**: Used as a package manager on various Unix-like systems.

@@ -1,4 +1,4 @@
-- MySQL is one of the most widely-used [[relational database management systems]] (RDBMS) and plays a critical role in modern web and data-driven applications. Here’s a brief overview:
+- [[MySQL]] is one of the most widely-used [[relational database management systems]] (RDBMS) and plays a critical role in modern web and data-driven applications. Here’s a brief overview:
 - ### **History and Background**
 - **Developed by**: MySQL AB (co-founded by David Axmark, Allan Larsson, and Michael Widenius)
 - **Year**: 1995
