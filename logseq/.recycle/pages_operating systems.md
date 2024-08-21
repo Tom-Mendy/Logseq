@@ -1,0 +1,8 @@
+- #Windows
+- #Linux
+- #UNIX
+- #Android
+- #ChromeOS
+- #IPadOS
+- #macOS
+- #IOS

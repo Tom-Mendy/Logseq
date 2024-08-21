@@ -1,7 +1,7 @@
 ### **History and Background**
 - **Origins**: Low-level languages can be traced back to the earliest days of computing in the mid-20th century.
 - **Key Figures**: Various pioneers in computing, such as John Von Neumann and Alan Turing, contributed to the development of low-level programming concepts.
-- **Use Case**: Initially developed to provide direct control over hardware, making them essential for writing #[[operating systems]], #[[compilers]], and other #[[system software]].
+- **Use Case**: Initially developed to provide direct control over hardware, making them essential for writing #[[operating system]], #[[compilers]], and other #[[system software]].
 - ### **Key Features**
 - **Direct Hardware Manipulation**: Low-level languages allow direct control over system hardware, including memory and processor instructions.
 - **Minimal Abstraction**: These languages provide little or no abstraction from the hardware, allowing the programmer to write instructions that the #CPU can execute directly.
