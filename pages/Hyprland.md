@@ -58,7 +58,7 @@
 - **Developers**: Ideal for #[[developers]] who need a consistent and resource-efficient workspace.
 - ### **Influence**
   
-  Hyprland incorporates ideas from other popular tiling window managers such as i3, bspwm, and dwm, while improving upon them by leveraging Wayland’s modern architecture. It aims to influence the creation of more efficient and customizable Wayland compositors.
+  Hyprland incorporates ideas from other popular #[[tiling window managers]] such as #i3, #bspwm, and #dwm, while improving upon them by leveraging Wayland’s modern architecture. It aims to influence the creation of more efficient and customizable Wayland compositors.
 - ### **Why Use Hyprland?**
 - **Modern Tiling WM**: Embraces the advantages of Wayland while offering the familiar functionality of traditional tiling window managers.
 - **Lightweight**: Minimal resource usage makes it ideal for a wide range of hardware.
