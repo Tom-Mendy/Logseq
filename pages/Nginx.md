@@ -1,6 +1,4 @@
-### **Overview of NGINX**
-
-NGINX is a high-performance, open-source web server and reverse proxy server that also functions as an HTTP cache and load balancer.
+- [[Nginx]] is a high-performance, [[open-source]] [[web server]] and [[reverse proxy]] server that also functions as an HTTP cache and load balancer.
 - ### **History and Background**
 - **Developed by**: Igor Sysoev
 - **Year**: 2004
@@ -20,48 +18,28 @@ NGINX is a high-performance, open-source web server and reverse proxy server tha
 - **Directives**: Configuration is composed of directives, which can be grouped into blocks with specific contexts such as `http`, `server`, and `location`.
 - ### **Example Configuration**
   
-  Here's a basic example showcasing a simple NGINX configuration file:
+  Here's a basic example showcasing a simple [[Nginx]] configuration file:
   
   ```nginx
-  
   server {
-  
     listen       80;
-  
     server_name  example.com;
-  
     location / {
-  
         root   /usr/share/nginx/html;
-  
         index  index.html index.htm;
-  
     }
-  
     location /images/ {
-  
         root /data;
-  
     }
-  
     error_page  404              /404.html;
-  
     location = /404.html {
-  
         internal;
-  
     }
-  
     error_page   500 502 503 504  /50x.html;
-  
     location = /50x.html {
-  
         internal;
-  
     }
-  
   }
-  
   ```
 - ### **Applications**
 - **Web Hosting**: Used to host websites efficiently with high concurrency.
