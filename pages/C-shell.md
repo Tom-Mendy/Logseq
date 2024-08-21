@@ -4,7 +4,7 @@
 - **Location**: University of California, Berkeley
 - **Purpose**: Designed to improve upon the Bourne shell (sh) with C-like syntax and enhanced interactive features for scripting and command-line use.
 - ### **Key Features**
-- **C-like syntax**: Offers control structures similar to the C programming language, making it easier for C programmers to write shell scripts.
+- **C-like syntax**: Offers control structures similar to the #C programming language, making it easier for C programmers to write #shell scripts.
 - **Job control**: Allows users to manage multiple jobs (background and foreground processes) conveniently.
 - **Alias support**: Users can create aliases to shorten or simplify commands.
 - **History mechanism**: Stores a history of executed commands, enabling easy recall and re-execution of previous commands.
@@ -19,22 +19,19 @@
   Here’s a simple example of a "Hello, World!" script in C shell:
   
   ```csh
-  
   #!/bin/csh
-  
   echo "Hello, World!"
-  
   ```
   
   To run this script, save it to a file (e.g., `hello.csh`), make it executable with `chmod +x hello.csh`, and then execute it with `./hello.csh`.
 - ### **Applications**
 - **Interactive Use**: Popular among users for interactive command-line use due to its convenient features and scripting capabilities.
 - **Scripting**: Useful for writing scripts that automate repetitive tasks, especially for users familiar with C syntax.
-- **System Administration**: Employed by system administrators for managing and automating various tasks within UNIX-like operating systems.
+- **#[[System Administration]]**: Employed by system administrators for managing and automating various tasks within #UNIX -like operating systems.
 - **Customization**: Allows users to enhance and customize their shell environment with aliases, functions, and startup scripts.
 - ### **Influence**
   
-  The C shell has influenced other shells and scripting languages, most notably the tcsh (an enhanced version of csh), and has left a legacy in the Unix and BSD communities. However, its scripting language has been criticized for certain quirks and limitations compared to other shells like the Bourne shell (sh) and its descendants (bash, ksh).
+  The C shell has influenced other shells and scripting languages, most notably the tcsh (an enhanced version of csh), and has left a legacy in the Unix and #BSD communities. However, its scripting language has been criticized for certain quirks and limitations compared to other shells like the Bourne shell (sh) and its descendants (#bash, #ksh ).
 - ### **Why Use C Shell?**
 - **Familiarity**: Users who are accustomed to C-like syntax might find csh more intuitive for writing scripts.
 - **Interactive Features**: csh provides useful interactive features like command history and job control, enhancing the user experience.
