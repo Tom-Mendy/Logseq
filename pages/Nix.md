@@ -45,7 +45,7 @@
   }
   ```
 - ### **Applications**
-- **Package Management**: Used as a package manager on various Unix-like systems.
+- **Package Management**: Used as a [[package manager]] on various Unix-like systems.
 - **Operating System**: Core of the NixOS Linux distribution.
 - **Development Environments**: Set up reproducible and isolated development environments.
 - **Continuous Integration**: Ensure that builds are reproducible in CI/CD pipelines.
