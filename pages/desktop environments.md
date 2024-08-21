@@ -7,4 +7,5 @@
 - #xmonad
 - #lxqt
 - #bungi
--
+- #dwm
+- #bspwm
