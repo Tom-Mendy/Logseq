@@ -2,4 +2,7 @@
 - #pacman
 - #apt
 - #dnf
+- #Nix
+- #flathub
+- #snapack
 -
