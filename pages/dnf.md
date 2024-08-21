@@ -33,16 +33,17 @@
   sudo dnf list installed
   ```
 - ### **Applications**
-- **Package Management**: Install, update, and manage software packages on [[RPM]]-based distributions like [[Fedora]], [[Red Hat]] Enterprise [[Linux]] (RHEL), and CentOS.
+- **Package Management**: Install, update, and manage software packages on [[RPM]]-based distributions like [[Fedora]], [[Red Hat Enterprise Linux]] (RHEL), and [[CentOS]].
 - **System Maintenance**: Regular updates and system maintenance to keep the software up-to-date and secure.
 - **Repository Management**: Adding and managing repositories to access a wider range of software packages.
 - ### **Influence**
   
   [[DNF]] has significantly influenced the package management landscape for RPM-based distributions, offering a more reliable and efficient tool compared to [[YUM]]. Its adoption in [[Fedora]] and RHEL has set a new standard for package management in these distributions.
 - ### **Why Use DNF?**
-- **Efficiency**: DNF's use of the `libsolv` library makes it faster and more efficient in handling package dependencies.
+- **Efficiency**: [[DNF]]'s use of the `libsolv` library makes it faster and more efficient in handling package dependencies.
 - **Reliability**: Improved dependency resolution reduces potential conflicts, making the system more stable.
-- **Modern and Extensible**: Written in Python 3 and designed with modern software practices in mind, DNF is easier to maintain and extend with plugins.
-- **Community and Support**: Backed by major projects like Fedora and Red Hat, ensuring ongoing development and support.
+- **Modern and Extensible**: Written in [[Python]] 3 and designed with modern software practices in mind, [[DNF]] is easier to maintain and extend with plugins.
+- **Community and Support**: Backed by major projects like [[Fedora]] and [[Red Hat]], ensuring ongoing development and support.
   
-  Overall, DNF is a crucial tool for users and administrators of RPM-based Linux distributions, providing a solid framework for package management that enhances both performance and reliability.
+  Overall, [[DNF]] is a crucial tool for users and administrators of [[[[RPM]]-based]] [[Linux distributions]], providing a solid framework for package management that enhances both performance and reliability.
+-

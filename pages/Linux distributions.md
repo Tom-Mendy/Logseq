@@ -4,7 +4,7 @@
 		- #Pop-OS
 		- #[[Rhino Linux]]
 	- #Vanilla
-- Fedora]]
+- [[Fedora]]
 	- [[Red Hat Enterprise Linux]]
 	- [[CentOS]]
 - #Open-SUSE
