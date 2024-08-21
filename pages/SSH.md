@@ -38,7 +38,7 @@
 - ### **Advantages**
 - **Security**: Provides strong encryption and secure authentication methods, making it a very secure protocol.
 - **Flexibility**: Offers multiple ways of authenticating and various options for securing and optimizing the connection.
-- **Widely Supported**: Available on almost all modern operating systems including UNIX, Linux, macOS, and Windows.
+- **Widely Supported**: Available on almost all modern operating systems including #UNIX, #Linux, #macOS, and #Windows.
 - ### **Example SSH Command**
   
   Here’s a simple example of how to connect to a remote server using SSH:
