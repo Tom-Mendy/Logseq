@@ -10,7 +10,7 @@ title:: Assembly
 - **No Abstraction**: Unlike high-level languages, Assembly does not have abstractions such as variables and complex data types beyond the basic support offered by the hardware.
 - **Efficient**: Programs written in Assembly can be extremely efficient in both execution speed and memory usage.
 - **Machine-specific**: Assembly language is tailored to the instruction set of a specific processor architecture (e.g., #x86, #ARM ).
-- **Control over Hardware**: Provides fine-grained control over hardware operations, which is crucial for the development of operating systems, firmware, and high-performance applications.
+- **Control over Hardware**: Provides fine-grained control over hardware operations, which is crucial for the development of #[[operating systems]], firmware, and high-performance applications.
 - ### **Basic Syntax**
 - **Structure**: Assembly programs are divided into sections, typically including a `.data` section (for defining initialized data), a `.bss` section (for defining uninitialized data), and a `.text` section (for code).
 - **Instructions**: Assembly languages use mnemonics (human-readable codes) to represent machine-level instructions. For example, `MOV`, `ADD`, `SUB`, `JMP` are common instructions.

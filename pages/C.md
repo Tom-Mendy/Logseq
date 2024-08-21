@@ -27,7 +27,7 @@
   }
   ```
 - ### **Applications**
-- **Systems Programming**: Operating system (e.g., #UNIX, #Linux ), embedded systems, and real-time applications.
+- **Systems Programming**: #[[operating systems]] (e.g., #UNIX, #Linux ), embedded systems, and real-time applications.
 - **Compilers and Interpreters**: Many language compilers and interpreters are written in C.
 - **Game Development**: Due to its performance, C is used in game engines.
 - **Databases**: Many popular databases (e.g., #MySQL ) are implemented in C.
