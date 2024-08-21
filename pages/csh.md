@@ -16,7 +16,7 @@
 - **Built-in Functions**: Provides a variety of built-in functions for string manipulation, arithmetic operations, and more.
 - ### **Example Code**
   
-  Here’s a simple example of a "Hello, World!" script in C shell:
+  Here’s a simple example of a "Hello, World!" script in csh:
   
   ```csh
   #!/bin/csh
@@ -32,7 +32,7 @@
 - ### **Influence**
   
   The C shell has influenced other shells and scripting languages, most notably the tcsh (an enhanced version of csh), and has left a legacy in the Unix and #BSD communities. However, its scripting language has been criticized for certain quirks and limitations compared to other shells like the Bourne shell (sh) and its descendants (#bash, #ksh ).
-- ### **Why Use C Shell?**
+- ### **Why Use csh?**
 - **Familiarity**: Users who are accustomed to C-like syntax might find csh more intuitive for writing scripts.
 - **Interactive Features**: csh provides useful interactive features like command history and job control, enhancing the user experience.
 - **Environment Customization**: Allows extensive customization of the user environment with aliases and startup scripts.

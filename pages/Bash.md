@@ -6,7 +6,7 @@
 - ### **Key Features**
 - **Command-line interface**: Bash provides a powerful command-line interface for interacting with #[[operating systems]] .
 - **Scripting**: It allows the automation of tasks through shell scripts.
-- **Compatibility**: Bash is designed to be compatible with the Bourne shell while incorporating useful features from other popular shells (e.g., KornShell, #C-shell ).
+- **Compatibility**: Bash is designed to be compatible with the Bourne shell while incorporating useful features from other popular shells (e.g., KornShell, #csh ).
 - **Rich built-ins**: Provides many built-in commands and utilities to manipulate files, processes, and text.
 - **Job control**: Supports job control, enabling the suspension and background execution of processes.
 - **Command history**: Maintains a history of commands, allowing easy re-execution and editing of past commands.
