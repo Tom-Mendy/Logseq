@@ -32,7 +32,7 @@
   ```
 - ### **Applications**
 - **Systems Programming**: Similar to #C, Zig is well-suited for #[[operating systems]], #embedded-systems, and real-time applications.
-- **Game Development**: Due to its performance and low-level capabilities, Zig is used in #game-engines.
+- **Game Development**: Due to its performance and low-level capabilities, Zig is used in #game-engine.
 - **Tooling and Compilers**: Zig itself comes with its own compiler written in Zig, and the language is useful for writing various developer tools.
 - **Networking**: Zig is effective in developing network protocols and high-performance network servers.
 - ### **Influence**
