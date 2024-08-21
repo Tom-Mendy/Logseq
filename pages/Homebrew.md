@@ -32,7 +32,7 @@
   ```
 - ### **Applications**
 - **Software Development**: Install and manage development tools, libraries, and languages.
-- **System Administration**: Simplify the management of software on macOS and Linux servers.
+- **#[[System Administration]]**: Simplify the management of software on #macOS and #[[Linux servers]].
 - **Data Science**: Quickly set up environments with data science libraries and tools.
 - **Multimedia**: Install software for multimedia processing and editing.
 - **Networking**: Manage network tools and utilities with ease.

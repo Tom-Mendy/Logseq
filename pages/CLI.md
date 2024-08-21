@@ -20,7 +20,7 @@
   ls -lah
   ```
 - ### **Applications**
-- **System Administration**: CLIs are extensively used for system configuration, maintenance, and troubleshooting.
+- **#[[System Administration]]**: CLIs are extensively used for system configuration, maintenance, and troubleshooting.
 - **Development**: Many development tools, compilers, and debuggers operate through the command line.
 - **Data Processing**: Scripting languages like Bash or PowerShell enable powerful data processing and automation.
 - **Networking**: Network configuration and management tasks are often performed via the CLI.
