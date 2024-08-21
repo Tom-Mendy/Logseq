@@ -7,7 +7,7 @@
 - **Purpose**: Designed to be a simple, lightweight, and flexible Linux distribution that follows the KISS (Keep It Simple, Stupid) principle.
 - ### **Key Features**
 - **Rolling Release Model**: Arch Linux uses a #[[rolling release]] system, meaning that users always have access to the latest software updates without needing to upgrade to a new version.
-- **Pacman [[Package Manage]]r**: [[Pacman]] is Arch's package management utility that tracks and manages software packages and dependencies with ease.
+- **Pacman [[Package Manage]]r**: [[Pacman]] is Arch's [[Package Management]] utility that tracks and manages software packages and dependencies with ease.
 - **AUR (Arch User Repository)**: A community-driven #repository that provides thousands of user-contributed packages. It complements the official repositories by providing more software.
 - **Customizability**: Arch provides a minimal base system that the user can customize by installing only the software they need.
 - **Documentation**: The Arch Wiki is known for its comprehensive and high-quality documentation. It is a valuable resource for both Arch users and the wider Linux community.

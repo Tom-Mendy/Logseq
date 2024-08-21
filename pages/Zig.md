@@ -42,6 +42,6 @@
 - **Safety and Performance**: Combines the performance of #[[Low-Level Languages]] like #C with additional safety features.
 - **Compile-Time Execution**: Unique features like compile-time code execution can lead to highly optimized and flexible code.
 - **Modern Syntax**: Provides a more modern and readable syntax compared to older systems languages.
-- **Tooling and Community**: Offers modern tooling, including a built-in #[[package manager]] and an active community of developers.
+- **Tooling and Community**: Offers modern tooling, including a built-in #[[package manager]] and an active community of [[developers]].
   
-  Overall, Zig is an emerging language with powerful features that make it a strong candidate for modern systems programming, offering improvements in safety, performance, and developer experience over traditional languages like #C.
+  Overall, [[Zig]] is an emerging language with powerful features that make it a strong candidate for modern systems programming, offering improvements in safety, performance, and developer experience over traditional languages like #C.
