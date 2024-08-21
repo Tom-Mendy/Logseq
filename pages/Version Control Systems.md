@@ -47,9 +47,9 @@
 - **Research**: Useful in tracking changes to research data and scripts in scientific computing.
 - ### **Popular Tools**
 - **#[[Git]]**: Widely used DVCS created by Linus Torvalds for Linux kernel development.
-- **Subversion (SVN)**: A CVCS popular in enterprise environments.
-- **Mercurial**: A similar DVCS to Git, known for its simplicity.
-- **Perforce**: High-performance CVCS often used in game development and large binary file management.
+- **#[[Subversion]] (SVN)**: A CVCS popular in enterprise environments.
+- **#[[Mercurial]]**: A similar DVCS to Git, known for its simplicity.
+- **#[[Perforce]]**: High-performance CVCS often used in game development and large binary file management.
 - ### **Why Use Version Control Systems?**
 - **Team Collaboration**: Facilitates collaboration among multiple developers without conflicts.
 - **Code Integrity**: Maintains a complete history of changes, allowing reversion and recovery.
