@@ -28,7 +28,7 @@
 - **Searching Text**: `grep pattern filename`
 - ### **Applications and Uses**
 - **Servers**: UNIX serves as the foundation for many server operating systems and is widely used in web servers, databases, and network management.
-- **Development Environment**: Commonly used for software development due to its powerful tools and compilers.
+- **Development Environment**: Commonly used for [[software development]] due to its powerful tools and [[compilers]].
 - **Research and Education**: Frequently used in academic settings for research and educational purposes, particularly in computer science.
 - **Workstations**: Often used in high-performance workstations for tasks requiring robust processing capabilities.
 - ### **Influence**

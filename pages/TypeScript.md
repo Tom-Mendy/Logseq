@@ -42,7 +42,7 @@
   TypeScript's focus on static typing and modern JavaScript features has influenced other languages and frameworks, promoting better development practices and tooling in JavaScript ecosystems.
 - ### **Why Learn TypeScript?**
 - **Improved JavaScript**: Learning TypeScript provides a more robust way to write #JavaScript, with benefits like early error detection and better coding tools.
-- **Better Tooling**: [[Integrated Development Environment]] support and tooling for [[TypeScript]] significantly enhance productivity.
+- **Better Tooling**: [[Integrated [[Development Environment]]]] support and tooling for [[TypeScript]] significantly enhance productivity.
 - **Industry Demand**: Many modern web development projects and companies have adopted TypeScript, making it a valuable skill for developers.
 - **Scalability**: It helps maintain large codebases more effectively with features like interfaces and strong type inference.
   

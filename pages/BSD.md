@@ -3,7 +3,7 @@
 - **Developed by**: University of California, Berkeley Computer Systems Research Group (CSRG)
 - **Year**: Original release in 1977, major releases throughout the 1980s and early 1990s
 - **Location**: University of California, Berkeley, USA
-- **Purpose**: Initially developed as an enhancement to the original AT&T #UNIX system, BSD introduced many new features and improvements. It served as both a development environment and a research tool.
+- **Purpose**: Initially developed as an enhancement to the original AT&T #UNIX system, [[BSD]] introduced many new features and improvements. It served as both a [[Development Environment]] and a research tool.
 - ### **Key Features**
 - **Advanced Networking**: BSD introduced the #TCP/ #IP networking stack, which became the de facto standard for internet communication.
 - **Virtual Memory**: Provides efficient memory management with features like paging and swapping.

@@ -53,7 +53,7 @@
 - ### **Applications**
 - **Microservices Architecture**: Deploying and managing microservices.
 - **Continuous Integration and Deployment**: Automating application builds, testing, and deployments.
-- **Development Environment**: Standardizing development environments across different machines.
+- **Development Environment**: Standardizing [[Development Environments]] across different machines.
 - **Cloud Applications**: Running scalable applications in the cloud with tools like #Kubernetes.
 - **Legacy Application Modernization**: Containerizing legacy applications to run on modern infrastructure.
 - ### **Influence**

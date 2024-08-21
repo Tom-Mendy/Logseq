@@ -16,7 +16,7 @@
 - **Broadcast Receiver**: Allows the system to deliver events to the app outside of a regular user flow.
 - **Content Provider**: Manages access to a structured set of data.
 - ### **Development Tools**
-- **#[[Android Studio]]**: The official [[Integrated Development Environment]] (IDE) for [[Android]] development.
+- **#[[Android Studio]]**: The official [[Integrated [[Development Environment]]]] (IDE) for [[Android]] development.
 - **[[Kotlin]] & #[[Java]]**: Primary programming languages used for Android development.
 - **#[[XML]]**: Used for designing user interface layouts.
 - **#[[Android SDK]]**: Software development kit that provides the necessary tools to develop Android applications.
