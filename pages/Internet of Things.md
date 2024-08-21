@@ -10,22 +10,22 @@
 - **Interoperability**: Devices from different manufacturers can communicate with each other through standard protocols.
 - ### **Basic Components**
 - **Sensors/Devices**: Collect data from the physical environment (e.g., temperature sensors, cameras, GPS trackers).
-- **Connectivity**: Means of communication (e.g., Wi-Fi, Bluetooth, cellular networks) to transmit collected data.
+- **Connectivity**: Means of communication (e.g., [[Wi-Fi]], [[Bluetooth]], [[cellular networks]]) to transmit collected data.
 - **Data Processing**: Local or cloud-based processing to analyze and derive insights from the data.
-- **User Interface**: User-facing applications (e.g., mobile apps, web dashboards) for monitoring and control purposes.
-- **Actuators**: Components that act upon the data analysis and perform physical actions (e.g., opening a valve, turning on lights).
+- **User Interface**: User-facing applications (e.g., [[[[mobile]] app]], [[[[Web]] dashboard]]) for [[monitoring]] and control purposes.
+- **Actuators**: Components that act upon the [[Data Analysis]] and perform physical actions (e.g., opening a valve, turning on lights).
 - ### **Example Scenario**
   
-  Here’s an example of a smart home IoT system:
-- **Sensors**: Temperature sensors, motion detectors, door/window sensors.
-- **Connectivity**: Wi-Fi network connecting the sensors to a central hub or cloud server.
-- **Data Processing**: Real-time data analysis to monitor home conditions and detect anomalies.
-- **User Interface**: Mobile app to view real-time data and control devices remotely.
+  Here’s an example of a [[smart home]] IoT system:
+- **Sensors**: Temperature [[sensors]], motion detectors, door/window [[sensors]].
+- **Connectivity**: [[Wi-Fi]] network connecting the [[sensors]] to a central hub or cloud server.
+- **Data Processing**: Real-time [[Data Analysis]] to [[monitor]] home conditions and detect anomalies.
+- **User Interface**: [[Mobile]] app to view real-time data and control devices remotely.
 - **Actuators**: Smart thermostats, smart locks, lighting systems that respond to user inputs or automated rules.
 - ### **Applications**
 - **Smart Homes**: Home automation systems for lighting, security, HVAC, and appliances.
-- **Industrial IoT (IIoT)**: Monitoring and optimizing industrial processes and machinery in manufacturing.
-- **Healthcare**: Remote health monitoring using wearable devices and connected health tools.
+- **Industrial IoT (IIoT)**: [[Monitoring]] and optimizing indpustrial processes and machinery in manufacturing.
+- **Healthcare**: Remote health [[monitoring]] using wearable devices and connected health tools.
 - **Transportation**: Fleet management, autonomous vehicles, and traffic monitoring systems.
 - **Agriculture**: Precision farming through soil, weather, and crop monitoring systems.
 - ### **Influence**
