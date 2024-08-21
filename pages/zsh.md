@@ -12,7 +12,7 @@ Zsh is a powerful and versatile [[shell]] designed for interactive use, although
 - **Powerful Scripting**: Includes numerous built-in functions and control structures for scripting.
 - **Alias Expansion**: Allows for the creation of custom command shortcuts called aliases.
 - **Theme Support**: Can be themed for customized prompt and appearance.
-- **Plugin Support**: Easily extensible with plugins, such as `Oh My Zsh`, which adds even more features.
+- **[[Plugin]] Support**: Easily extensible with plugins, such as `Oh My Zsh`, which adds even more features.
 - ### **Basic Syntax**
 - **Variables**: Similar to other Unix shells, variables are created without a type declaration and are typically assigned using `variable=value`.
 - **Control Flow**: Supports standard control flow constructs like `if`, `else`, `for`, `while`, `case`, and more.
