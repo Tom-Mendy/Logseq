@@ -5,4 +5,5 @@
 - #Nix
 - #flathub
 - #snapack
--
+- #yum
+- #zypper
