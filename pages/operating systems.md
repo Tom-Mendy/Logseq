@@ -5,4 +5,4 @@
 - #ChromeOS
 - #IPadOS
 - #macOS
-- #IOS
+- #iOS

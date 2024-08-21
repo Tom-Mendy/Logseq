@@ -2,12 +2,12 @@
 - **Developed by**: [[Google]]
 - **Year**: 2017 (Stable release)
 - **Location**: USA
-- **Purpose**: Designed to facilitate the creation of natively [[compiled]] applications for [[mobile]], [[web]], and [[desktop]] from a single [[codebase]].
+- **Purpose**: Designed to facilitate the creation of natively [[compiled]] applications for [[mobile]], [[Web]], and [[Desktop]] from a single [[codebase]].
 - ### **Key Features**
 - **Cross-platform Development**: [[Flutter]] allows for the creation of applications that work on multiple platforms ([[iOS]], [[Android]], [[Web]], [[Desktop]]) from a single [[codebase]].
 - **Hot Reload**: This feature allows developers to see the results of code changes almost instantly without restarting the app, enhancing productivity.
-- **Rich Widgets and UI Controls**: Flutter provides a comprehensive set of customizable widgets that follow both Material Design (for Android) and Cupertino (for iOS) guidelines.
-- **Native Performance**: Flutter compiles to native ARM code on both iOS and Android, providing high-performance applications.
+- **Rich Widgets and UI Controls**: [[Flutter]] provides a comprehensive set of customizable widgets that follow both Material Design (for [[Android]]) and Cupertino (for [[iOS]]) guidelines.
+- **Native Performance**: [[Flutter]] compiles to native [[ARM]] code on both [[iOS]] and [[Android]], providing high-performance applications.
 - **Expressive and Flexible UI**: Flutter’s widget approach makes it easy to build complex UIs with high flexibility and a customizable nature.
 - ### **Basic Syntax**
 - **Structure**: Flutter apps are structured into widgets. The `main()` function is the entry point, and widgets define the structure and behavior of the user interface.
