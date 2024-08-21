@@ -39,16 +39,16 @@
   
   4. **Run Code**: Use the integrated terminal to compile and run the program.
 - ### **Applications**
-- **Web Development**: Supports a variety of web development frameworks and libraries, including React, Angular, and Vue.
-- **Python Development**: Extensively used for Python scripting with special support for Django and Flask.
+- **Web Development**: Supports a variety of [[web development]] frameworks and libraries, including [[React]], [[Angular]], and [[Vue]].
+- **Python Development**: Extensively used for [[Python]] scripting with special support for Django and [[Flask]].
 - **Node.js Development**: Comes with built-in support for Node.js, making it easy to create and manage Node.js applications.
-- **Data Science**: Often used for data analysis and manipulation with Jupyter Notebooks extensions.
-- **Embedded Systems**: Good support for C/C++ development makes it useful for embedded systems development.
+- **Data Science**: Often used for data analysis and manipulation with [[Jupyter Notebooks]] extensions.
+- **Embedded Systems**: Good support for [[C]]/[[C++]] development makes it useful for [[embedded systems]] development.
 - ### **Influence**
   
   VS Code has become one of the most popular #[[text editors]] in the developer community, highly regarded for its speed, functionality, and customization. It has influenced other editors and [[Integrated [[Development Environment]]]] to adopt similar features and extensibility models.
 - ### **Why Use Visual Studio Code?**
-- **Cross-Platform**: Works across all major operating systems, ensuring a consistent development experience.
+- **Cross-Platform**: Works across all major [[operating systems]], ensuring a consistent development experience.
 - **Community and Support**: Backed by a robust ecosystem with frequent updates and a plethora of available extensions.
 - **Productivity**: Numerous features that help in boosting productivity, such as code navigation, refactoring, and integrated [[Git]].
   
