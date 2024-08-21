@@ -8,7 +8,7 @@
 - **Cutting-edge Technologies**: Fedora is known for incorporating the latest advancements in open-source software, including the latest kernels, desktop environments, and applications.
 - **Strong Security**: Features like SELinux (Security-Enhanced Linux) provide robust security mechanisms.
 - **Modular Design**: Fedora comes in different editions such as Fedora Workstation, Fedora Server, and Fedora IoT, tailored for different use cases.
-- **RPM Package Management**: Uses #RPM (Red Hat Package Manager) for package management, along with #DNF (Dandified YUM) for handling dependencies and updates.
+- **RPM [[Package Management]]**: Uses #RPM (Red Hat Package Manager) for package management, along with #DNF (Dandified YUM) for handling dependencies and updates.
 - **Strong Community Support**: Backed by a strong community of developers and users who contribute to various aspects of the project.
 - ### **Basic Structure**
 - **Editions**:

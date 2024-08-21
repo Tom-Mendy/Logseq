@@ -2,7 +2,7 @@
 - **Developed by**: Eelco Dolstra and the NixOS community
 - **Year**: 2003 (Nix package manager), NixOS first stable release in 2014
 - **Location**: Originated in the Netherlands, with contributions from the global open-source community
-- **Purpose**: Created to provide a reliable, reproducible, and declarative #Linux -based #[[operating systems]] environment using the #Nix package manager.
+- **Purpose**: Created to provide a reliable, reproducible, and declarative #Linux -based #[[operating systems]] environment using the #Nix [[package manager]].
 - ### **Key Features**
 - **Declarative Configuration**: The entire system configuration (including packages, services, and configuration files) is described in a single declarative specification file.
 - **Reproducibility**: Ensures that systems can be reliably reproduced across different machines and environments.

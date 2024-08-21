@@ -13,7 +13,7 @@
 - ### **Basic Usage**
 - **Desktop Environment**: Ubuntu uses the #GNOME desktop environment by default, providing a smooth and cohesive user experience.
 - **Command Line Interface**: The Terminal is available for executing commands and scripts, providing powerful control over the system.
-- **Package Management**: Ubuntu uses the `apt` (Advanced Package Tool) package manager for installing, upgrading, and removing software packages. #[[apt]]
+- **Package Management**: [[Ubuntu]] uses the `apt` (Advanced Package Tool) [[package manager]] for installing, upgrading, and removing software packages. #[[apt]]
 - ### **Example Command**
   
   Here's an example of updating the package list and upgrading installed packages using the command line:
