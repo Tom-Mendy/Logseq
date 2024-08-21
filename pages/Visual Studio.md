@@ -4,14 +4,14 @@
 - **Location**: Redmond, Washington, USA
 - **Purpose**: Designed to provide a comprehensive [[Development Environment]] for various [[programming languages]], enabling application and [[web development]].
 - ### **Key Features**
-- **Integrated [[Development Environment]] (IDE)**: [[Visual Studio]] integrates various tools and features that support the entire [[software development]] lifecycle, from coding and testing to deploying and maintaining.
-- **Multi-language Support**: Supports multiple programming languages including C#, VB.NET, C++, JavaScript, TypeScript, Python, and more.
+- **[[Integrated [[Development Environment]]]] (IDE)**: [[Visual Studio]] integrates various tools and features that support the entire [[software development]] lifecycle, from coding and testing to deploying and maintaining.
+- **Multi-language Support**: Supports multiple [[programming languages]] including [[C#]], VB, .NET, [[C++]], [[JavaScript]], [[TypeScript]], [[Python]], and more.
 - **Code Editing and IntelliSense**: Provides advanced code editing features with IntelliSense for code completion, syntax highlighting, and error detection.
-- **Debugging and Diagnostics**: Powerful debugging tools that allow stepping through code, setting breakpoints, and inspecting variables and call stacks.
+- **Debugging and Diagnostics**: Powerful debugging tools that allow stepping through code, setting breakpoints, and inspecting variables and [[call stack]].
 - **Visual Designers**: Integrated visual designers for building user interfaces, both for desktop and web applications.
-- **Version Control**: Built-in support for version control systems like Git and Team Foundation Server (TFS).
+- **Version Control**: Built-in support for [[Version Control Systems]] like [[Git]] and Team Foundation Server (TFS).
 - **Extensions and Customization**: Highly extensible through a wide range of available extensions to add functionality or integrate third-party tools.
-- **Azure Integration**: Deep integration with Microsoft Azure, supporting the development, deployment, and management of cloud applications.
+- **Azure Integration**: Deep integration with [[Microsoft]] [[Azure]], supporting the development, deployment, and management of cloud applications.
 - ### **Basic Structure**
 - **Workspace**: The main area where you open and organize your projects and files.
 - **Solution Explorer**: A window to manage files and projects within a solution.
