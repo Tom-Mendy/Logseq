@@ -18,23 +18,17 @@
 - **Connecting to a Remote Server**: 
   
   ```bash
-  
   ssh user@hostname
-  
   ```
 - **Copying Files Between Local and Remote Machines**: Using `scp` (secure copy protocol):
   
   ```bash
-  
   scp localfile user@hostname:/remotepath
-  
   ```
 - **Tunneling**: Forwarding a local port to a remote network service:
   
   ```bash
-  
   ssh -L local_port:remote_address:remote_port user@hostname
-  
   ```
 - ### **Applications**
 - **Remote Administration**: Administrators use SSH to remotely manage and configure servers.
@@ -58,6 +52,6 @@
 - ### **Why Learn SSH?**
 - **System Administration**: Essential skill for managing and operating remote servers.
 - **Security**: Understanding SSH is crucial for ensuring secure communication in a networked environment.
-- **Development Workflows**: Commonly used in modern DevOps practices and for accessing remote Git repositories.
+- **Development Workflows**: Commonly used in modern #DevOps practices and for accessing remote #Git repositories.
   
   Overall, SSH continues to be a crucial tool in the realms of system administration, network security, and software development.
