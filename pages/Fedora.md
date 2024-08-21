@@ -14,7 +14,7 @@
 - **Editions**:
 	- **Fedora Workstation**: Aimed at developers and desktop users, providing a robust graphical interface (#GNOME by default).
 	- **Fedora Server**: Geared towards server environments, providing advanced server and cloud features.
-	- **Fedora IoT**: Designed for Internet of Things devices.
+	- **Fedora IoT**: Designed for [[Internet of Things]] devices.
 	- **Fedora Silverblue**: An immutable variant focused on container-based workflows.
 - **Package Management**:
 	- **RPM**: The core package format, facilitating software installation.

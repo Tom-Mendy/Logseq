@@ -37,7 +37,7 @@
 - **Embedded Systems**: Microcontrollers and embedded systems, including automotive, medical devices, and consumer electronics.
 - **Wearables**: Smartwatches and fitness trackers.
 - **Networking and Storage**: Routers, switches, NAS devices.
-- **IoT**: Internet of Things devices due to its power efficiency.
+- **IoT**: [[Internet of Things]] devices due to its power efficiency.
 - ### **Influence**
   
   ARM architecture has become the de facto standard for mobile computing and is making significant inroads into data centers and automotive sectors. It has spurred innovation in power-efficient processing and has influenced other low-power processor designs.

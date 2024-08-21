@@ -55,7 +55,7 @@
   ```
 - ### **Applications**
 - **Mobile Apps**: The primary use case, including utility apps, social networks, games, and more.
-- **IoT Devices**: Many Internet of Things (IoT) devices use Android, such as smart TVs, watches (Wear OS), and more.
+- **IoT Devices**: Many [[Internet of Things]] (IoT) devices use [[Android]], such as smart [[TVs]], watches ([[Wear OS]]), and more.
 - **Automotive**: Android Auto and Android Automotive are specialized versions for vehicle entertainment and control systems.
 - **Robotics and Embedded Systems**: Android can be found in various robotics projects and other specialized hardware.
 - ### **Influence**
