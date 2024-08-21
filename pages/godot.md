@@ -5,9 +5,9 @@
 - **Purpose**: Created to be an open-source, multi-platform #[[game engine]], allowing developers to create 2D and 3D games using a user-friendly interface and powerful scripting capabilities.
 - ### **Key Features**
 - **Node System**: Godot uses a unique scene and node system for structure, where each element in the game is a node, and nodes are organized in trees.
-- **Built-in Scripting Language**: GDScript, a Python-like language optimized for Godot, allows for quick and efficient development. Additionally, Godot supports C#, VisualScript, and C++.
-- **Cross-Platform Export**: Easily export games to various platforms, including Windows, macOS, Linux, Android, iOS, and HTML5.
-- **Integrated Development Environment (IDE)**: Godot comes with a fully integrated development environment that includes a powerful editor with live editing capabilities, debugging tools, and visual scripting.
+- **Built-in Scripting Language**: GDScript, a Python-like language optimized for Godot, allows for quick and efficient development. Additionally, Godot supports #[[C#]], #VisualScript, and #C++.
+- **Cross-Platform Export**: Easily export games to various platforms, including #Windows, #macOS, #Linux, #Android, #iOS, and HTML5.
+- **#[[Integrated Development Environment]] (IDE)**: Godot comes with a fully integrated development environment that includes a powerful editor with live editing capabilities, debugging tools, and visual scripting.
 - **Open Source**: Fully free and open-source under the MIT License, allowing for modification and distribution without restriction.
 - ### **Basic Syntax**
 - **Scene Structure**: Godot games are structured into scenes, which can include multiple nodes. Nodes can be inherited and reused.
