@@ -30,7 +30,7 @@
   ```
 - ### **Applications**
 - **Desktop Environments**: Suitable for users who want to build their custom desktop environment from scratch.
-- **Development Platforms**: Ideal for developers who want a flexible and minimal environment tailored to their needs.
+- **Development Platforms**: Ideal for #[[developers]] who want a flexible and minimal environment tailored to their needs.
 - **Servers**: Can be used to create highly optimized server configurations.
 - **Learning Tool**: Valuable for users who want to learn more about Linux internals and the configuration process.
 - ### **Influence**

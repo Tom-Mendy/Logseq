@@ -2,7 +2,7 @@
 - **Developed by**: Solomon Hykes (initial release), Docker, Inc.
 - **Year**: 2013
 - **Location**: Initially launched as part of DotCloud, a platform-as-a-service company (now Docker, Inc.)
-- **Purpose**: Developed to provide an open platform for developers and sysadmins to build, ship, and run distributed applications.
+- **Purpose**: Developed to provide an open platform for #[[developers]] and sysadmins to build, ship, and run distributed applications.
 - ### **Key Features**
 - **Containerization**: Docker uses container technology to package software and its dependencies into #container-images, ensuring consistent behavior across different environments.
 - **Isolation and Security**: #Containers provide isolation at the process level, ensuring applications run independently without interfering with each other.

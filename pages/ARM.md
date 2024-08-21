@@ -7,7 +7,7 @@
 - **RISC Architecture**: ARM stands for Advanced RISC Machine. The Reduced Instruction Set Computing architecture means each instruction is designed to execute very quickly.
 - **Low Power Consumption**: ARM processors are highly energy-efficient, which is essential for mobile and embedded devices.
 - **Scalability**: ARM architecture is highly scalable from small microcontrollers to large multicore processors.
-- **Large Ecosystem**: ARM has a vast and diverse ecosystem, making it easier for developers to find the tools and software they need.
+- **Large Ecosystem**: ARM has a vast and diverse ecosystem, making it easier for #[[developers]] to find the tools and software they need.
 - **Licensing Model**: ARM Holdings does not manufacture the processors but licenses the technology to other companies, fostering innovation and variety in implementation.
 - ### **Basic Architecture**
 - **Registers**: ARM features a set of 16 general-purpose registers (R0-R15) along with status registers.
