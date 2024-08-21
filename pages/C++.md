@@ -27,7 +27,7 @@
   }
   ```
 - ### **Applications**
-- **Systems Programming**: Operating systems, embedded systems, and real-time applications.
+- **Systems Programming**: #[[Operating system]], embedded systems, and real-time applications.
 - **Game Development**: Many modern game engines and games are written in C++ due to its performance and OOP features.
 - **GUI Applications**: C++ is widely used for developing graphical user interface applications using frameworks like Qt and wxWidgets.
 - **Software Development**: Complex software systems like databases, browsers, and enterprise applications.
