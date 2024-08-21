@@ -44,7 +44,7 @@
 - **Automation**: Running pre-defined scripts to automate tasks such as code generation, testing, and deployment.
 - ### **Influence**
   
-  [[Composer]] has had a significant impact on the [[PHP]] ecosystem by standardizing how dependencies are managed. It set a precedent that has been followed by other languages and platforms adopting similar dependency management tools, like npm for [[JavaScript]], pip for [[Python]], and Maven for [[Java]].
+  [[Composer]] has had a significant impact on the [[PHP]] ecosystem by standardizing how dependencies are managed. It set a precedent that has been followed by other languages and platforms adopting similar dependency management tools, like [[npm]] for [[JavaScript]], [[pip]] for [[Python]], and [[Maven]] for [[Java]].
 - ### **Why Use Composer?**
 - **Consistency**: Ensures consistent environments across development, staging, and production.
 - **Ease of Use**: Simplifies the process of adding and managing libraries.

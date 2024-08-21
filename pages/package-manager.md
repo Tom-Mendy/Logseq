@@ -2,11 +2,12 @@
 - [[apt]]
 - [[dnf]]
 - [[Nix]]
-- #flathub
-- #snapack
 - [[yum]]
-- zypper
+- [[zypper]]
 - [[winget]]
+- [[flathub]]
+- [[snapak]]
+- [[AppImage]]
 -
 - [[Composer]]
 - [[npm]]
