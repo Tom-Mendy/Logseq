@@ -8,8 +8,8 @@
 - **Smallest Deployable Unit**: A pod is the smallest, most basic deployable object in Kubernetes. It represents a single instance of a running process in your cluster.
 - **Container Grouping**: Pods can contain one or more containers (usually Docker containers) that share storage, network, and have a specification for how to run.
 - **Shared Resources**: Containers within a pod share the same IP address, port space, and can communicate via localhost.
-- **Lifecycle Management**: Kubernetes manages the lifecycle of pods to ensure they are running, restarting them if they fail.
-- **Scaling**: Pods can be replicated and scaled across the nodes of a Kubernetes cluster for load balancing and reliability.
+- **Lifecycle Management**: [[Kubernetes]] manages the lifecycle of [[pods]] to ensure they are running, restarting them if they fail.
+- **Scaling**: [[Pods]] can be replicated and scaled across the nodes of a [[Kubernetes]] cluster for load balancing and reliability.
 - ### **Basic Structure**
 - **YAML Configuration**: Pods are defined using #YAML configuration files, which describe the desired state of all aspects of a pod.
   
@@ -33,15 +33,15 @@
 - **Status**: Contains information about the current state of the pod, including details about container states and conditions.
 - ### **Applications**
 - **Microservices**: Efficient in deploying microservices, each in its own pod for isolated environments.
-- **Batch Processing**: Suitable for running batch jobs and processing tasks that can be distributed across multiple pods.
+- **Batch Processing**: Suitable for running batch jobs and processing tasks that can be distributed across multiple [[pods]].
 - **CI/CD Pipelines**: Can be used in #[[Continuous Integration]] and #[[Continuous Deployment]] workflows to ensure consistent environments.
 - **API Hosting**: Ideal for hosting APIs, given its robustness in scaling and managing applications.
 - ### **Influence**
   
-  Kubernetes pods serve as a fundamental concept in container orchestration, influencing how modern cloud-native applications are architected and deployed. They play a key role in enabling DevOps practices and microservices architecture.
+  [[Kubernetes]] [[pods]] serve as a fundamental concept in [[container]] orchestration, influencing how modern cloud-native applications are architected and deployed. They play a key role in enabling [[DevOps]] practices and [[microservices]] architecture.
 - ### **Why Use Pods?**
-- **Simplified Management**: Pods streamline the complexity of managing containers across distributed environments.
-- **Scalability**: They provide easy scaling and replication through Kubernetes.
+- **Simplified Management**: [[Pods]] streamline the complexity of managing [[Containers]] across distributed environments.
+- **Scalability**: They provide easy scaling and replication through [[Kubernetes]].
 - **Resilience**: Automatic pod recovery and load balancing ensure high availability and fault tolerance.
   
-  Overall, Kubernetes pods are a critical component for operating a Kubernetes cluster and are essential for modern containerized application deployment and management.
+  Overall, [[Kubernetes]] [[pods]] are a critical component for operating a [[Kubernetes]] cluster and are essential for modern containerized application deployment and management.
