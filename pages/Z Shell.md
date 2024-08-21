@@ -2,7 +2,7 @@
 - ### **History and Background**
 - **Developed by**: Paul Falstad
 - **Year**: 1990
-- **Primary Influence**: Aimed to be a more powerful alternative to the traditional [[UNIX]] [[shell]] (`sh`) with features inspired by both the Korn [[shell]] (`ksh`) and the C [[shell]] (`csh`).
+- **Primary Influence**: Aimed to be a more powerful alternative to the traditional [[UNIX]] [[shell]] (`sh`) with features inspired by both the [[Korn Shell]] (`ksh`) and the [[C Shell]] (`csh`).
 - ### **Key Features**
 - **Compatibility**: Compatible with `sh` and incorporates many features from `ksh` and `csh`.
 - **Interactive Capabilities**: Extensive command-line editing, multilevel command history, and spell checking.
