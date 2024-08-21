@@ -1,10 +1,10 @@
 ### **History and Background**
-- **Developed by**: Mozilla Research
+- **Developed by**: #Mozilla Research
 - **Year**: Initial release in 2010, first stable release (1.0) in 2015
 - **Location**: Global (Mozilla is based in Mountain View, California, USA)
-- **Purpose**: Designed for performance and safety, particularly in system-level programming. It aims to provide memory safety without employing a garbage collector.
+- **Purpose**: Designed for performance and safety, particularly in system-level programming. It aims to provide memory safety without employing a [[garbage collector]].
 - ### **Key Features**
-- **Memory Safety**: Rust guarantees memory safety through its ownership model, which includes concepts like borrowing and lifetimes.
+- **Memory Safety**: [[Rust]] guarantees memory safety through its ownership model, which includes concepts like borrowing and lifetimes.
 - **Concurrency**: Provides first-class support for concurrent programming with minimal runtime overhead.
 - **Zero-cost Abstractions**: Ensures that high-level abstractions have no runtime cost.
 - **Strong Type System**: Features a strong and static type system that helps catch errors at compile time.
