@@ -6,15 +6,15 @@
 - **Purpose**: [[Nginx]] was designed from the ground up with performance and scale in mind, making it suitable for serving static content quickly and efficiently handling multiple connections.
 - ### **Key Features**
 - **High Concurrency**: [[Nginx]] uses an event-driven architecture rather than a threaded model, which allows it to handle numerous simultaneous connections with efficient resource usage.
-- **Reverse Proxy**: It can function as a reverse proxy, forwarding client requests to other servers.
+- **Reverse Proxy**: It can function as a [[reverse proxy]], forwarding client requests to other [[servers]].
 - **Load Balancing**: [[Nginx]] can be used to distribute incoming traffic across multiple backend [[servers]] to ensure even load and increase fault tolerance.
 - **HTTP Cache**: It has built-in caching capabilities to store dynamic content for faster delivery.
-- **SSL/TLS Termination**: NGINX can handle SSL/TLS termination, offloading this resource-intensive process from backend servers.
+- **SSL/TLS Termination**: [[Nginx]] can handle SSL/TLS termination, offloading this resource-intensive process from backend [[servers]].
 - **Configurable**: Highly configurable with simple configuration files, making it flexible to adapt to various needs.
 - **Modular Architecture**: Supports numerous third-party modules to extend its functionality.
-- **Static and Dynamic Content**: Efficiently serves both static content (images, CSS files, HTML, etc.) and dynamically generated content.
+- **Static and Dynamic Content**: Efficiently serves both static content (images, [[CSS]] files, [[HTML]], etc.) and dynamically generated content.
 - ### **Basic Syntax**
-- **Configuration**: NGINX configuration is stored in simple text files, typically located in `/etc/nginx/nginx.conf` on Unix-based systems.
+- **Configuration**: [[Nginx]] configuration is stored in simple text files, typically located in `/etc/nginx/nginx.conf` on [[[[Unix]]-based]] systems.
 - **Directives**: Configuration is composed of directives, which can be grouped into blocks with specific contexts such as `http`, `server`, and `location`.
 - ### **Example Configuration**
   
