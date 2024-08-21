@@ -5,11 +5,11 @@
 - **Location**: University of California, Berkeley, USA
 - **Purpose**: Initially developed as an enhancement to the original AT&T #UNIX system, BSD introduced many new features and improvements. It served as both a development environment and a research tool.
 - ### **Key Features**
-- **Advanced Networking**: BSD introduced the TCP/IP networking stack, which became the de facto standard for internet communication.
+- **Advanced Networking**: BSD introduced the #TCP/ #IP networking stack, which became the de facto standard for internet communication.
 - **Virtual Memory**: Provides efficient memory management with features like paging and swapping.
 - **Portability**: Designed to be portable across different hardware platforms.
 - **Robust File System**: Introduced the Fast File System (FFS), which offered improved performance and reliability.
-- **BSD License**: Uses a permissive open-source license, allowing for wide adoption and modification with fewer restrictions compared to other licenses like GPL.
+- **BSD License**: Uses a permissive open-source license, allowing for wide adoption and modification with fewer restrictions compared to other licenses like #GPL .
 - ### **Basic Syntax**
   
   BSD is more of an operating system and set of standards than a programming language, so it doesn’t have its own syntax. However, scripts and system configurations often use common shell scripting languages like `sh`, `csh`, or more modern shells like `bash`.
@@ -22,8 +22,8 @@
   echo "Hello, World!"
   ```
 - ### **Applications**
-- **Internet Infrastructure**: Many critical parts of the internet infrastructure, including servers and routers, have roots in BSD.
-- **Operating Systems**: Modern variants of BSD include FreeBSD, OpenBSD, and NetBSD.
+- **Internet Infrastructure**: Many critical parts of the internet infrastructure, including #servers and #routers, have roots in BSD.
+- **Operating Systems**: Modern variants of BSD include #FreeBSD, #OpenBSD, and #NetBSD.
 - **Academic and Research**: Used extensively in academic settings for teaching and research into operating systems and network protocols.
 - **Embedded Systems**: BSD variants are used in some embedded and specialized systems.
 - ### **Influence**
