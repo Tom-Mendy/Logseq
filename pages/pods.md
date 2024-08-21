@@ -6,8 +6,8 @@
 - **Purpose**: To manage [[containerized applications]] across a cluster of machines, providing deployment, scaling, and operational efficiencies.
 - ### **Key Features**
 - **Smallest Deployable Unit**: A pod is the smallest, most basic deployable object in [[Kubernetes]]. It represents a single instance of a running process in your cluster.
-- **Container Grouping**: [[Pods]] can contain one or more [[Containers]] (usually [[Docker]] containers) that share storage, network, and have a specification for how to run.
-- **Shared Resources**: [[Containers]] within a pod share the same [[IP]] address, port space, and can communicate via localhost.
+- **Container Grouping**: [[Pods]] can contain one or more [[Container]] (usually [[Docker]] containers) that share storage, network, and have a specification for how to run.
+- **Shared Resources**: [[Container]] within a pod share the same [[IP]] address, port space, and can communicate via localhost.
 - **Lifecycle Management**: [[Kubernetes]] manages the lifecycle of [[pods]] to ensure they are running, restarting them if they fail.
 - **Scaling**: [[Pods]] can be replicated and scaled across the nodes of a [[Kubernetes]] cluster for load balancing and reliability.
 - ### **Basic Structure**
@@ -38,9 +38,9 @@
 - **API Hosting**: Ideal for hosting APIs, given its robustness in scaling and managing applications.
 - ### **Influence**
   
-  [[Kubernetes]] [[pods]] serve as a fundamental concept in [[container]] orchestration, influencing how modern cloud-native applications are architected and deployed. They play a key role in enabling [[DevOps]] practices and [[microservices]] architecture.
+  [[Kubernetes]] [[pods]] serve as a fundamental concept in [[Container]] orchestration, influencing how modern cloud-native applications are architected and deployed. They play a key role in enabling [[DevOps]] practices and [[microservices]] architecture.
 - ### **Why Use Pods?**
-- **Simplified Management**: [[Pods]] streamline the complexity of managing [[Containers]] across distributed environments.
+- **Simplified Management**: [[Pods]] streamline the complexity of managing [[Container]] across distributed environments.
 - **Scalability**: They provide easy scaling and replication through [[Kubernetes]].
 - **Resilience**: Automatic pod recovery and load balancing ensure high availability and fault tolerance.
   

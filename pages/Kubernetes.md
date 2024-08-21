@@ -5,7 +5,7 @@
 - **Purpose**: Initially developed to manage Google's containerized applications, Kubernetes was open-sourced to help other organizations manage their containerized workloads and services.
 - ### **Key Features**
 - **Container Orchestration**: Automates the deployment, scaling, and management of containerized applications.
-- **Service Discovery and Load Balancing**: Automatically assigns IP addresses and DNS names to #Containers. It can also load balance across them.
+- **Service Discovery and Load Balancing**: Automatically assigns IP addresses and DNS names to #Container. It can also load balance across them.
 - **Automated Rollouts and Rollbacks**: Facilitates codes changes and ensures that applications are updated with zero downtime.
 - **Storage Orchestration**: Mounts local or cloud storage systems as persistent storage for running containers.
 - **Self-Healing**: Detects and replaces failed containers, killing unresponsive ones and rescheduling when necessary.

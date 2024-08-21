@@ -5,7 +5,7 @@
 - **Purpose**: Developed to provide an open platform for #[[developers]] and #[[system administrators]] to build, ship, and run distributed applications.
 - ### **Key Features**
 - **Containerization**: Docker uses container technology to package software and its dependencies into #container-images, ensuring consistent behavior across different environments.
-- **Isolation and Security**: #Containers provide isolation at the process level, ensuring applications run independently without interfering with each other.
+- **Isolation and Security**: #Container provide isolation at the process level, ensuring applications run independently without interfering with each other.
 - **Efficiency**: Containers are lightweight and share the host OS kernel, making them more resource-efficient compared to traditional virtual machines.
 - **Portability**: Docker containers can run on any system that supports Docker (#Linux, #Windows, #macOS ) without modification.
 - **Ease of Use**: Docker provides easy-to-use commands and a vast repository of images, simplifying the development and deployment process.
