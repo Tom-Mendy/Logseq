@@ -29,7 +29,7 @@
 - ### **Influence**
 - **UNIX-like Systems**: BSD has significantly influenced the development of other UNIX-like systems, including Linux and proprietary UNIX systems.
 - **Networking Standards**: The TCP/IP stack developed in BSD is the foundation of internet networking today.
-- **MacOS**: Apple’s macOS is largely based on code from the BSD systems, particularly FreeBSD.
+- **MacOS**: Apple’s #macOS is largely based on code from the BSD systems, particularly FreeBSD.
 - **Security**: OpenBSD is particularly known for its security features and has influenced security practices in other operating systems.
 - ### **Why Learn BSD?**
 - **Networking**: Mastering BSD gives you deep insights into networking, especially with TCP/IP.
