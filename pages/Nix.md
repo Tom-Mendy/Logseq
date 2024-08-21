@@ -9,7 +9,7 @@ Nix is a powerful #[[package manager]] for #Linux and other #Unix systems that t
 - ### **Key Features**
 - **Reproducibility**: Guarantees that builds are reproducible and can be replicated on different machines.
 - **Isolation**: Packages are installed in a unique directory, avoiding dependency conflicts.
-- **Atomic Upgrades and Rollbacks**: Supports atomic upgrades and the ability to roll back to previous configurations easily.
+- **Atomic Upgrades and Rollbacks**: Supports atomic upgrades and the ability to #[[roll back]] to previous configurations easily.
 - **Declarative Configuration**: System state can be described declaratively in a configuration file.
 - **Multi-User Support**: Allows multiple users to install software safely without interfering with each other.
 - ### **Basic Syntax**
