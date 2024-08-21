@@ -1,13 +1,13 @@
-- [[Nginx]] is a high-performance, [[open-source]] [[web server]] and [[reverse proxy]] server that also functions as an HTTP cache and load balancer.
+- [[Nginx]] is a high-performance, [[open-source]] [[web server]] and [[reverse proxy]] server that also functions as an [[[[HTTP]] cache]] and [[load balancer]].
 - ### **History and Background**
 - **Developed by**: Igor Sysoev
 - **Year**: 2004
 - **Location**: Initially created in Russia by Sysoev to address the C10k problem—serving 10,000 concurrent client connections on a single web server.
-- **Purpose**: NGINX was designed from the ground up with performance and scale in mind, making it suitable for serving static content quickly and efficiently handling multiple connections.
+- **Purpose**: [[Nginx]] was designed from the ground up with performance and scale in mind, making it suitable for serving static content quickly and efficiently handling multiple connections.
 - ### **Key Features**
-- **High Concurrency**: NGINX uses an event-driven architecture rather than a threaded model, which allows it to handle numerous simultaneous connections with efficient resource usage.
+- **High Concurrency**: [[Nginx]] uses an event-driven architecture rather than a threaded model, which allows it to handle numerous simultaneous connections with efficient resource usage.
 - **Reverse Proxy**: It can function as a reverse proxy, forwarding client requests to other servers.
-- **Load Balancing**: NGINX can be used to distribute incoming traffic across multiple backend servers to ensure even load and increase fault tolerance.
+- **Load Balancing**: [[Nginx]] can be used to distribute incoming traffic across multiple backend [[servers]] to ensure even load and increase fault tolerance.
 - **HTTP Cache**: It has built-in caching capabilities to store dynamic content for faster delivery.
 - **SSL/TLS Termination**: NGINX can handle SSL/TLS termination, offloading this resource-intensive process from backend servers.
 - **Configurable**: Highly configurable with simple configuration files, making it flexible to adapt to various needs.
