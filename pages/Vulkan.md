@@ -4,7 +4,7 @@
 - **Purpose**: Designed to provide high-efficiency, [[cross-platform]] access to modern GPUs used in a variety of devices from PCs and consoles to [[mobile]] phones and embedded platforms.
 - ### **Key Features**
 - **Low-overhead**: Provides lower-level control over the GPU, minimizing driver overhead for increased performance.
-- **Cross-platform**: Supports multiple operating systems, including Windows, Linux, and Android.
+- **Cross-platform**: Supports multiple [[operating systems]], including [[Windows]], [[Linux]], and [[Android]].
 - **Explicit control**: Gives developers fine-grained control over GPU operations, memory management, and synchronization.
 - **Multi-threading**: Designed with modern, multi-core CPUs in mind, allowing multiple threads to perform rendering tasks simultaneously.
 - **Modularity**: Easily extensible through a system of dynamically loaded extensions to provide additional capabilities.
@@ -41,17 +41,17 @@
   }
   ```
 - ### **Applications**
-- **Game Development**: Used in performance-critical graphics applications, such as video games, to provide detailed control over rendering.
-- **Virtual Reality**: Suitable for VR applications due to its low latency and efficient use of GPU resources.
+- **Game Development**: Used in performance-critical graphics applications, such as [[video game]], to provide detailed control over rendering.
+- **Virtual Reality**: Suitable for [[VR]] applications due to its low latency and efficient use of GPU resources.
 - **Visualization**: Employed in scientific visualization and complex data rendering to leverage modern GPUs.
 - **Simulation**: Used in simulations requiring high frame rates and detailed graphical representations.
 - ### **Influence**
   
-  Vulkan has influenced the development of other low-level graphics APIs like DirectX 12 (by Microsoft) and has contributed to the trend of providing developers with more explicit control over graphics hardware. It also serves as the foundation for modern graphics engines and frameworks.
+  Vulkan has influenced the development of other low-level graphics APIs like [[DirectX]] 12 (by Microsoft) and has contributed to the trend of providing developers with more explicit control over graphics hardware. It also serves as the foundation for modern graphics engines and frameworks.
 - ### **Why Learn Vulkan?**
 - **Performance**: Allows developers to achieve maximum performance from modern GPUs.
 - **Control**: Provides unparalleled control over GPU operations for optimized and customized rendering.
 - **Future-Proof**: As graphics hardware evolves, Vulkan's lower-level abstractions are likely to remain relevant and adaptable.
-- **Industry Adoption**: Increasingly adopted in the game development industry and supported by major tech companies like AMD, NVIDIA, and Intel.
+- **Industry Adoption**: Increasingly adopted in the game development industry and supported by major tech companies like [[AMD]], [[NVIDIA]], and [[Intel]].
   
-  Overall, Vulkan is an advanced graphics and compute API that offers significant advantages for developers looking to leverage the full potential of modern GPUs.
+  Overall, [[Vulkan]] is an advanced graphics and compute [[API]] that offers significant advantages for [[developers]] looking to leverage the full potential of modern GPUs.
