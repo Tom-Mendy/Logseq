@@ -4,7 +4,7 @@
 - **Location**: École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 - **Purpose**: Scala was designed to address some of the criticisms of Java, providing a language that blends object-oriented and functional programming paradigms.
 - ### **Key Features**
-- **Object-Oriented and Functional**: Scala supports both object-oriented and functional programming styles, allowing developers to use the best approach suited for their problem.
+- **Object-Oriented and Functional**: Scala supports both object-oriented and functional programming styles, allowing #[[developers]] to use the best approach suited for their problem.
 - **Static Typing**: Scala provides a strong and static type system that helps catch errors at compile-time.
 - **Type Inference**: The language features powerful type inference capabilities, reducing the amount of boilerplate code.
 - **Rich Collection Library**: Scala includes a comprehensive and flexible collection library.

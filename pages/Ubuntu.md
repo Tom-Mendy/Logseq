@@ -31,7 +31,7 @@
   Ubuntu has had a significant impact on the Linux ecosystem, inspiring various derivative distributions such as #[[Linux Mint]] and #[[elementary OS]]. Its ease of use has helped popularize #Linux among a broader audience.
 - ### **Why Use Ubuntu?**
 - **Ease of Use**: Good for novices and professionals alike with its user-friendly interface.
-- **Community and Support**: Access to a vast network of users and developers.
+- **Community and Support**: Access to a vast network of users and #[[developers]].
 - **Security and Stability**: Regular updates and LTS versions provide a secure and stable environment.
 - **Cost**: Free to use, making it an attractive option for individuals and organizations.
 - ### **Conclusion**
