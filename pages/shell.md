@@ -36,6 +36,6 @@
 - **Efficiency**: Automate repetitive and time-consuming tasks.
 - **Powerful**: Obtain direct access to the system's core and perform complex operations with simple commands.
 - **Ease of Use**: Scripting languages are relatively easy to learn and are straightforward.
-- **Diverse Applications**: Useful across various domains, including system administration, web development, and data processing.
+- **Diverse Applications**: Useful across various domains, including #[[system administration]], #[[web development]], and #[[data processing]].
   
   Overall, shell scripting remains a crucial skill for anyone working in Unix-based environments, providing an efficient means of managing and automating systems tasks.
