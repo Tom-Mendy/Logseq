@@ -2,10 +2,13 @@
 - #pacman
 - #apt
 - #dnf
-- #Nix
+- Nix
 - #flathub
 - #snapack
 - #yum
 - #zypper
-- #winget
+- [[winget]]
 - [[Composer]]
+- [[npm]]
+- [[pip]]
+- [[maven]]
