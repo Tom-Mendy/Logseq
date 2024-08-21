@@ -10,7 +10,7 @@
 - **Security**: Wayland is designed with security in mind, providing better isolation between applications and better handling of input/output.
 - **Modern Graphics**: Built to leverage the capabilities of modern graphics hardware and APIs, Wayland makes better use of contemporary GPU features.
 - **Compositing**: The compositor is an integral part of the Wayland protocol, which manages drawing windows and handling input. This leads to smoother animations and transitions.
-- **Flexibility**: Supports various types of compositors, from simple to rich, allowing diverse desktop environments and window managers.
+- **Flexibility**: Supports various types of compositors, from simple to rich, allowing diverse #[[desktop environments]] and #[[window managers]].
 - ### **Basic Architecture**
 - **Wayland Server (Compositor)**: The Wayland server, or compositor, is responsible for compositing the windows, managing their placement, and handling input.
 - **Wayland Clients**: Applications that communicate with the Wayland server to render windows and receive input.
