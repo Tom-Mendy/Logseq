@@ -36,18 +36,18 @@
   nnoremap <leader>f :Files<CR>
   ```
 - ### **Applications**
-- **Text Editing**: Neovim is used by developers for writing and maintaining code and other texts.
-- **Integrated Development Environments (IDEs)**: Some developers integrate Neovim with IDEs like VSCode to leverage both sets of features.
-- **Remote Development**: Neovim can be used over SSH to edit files on remote systems efficiently.
-- **Automation**: Due to its scripting capabilities, Neovim is also used for automating repetitive editing tasks.
+- **Text Editing**: [[Neovim]] is used by [[developers]] for writing and maintaining code and other texts.
+- **Integrated [[Development Environments]] (IDEs)**: Some [[developers]] integrate [[Neovim]] with IDEs like VSCode to leverage both sets of features.
+- **Remote Development**: [[Neovim]] can be used over [[SSH]] to edit files on remote systems efficiently.
+- **Automation**: Due to its scripting capabilities, [[Neovim]] is also used for automating repetitive editing tasks.
 - ### **Influence**
-- **Vim**: Neovim builds upon the foundation provided by Vim, enhancing it without losing compatibility.
-- **Modern Editors**: Neovim has influenced modern text editors by demonstrating how legacy software can be extended efficiently without a complete rewrite.
-- **Plugin Ecosystem**: Neovim's introduction of asynchronous plugins has influenced the development of plugins in other editors.
+- **Vim**: [[Neovim]] builds upon the foundation provided by [[Vim]], enhancing it without losing compatibility.
+- **Modern Editors**: [[Neovim]] has influenced modern [[text editors]] by demonstrating how legacy software can be extended efficiently without a complete rewrite.
+- **Plugin Ecosystem**: [[Neovim]]'s introduction of asynchronous plugins has influenced the development of plugins in other editors.
 - ### **Why Use Neovim?**
-- **Modern Features**: Offers modern enhancements while retaining the powerful features of Vim.
+- **Modern Features**: Offers modern enhancements while retaining the powerful features of [[Vim]].
 - **Performance**: Asynchronous execution and streamlined architecture improve performance.
 - **Community**: Active development and a vibrant community contribute to its continuous improvement.
 - **Customization**: Highly customizable, allowing users to tailor the editor to their workflows.
   
-  Overall, Neovim offers modern enhancements and robust performance while remaining true to the powerful, efficient editing experience that Vim users love.
+  Overall, [[Neovim]] offers modern enhancements and robust performance while remaining true to the powerful, efficient editing experience that [[Vim]] users love.
