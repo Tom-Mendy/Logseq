@@ -4,7 +4,7 @@
 - **Location**: Free Software Foundation (GNU Project)
 - **Purpose**: Bash (Bourne Again SHell) was developed as a free software replacement for the Bourne shell (`sh`), to provide a more feature-complete #shell for #UNIX -like systems.
 - ### **Key Features**
-- **Command-line interface**: Bash provides a powerful command-line interface for interacting with #[[operating system]] .
+- **Command-line interface**: Bash provides a powerful command-line interface for interacting with #[[operating systems]] .
 - **Scripting**: It allows the automation of tasks through shell scripts.
 - **Compatibility**: Bash is designed to be compatible with the Bourne shell while incorporating useful features from other popular shells (e.g., KornShell, #C-shell ).
 - **Rich built-ins**: Provides many built-in commands and utilities to manipulate files, processes, and text.

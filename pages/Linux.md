@@ -39,7 +39,7 @@
   Linux has influenced many other operating systems and has a significant presence across various sectors, including education, government, and enterprise IT. Its principles have inspired projects like Android (mobile OS) and various operating systems for IoT devices.
 - ### **Why Learn Linux?**
 - **Market Demand**: Proficiency in Linux is highly sought after in many IT roles, particularly in server and system administration.
-- **Skillset Expansion**: Understanding Linux enhances your knowledge of #[[operating system]], scripting, networking, and security.
+- **Skillset Expansion**: Understanding Linux enhances your knowledge of #[[operating systems]], scripting, networking, and security.
 - **Customization and Control**: It provides full control over the system and the freedom to customize your environment to your needs.
   
   Overall, Linux is an essential technology in many fields, offering robustness, flexibility, and a supportive community, making it a pivotal skill for IT professionals.

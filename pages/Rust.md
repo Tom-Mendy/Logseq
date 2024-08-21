@@ -30,7 +30,7 @@
   
   ```
 - ### **Applications**
-- **Systems Programming**: #[[operating system]] (e.g., Redox), embedded systems, and low-level system components.
+- **Systems Programming**: #[[operating systems]] (e.g., Redox), embedded systems, and low-level system components.
 - **Web Development**: Backend development (e.g., using Actix or Rocket frameworks).
 - **Game Development**: Performance-sensitive game engines and applications.
 - **Blockchain**: Several blockchain projects are written in Rust for its safety and performance.
