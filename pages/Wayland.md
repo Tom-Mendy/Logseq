@@ -23,32 +23,21 @@
   Here is an example of how one might initialize a Wayland connection in C:
   
   ```c
-  
   #include <wayland-client.h>
-  
   int main() {
-  
     struct wl_display *display = wl_display_connect(NULL);
-  
     if (display == NULL) {
-  
         return -1;
-  
     }
-  
     // Proceed to get registries and other interfaces needed
-  
     wl_display_disconnect(display);
-  
     return 0;
-  
   }
-  
   ```
 - ### **Applications**
-- **Desktop Environments**: GNOME, KDE, and other desktop environments are increasingly adopting Wayland for their graphical interface handling.
+- **Desktop Environments**: #GNOME, #[[KDE Plasma]] , and other desktop environments are increasingly adopting Wayland for their graphical interface handling.
 - **Embedded Systems**: Suitable for embedded devices due to its lightweight nature and modern graphics support.
-- **Applications and Toolkits**: Applications are being updated to support Wayland, and toolkits like GTK and Qt have Wayland backends.
+- **Applications and Toolkits**: Applications are being updated to support Wayland, and toolkits like #GTK and #Qt have Wayland backends.
 - ### **Influence**
   
   Wayland has inspired a more modular and modern approach to handling graphical displays and input in Unix-like systems. It is pushing forward the desktop Linux experience by providing better performance and stability.
