@@ -38,9 +38,9 @@
   ```
 - ### **Applications**
 - **Remote Administration**: Administrators use SSH to remotely manage and configure servers.
-- **File Transfers**: Securely transferring files using SCP or SFTP (SSH File Transfer Protocol).
-- **Secure Tunnel (VPN)**: Creating secure VPN tunnels to encrypt all network traffic.
-- **Git Repositories**: Accessing and managing code repositories via SSH.
+- **File Transfers**: Securely transferring files using #SCP or #SFTP (SSH File Transfer Protocol).
+- **Secure Tunnel (VPN)**: Creating secure #VPN tunnels to encrypt all network traffic.
+- **Git Repositories**: Accessing and managing code #repositories via SSH.
 - ### **Advantages**
 - **Security**: Provides strong encryption and secure authentication methods, making it a very secure protocol.
 - **Flexibility**: Offers multiple ways of authenticating and various options for securing and optimizing the connection.
