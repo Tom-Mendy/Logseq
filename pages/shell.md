@@ -20,11 +20,8 @@
   Here’s a simple example of a "Hello, World!" script in the Bourne Again Shell (`bash`):
   
   ```bash
-  
   #!/bin/bash
-  
   echo "Hello, World!"
-  
   ```
 - ### **Applications**
 - **System Administration**: Automating backups, system updates, and user management.
@@ -34,7 +31,7 @@
 - **Monitoring**: Setting up system health checks, logging, and alerting scripts.
 - ### **Influence**
   
-  Shell scripting has influenced many other scripting languages and automation tools, including PowerShell (Windows) and other Unix-like interpreters (Z shell, Korn shell). Its close integration with Unix systems makes it foundational for many Unix-based operational environments.
+  Shell scripting has influenced many other scripting languages and automation tools, including #PowerShell (Windows) and other Unix-like interpreters (Z shell, Korn shell). Its close integration with Unix systems makes it foundational for many Unix-based operational environments.
 - ### **Why Learn Shell Scripting?**
 - **Efficiency**: Automate repetitive and time-consuming tasks.
 - **Powerful**: Obtain direct access to the system's core and perform complex operations with simple commands.
