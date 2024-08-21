@@ -26,33 +26,19 @@
   Here's a simple example of common Git commands:
   
   ```sh
-  
   # Clone a repository
-  
   git clone https://github.com/user/repo.git
-  
   # Create a new branch
-  
   git checkout -b feature-branch
-  
   # Add a file to staging area
-  
   git add file.txt
-  
   # Commit changes
-  
   git commit -m "Add new feature"
-  
   # Push to remote repository
-  
   git push origin feature-branch
-  
   # Merge a branch into main
-  
   git checkout main
-  
   git merge feature-branch
-  
   ```
 - ### **Applications**
 - **Software Development**: Version control is fundamental to modern software development, enabling teams to track and manage changes to source code.
@@ -60,7 +46,7 @@
 - **Configuration Management**: Applied in maintaining configuration files and scripts.
 - **Research**: Useful in tracking changes to research data and scripts in scientific computing.
 - ### **Popular Tools**
-- **Git**: Widely used DVCS created by Linus Torvalds for Linux kernel development.
+- **#[[Git]]**: Widely used DVCS created by Linus Torvalds for Linux kernel development.
 - **Subversion (SVN)**: A CVCS popular in enterprise environments.
 - **Mercurial**: A similar DVCS to Git, known for its simplicity.
 - **Perforce**: High-performance CVCS often used in game development and large binary file management.
