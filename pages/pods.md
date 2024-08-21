@@ -34,7 +34,7 @@
 - ### **Applications**
 - **Microservices**: Efficient in deploying microservices, each in its own pod for isolated environments.
 - **Batch Processing**: Suitable for running batch jobs and processing tasks that can be distributed across multiple pods.
-- **CI/CD Pipelines**: Can be used in Continuous Integration and Continuous Deployment workflows to ensure consistent environments.
+- **CI/CD Pipelines**: Can be used in #[[Continuous Integration]] and #[[Continuous Deployment]] workflows to ensure consistent environments.
 - **API Hosting**: Ideal for hosting APIs, given its robustness in scaling and managing applications.
 - ### **Influence**
   
