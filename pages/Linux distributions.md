@@ -4,8 +4,9 @@
 		- #Pop-OS
 		- #[[Rhino Linux]]
 	- #Vanilla
-- #Fedora
-	- #Red-Hat-Linux
+- Fedora]]
+	- [[Red Hat Enterprise Linux]]
+	- [[CentOS]]
 - #Open-SUSE
 - #[[Arch Linux]]
 	- #Manjaro
