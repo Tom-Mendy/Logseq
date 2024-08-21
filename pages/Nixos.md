@@ -39,9 +39,9 @@
 - **Server Configuration**: Ideal for setting up and maintaining servers due to its reproducibility and reliability.
 - **Development Environments**: Great for managing consistent development environments across teams.
 - **Operating Systems**: Can build complete systems, including desktop environments, servers, and containers.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Useful in CI/CD pipelines for ensuring environments are consistent.
+- **#[[Continuous Integration]] / #[[Continuous Deployment]] (CI/CD)**: Useful in CI/CD pipelines for ensuring environments are consistent.
 - ### **Influence**
-- **Nix**: The Nix package manager can be used on other Linux distributions, not just NixOS.
+- **Nix**: The Nix package manager can be used on other #[[Linux distributions]], not just NixOS.
 - **Configuration Management**: NixOS has influenced other projects focusing on declarative system configurations.
 - ### **Why Learn NixOS?**
 - **Reliability**: Guarantees reproducible builds and deployments.
