@@ -17,89 +17,53 @@
 - **Initialization**: Communication starts with an initialization phase where the client (editor) provides initialization parameters, and the server responds with capabilities.
 - ### **Example Communication**
   
-  Here’s a simplified example of a “Hover” request and response in JSON format:
+  Here’s a simplified example of a “Hover” request and response in [[JSON]] format:
   
   **Request from client to server:**
   
   ```json
-  
   {
-  
     "jsonrpc": "2.0",
-  
     "id": 1,
-  
     "method": "textDocument/hover",
-  
     "params": {
-  
         "textDocument": {
-  
             "uri": "file:///path/to/file"
-  
         },
-  
         "position": {
-  
             "line": 10,
-  
             "character": 5
-  
         }
-  
     }
-  
   }
-  
   ```
   
   **Response from server to client:**
   
   ```json
-  
   {
-  
     "jsonrpc": "2.0",
-  
     "id": 1,
-  
     "result": {
-  
         "contents": {
-  
             "kind": "plaintext",
-  
             "value": "int main()"
-  
         },
-  
         "range": {
-  
             "start": {
-  
                 "line": 10,
-  
                 "character": 4
-  
             },
-  
             "end": {
-  
                 "line": 10,
-  
                 "character": 12
-  
             }
-  
         }
-  
     }
-  
   }
-  
   ```
 - ### **Applications**
-- **Code Editors and IDEs**: Widely used in editors like Visual Studio Code, Sublime Text, and Atom to provide language features like autocomplete, go-to-definition, and error highlighting.
+- **Code Editors and IDEs**: Widely used in editors like [[Visual Studio Code]], Sublime Text, and Atom to provide language features like autocomplete, go-to-definition, and error highlighting.
 - **Language Servers**: Many language servers implement LSP to provide language-specific features for various editors.
 - **Cross-Platform Development**: Facilitates the development of consistent language tools across different platforms and editors.
 - ### **Influence**
