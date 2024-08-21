@@ -3,7 +3,7 @@
 - **Developed by**: Outpox
 - **Year**: Initial release in early 2021
 - **Platform**: #Linux
-- **Purpose**: A dynamic tiling wayland compositor aiming to offer flexibility and modern features, specifically designed for use with the Wayland protocol.
+- **Purpose**: A #[[dynamic tiling]] wayland compositor aiming to offer flexibility and modern features, specifically designed for use with the #Wayland protocol.
 - ### **Key Features**
 - **Wayland Compatibility**: Fully compatible with the #Wayland display server protocol, offering modern performance and efficiency improvements over #X11.
 - **Dynamic Tiling**: Provides dynamic tiling capabilities similar to other tiling window managers, allowing windows to automatically adjust and organize without manual resizing.
@@ -55,7 +55,7 @@
 - **Window Management**: Tailored for efficient and productive window management on the Wayland display server.
 - **Performance Enhancement**: Suitable for both older and newer systems looking to leverage lightweight and efficient window management.
 - **Customization**: For users who prefer deep customization of their desktop environments.
-- **Developers**: Ideal for developers who need a consistent and resource-efficient workspace.
+- **Developers**: Ideal for #[[developers]] who need a consistent and resource-efficient workspace.
 - ### **Influence**
   
   Hyprland incorporates ideas from other popular tiling window managers such as i3, bspwm, and dwm, while improving upon them by leveraging Wayland’s modern architecture. It aims to influence the creation of more efficient and customizable Wayland compositors.
