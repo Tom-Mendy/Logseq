@@ -7,7 +7,7 @@
 - **Concurrency**: Elixir provides excellent support for concurrent programming using lightweight processes and the Actor model, thanks to the Erlang VM.
 - **Fault Tolerance**: Built on the Erlang VM, Elixir inherits robust fault tolerance features, including supervision trees for automatic recovery.
 - **Functional Programming**: Emphasizes immutable data and functions as first-class citizens.
-- **Metaprogramming**: Supports metaprogramming using macros, allowing developers to extend the language.
+- **Metaprogramming**: Supports metaprogramming using macros, allowing #[[developers]] to extend the language.
 - **Scalability**: Designed to build scalable applications, particularly in distributed environments.
 - **Interactive Development**: Provides an interactive shell (IEx) for rapid development and testing.
 - ### **Basic Syntax**
