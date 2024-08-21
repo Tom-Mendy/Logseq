@@ -5,9 +5,9 @@
 - **Current Owner**: [[Oracle]] Corporation (since 2010)
 - **Purpose**: Created to provide a reliable, fast, and flexible database management system that is suitable for both small and large-scale applications.
 - ### **Key Features**
-- **Relational Database Management System**: Uses tables to store data and can define relationships between different data entities.
-- **SQL (Structured Query Language)**: Provides a powerful and intuitive language for querying, updating, and managing data.
-- **Open Source**: Originally released as an open-source project, MySQL can be freely used and modified under its open-source license.
+- **Relational [[Database]] Management System**: Uses tables to store data and can define relationships between different data entities.
+- **SQL ([[Structured Query Language]])**: Provides a powerful and intuitive language for querying, updating, and managing data.
+- **Open Source**: Originally released as an [[open-source]] project, [[MySQL]] can be freely used and modified under its [[open-source]] license.
 - **Scalability and Flexibility**: Supports large databases and a wide variety of applications, from a simple website to complex data warehouses.
 - **High Performance**: Optimized for faster query execution and efficient data management.
 - **Secure**: Provides robust security features, including user authentication, SSL support, and data encryption.
@@ -31,10 +31,10 @@
   INSERT INTO users (username, password, email) VALUES ('john_doe', 'password123', 'john@example.com');
   ```
 - ### **Applications**
-- **Web Development**: Often used as a backend database for web applications, particularly with PHP, Python, and Ruby.
+- **Web Development**: Often used as a backend [[Database]] for web applications, particularly with [[PHP]], [[Python]], and [[Ruby]].
 - **Data Warehousing**: Suitable for large-scale data warehousing solutions.
 - **E-Commerce**: Frequently used in e-commerce platforms due to its reliability and performance.
-- **Content Management Systems**: Powers many CMS platforms like WordPress, Joomla, and Drupal.
+- **Content Management Systems**: Powers many CMS platforms like [[WordPress]], [[Joomla]], and [[Drupal]].
 - **Enterprise Applications**: Used in various enterprise solutions needing robust database support.
 - ### **Influence**
 - **Widely Adopted**: MySQL has been adopted by numerous organizations worldwide, ranging from small startups to large enterprises.
