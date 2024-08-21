@@ -40,7 +40,7 @@
 - **Custom Software Repositories**: Allows setting up and managing custom repositories for organizations or specialized use cases.
 - ### **Influence**
   
-  `apt` has influenced many other package management systems across various Linux distributions. It set a standard for other tools like `yum` and `dnf` on Red Hat-based systems and `zypper` on openSUSE. Furthermore, it inspired frontend tools like `Synaptic Package Manager`, making GUI-based package management possible.
+  `apt` has influenced many other package management systems across various Linux distributions. It set a standard for other tools like `yum` and `dnf` on Red Hat-based systems and `zypper` on openSUSE. Furthermore, it inspired frontend tools like `Synaptic Package Manager`, making GUI-based package management possible. #yum #dnf #zypper
 - ### **Why Use apt?**
 - **Efficiency**: Streamlines the package management process through simple commands.
 - **Reliability**: Provides robust dependency management, reducing the chances of "dependency hell."
