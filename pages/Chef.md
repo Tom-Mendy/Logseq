@@ -41,7 +41,7 @@
 - **Disaster Recovery**: Quickly re-creating infrastructure states to recover from failures.
 - ### **Influence**
   
-  Chef has influenced the development of other configuration management and automation tools, such as Puppet, Ansible, and Terraform. Its principles of infrastructure as code and idempotency are widely adopted in the DevOps culture.
+  Chef has influenced the development of other configuration management and automation tools, such as #Puppet, #Ansible, and #Terraform. Its principles of infrastructure as code and idempotency are widely adopted in the DevOps culture.
 - ### **Why Learn Chef?**
 - **DevOps Skills**: Acquiring Chef skills is highly valuable in the DevOps and cloud engineering fields.
 - **Automation Efficiency**: Automate repetitive tasks and manage configurations in a scalable manner.
