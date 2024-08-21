@@ -6,7 +6,7 @@
 - ### **Key Features**
 - **Static Type Checking**: TypeScript introduces optional static typing to #JavaScript, which helps in detecting errors at compile-time rather than at runtime.
 - **ES6+ Compatibility**: TypeScript is a superset of #JavaScript, meaning any valid JavaScript code is also valid TypeScript code. It supports modern JavaScript features and compiles down to plain JavaScript.
-- **Enhanced IDE Support**: Due to its static nature, TypeScript provides better tooling support like autocompletion, navigation, and refactoring in integrated development environments (IDEs).
+- **Enhanced IDE Support**: Due to its static nature, [[TypeScript]] provides better tooling support like autocompletion, navigation, and refactoring in integrated [[Development Environments]] (IDEs).
 - **Class-based Object-Oriented Programming**: TypeScript expands JavaScript by adding features like classes, interfaces, and inheritance, bringing it closer to object-oriented programming languages such as Java or C#.
 - **Modules**: TypeScript supports ES6 module syntax, improving modularity and enhancing code maintainability and readability.
 - ### **Basic Syntax**
@@ -42,7 +42,7 @@
   TypeScript's focus on static typing and modern JavaScript features has influenced other languages and frameworks, promoting better development practices and tooling in JavaScript ecosystems.
 - ### **Why Learn TypeScript?**
 - **Improved JavaScript**: Learning TypeScript provides a more robust way to write #JavaScript, with benefits like early error detection and better coding tools.
-- **Better Tooling**: IDE support and tooling for TypeScript significantly enhance productivity.
+- **Better Tooling**: [[Integrated Development Environment]] support and tooling for [[TypeScript]] significantly enhance productivity.
 - **Industry Demand**: Many modern web development projects and companies have adopted TypeScript, making it a valuable skill for developers.
 - **Scalability**: It helps maintain large codebases more effectively with features like interfaces and strong type inference.
   

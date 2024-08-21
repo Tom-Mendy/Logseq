@@ -46,7 +46,7 @@
 - **Embedded Systems**: Good support for C/C++ development makes it useful for embedded systems development.
 - ### **Influence**
   
-  VS Code has become one of the most popular #[[text editors]] in the developer community, highly regarded for its speed, functionality, and customization. It has influenced other editors and #IDE to adopt similar features and extensibility models.
+  VS Code has become one of the most popular #[[text editors]] in the developer community, highly regarded for its speed, functionality, and customization. It has influenced other editors and [[Integrated Development Environment]] to adopt similar features and extensibility models.
 - ### **Why Use Visual Studio Code?**
 - **Cross-Platform**: Works across all major operating systems, ensuring a consistent development experience.
 - **Community and Support**: Backed by a robust ecosystem with frequent updates and a plethora of available extensions.
