@@ -2,10 +2,10 @@
 - ### **History and Background**
 - **Developed by**: Outpox
 - **Year**: Initial release in early 2021
-- **Platform**: #Linux
-- **Purpose**: A #[[dynamic tiling]] wayland compositor aiming to offer flexibility and modern features, specifically designed for use with the #Wayland protocol.
+- **Platform**: [[Linux]]
+- **Purpose**: A [[dynamic tiling]] [[Wayland]] compositor aiming to offer flexibility and modern features, specifically designed for use with the [[Wayland]] protocol.
 - ### **Key Features**
-- **Wayland Compatibility**: Fully compatible with the #Wayland display server protocol, offering modern performance and efficiency improvements over #X11.
+- **Wayland Compatibility**: Fully compatible with the [[Wayland]] display server protocol, offering modern performance and efficiency improvements over [[X11]].
 - **Dynamic Tiling**: Provides [[dynamic tiling]] capabilities similar to other [[tiling [[window managers]]]], allowing [[Windows]] to automatically adjust and organize without manual resizing.
 - **Extensibility**: Offers extensive configuration options via its [[configuration file]], enabling users to customize behavior and appearance.
 - **Eco-Friendly**: Low resource consumption, suitable for both high-end and low-end hardware.
