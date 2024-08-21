@@ -88,23 +88,24 @@
 - #Perl
 - #PHP
 - #PowerShell
-- #Python
+- [[Python]]
 - **Q**
 - **R**
-- #R
-- #Ruby
-- #Rust
+- [[R]]
+- [[Ruby]]
+- [[Rust]]
 - **S**
-- #Scala
-- #Shell
-- #Swift
+- [[Scala]]
+- [[Shell]]
+- [[Swift]]
 - **T**
-- #TypeScript
+- [[TypeScript]]
 - **U**
 - **V**
+- [[Vim scripts]]
 - **W**
 - **X**
 - **Y**
 - **Z**
-- #Zig
+- [[Zig]]
 -
