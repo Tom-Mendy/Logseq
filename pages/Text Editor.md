@@ -1,6 +1,6 @@
 - [[vim]]
-- #Neovim
-- #vi
+- [[Neovim]]
+- [[vi]]
 - #nano
 - #emacs
 - #[[Visual Studio Code]]
