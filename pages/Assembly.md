@@ -39,7 +39,7 @@ title:: Assembly
   ```
 - ### **Applications**
 - **Embedded Systems**: Development of firmware and low-level software for microcontrollers and other embedded systems.
-- **Operating Systems**: Critical components and kernels of operating systems often require Assembly for bootstrapping and performance-critical sections.
+- **Operating Systems**: Critical components and kernels of #[[operating systems]] often require Assembly for bootstrapping and performance-critical sections.
 - **Performance-Critical Software**: Specific performance-critical sections of applications, such as graphics rendering and signal processing.
 - **Reverse Engineering and Security**: Used in analyzing machine code and developing exploits.
 - ### **Influence**
