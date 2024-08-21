@@ -3,7 +3,7 @@
 - **Developed by**: Kristian Høgsberg
 - **Year**: 2008
 - **Location**: Open source community, originally started at Red Hat
-- **Purpose**: Designed as a simpler and modern replacement for the X Window System (#X11 ), used for managing graphical displays and input in #Unix -like operating systems.
+- **Purpose**: Designed as a simpler and modern replacement for the X [[Window]] System (#X11 ), used for managing graphical displays and input in [[[[Unix]]-like]] [[operating systems]].
 - ### **Key Features**
 - **Simpler Codebase**: Wayland has a simpler and more straightforward codebase compared to X11, which helps reduce complexity and potential bugs.
 - **Efficiency and Performance**: It aims to reduce the latency and improve performance by eliminating redundant steps in the graphics pipeline.
