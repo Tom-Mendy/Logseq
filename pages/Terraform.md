@@ -6,7 +6,7 @@
 - ### **Key Features**
 - **Infrastructure as Code (IaC)**: Enables the management of infrastructure using configuration files, making deployment reproducible and auditable.
 - **Declarative Language**: Uses HashiCorp Configuration Language (HCL), allowing users to describe the desired end-state of infrastructure rather than defining the steps to reach that state.
-- **Provider Agnostic**: Supports multiple cloud service providers like #AWS, #Azure, Google Cloud, and more, as well as #On-Premises solutions.
+- **Provider Agnostic**: Supports multiple cloud service providers like #AWS, #Azure, [[Google Cloud]], and more, as well as #On-Premises solutions.
 - **State Management**: Keeps track of the current state of infrastructure, helping Terraform understand what changes to make to attain the desired state.
 - **Modules**: Supports modular configurations, enabling reuse and sharing of common setups across different projects.
 - **Dependency Graph**: Automatically resolves dependencies between resources to ensure they are created or destroyed in the correct order.
