@@ -1,6 +1,6 @@
 ### **Zsh (Z Shell)**
 
-Zsh is a powerful and versatile [[shell]] designed for interactive use, although it is also a scripting language. Here’s a brief overview:
+[[Zsh]] is a powerful and versatile [[shell]] designed for interactive use, although it is also a scripting language. Here’s a brief overview:
 - ### **History and Background**
 - **Developed by**: Paul Falstad
 - **Year**: 1990
@@ -8,13 +8,13 @@ Zsh is a powerful and versatile [[shell]] designed for interactive use, although
 - ### **Key Features**
 - **Compatibility**: Compatible with `sh` and incorporates many features from `ksh` and `csh`.
 - **Interactive Capabilities**: Extensive command-line editing, multilevel command history, and spell checking.
-- **Customization**: Highly customizable via configuration files and plugins.
+- **Customization**: Highly customizable via [[configuration file]] and plugins.
 - **Powerful Scripting**: Includes numerous built-in functions and control structures for scripting.
 - **Alias Expansion**: Allows for the creation of custom command shortcuts called aliases.
 - **Theme Support**: Can be themed for customized prompt and appearance.
 - **[[Plugin]] Support**: Easily extensible with plugins, such as `Oh My Zsh`, which adds even more features.
 - ### **Basic Syntax**
-- **Variables**: Similar to other Unix shells, variables are created without a type declaration and are typically assigned using `variable=value`.
+- **Variables**: Similar to other [[UNIX]] shells, variables are created without a type declaration and are typically assigned using `variable=value`.
 - **Control Flow**: Supports standard control flow constructs like `if`, `else`, `for`, `while`, `case`, and more.
 - **Functions**: Functions can be defined using the `function` keyword or just by name:
   
@@ -27,7 +27,7 @@ Zsh is a powerful and versatile [[shell]] designed for interactive use, although
   ```
 - ### **Example Code**
   
-  Here’s a simple example of a Zsh script that prints "Hello, World!":
+  Here’s a simple example of a [[Zsh]] script that prints "Hello, World!":
   
   ```zsh
   #!/usr/bin/env zsh
@@ -35,7 +35,7 @@ Zsh is a powerful and versatile [[shell]] designed for interactive use, although
   ```
 - ### **Applications**
 - **Interactive Shell**: Used as an interactive shell for daily use by developers and system administrators.
-- **Scripting**: For writing shell scripts that automate tasks on Unix-like operating systems.
+- **Scripting**: For writing [[shell]] scripts that automate tasks on [[[[Unix]]-like]] [[operating systems]].
 - **Customization and Theming**: Heavy usage in creating customized and theme-rich development environments.
 - ### **Influence**
   
