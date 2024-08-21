@@ -7,3 +7,5 @@
 - #snapack
 - #yum
 - #zypper
+- #winget
+-
