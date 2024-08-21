@@ -2,7 +2,7 @@
 - ### **History and Background**
 - **Developed by**: Jordan Walke, a software engineer at #Facebook
 - **Year**: 2013 (released as open source)
-- **Location**: #Facebook, USA
+- **Location**: Facebook, USA
 - **Purpose**: Initially developed to create interactive and dynamic user interfaces for web applications, focusing on improving user experience and development efficiency.
 - ### **Key Features**
 - **Component-Based Architecture**: React applications are built using reusable components that manage their own state and can be composed to create complex UIs.
