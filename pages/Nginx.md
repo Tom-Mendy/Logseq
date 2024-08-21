@@ -43,14 +43,14 @@
   ```
 - ### **Applications**
 - **Web Hosting**: Used to host websites efficiently with high concurrency.
-- **Content Delivery Networks (CDNs)**: Utilized by CDNs for fast delivery of static content.
-- **Load Balancing**: Employed to distribute traffic across multiple application servers.
-- **API Gateways**: Acts as an entry point to APIs, providing reverse proxy, load balancing, and caching functionalities.
-- **Microservices**: Manages and routes traffic for microservice architectures.
-- **Security**: Provides DDoS attack mitigation and SSL/TLS termination.
+- **[[Content Delivery Networks]] (CDNs)**: Utilized by CDNs for fast delivery of static content.
+- **Load Balancing**: Employed to distribute traffic across multiple application [[servers]].
+- **API Gateways**: Acts as an entry point to APIs, providing [[reverse proxy]], load balancing, and caching functionalities.
+- **[[Microservices]]**: Manages and routes traffic for microservice architectures.
+- **Security**: Provides [[DDoS]] attack mitigation and SSL/TLS termination.
 - ### **Influence**
   
-  NGINX has influenced various a open-source projects and commercial products, inspiring similar architectures in modern server software. Its performance and scalability aspects have set a benchmark in the industry.
+  [[Nginx]] has influenced various a [[open-source]] projects and commercial products, inspiring similar architectures in modern server software. Its performance and scalability aspects have set a benchmark in the industry.
 - ### **Why Use NGINX?**
 - **Performance**: Known for its exceptional performance and ability to handle a high number of concurrent connections.
 - **Flexibility**: Easily configurable and highly adaptable to various use cases.
