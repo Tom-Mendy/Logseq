@@ -1,19 +1,17 @@
-- Certainly! Here's an overview of Neovim with a similar structure:
-- ### **Neovim Overview**
-- ### **History and Background**
-- **Developed by**: Thiago de Arruda (initially), followed by a strong community of developers.
+### **History and Background**
+- **Developed by**: Thiago de Arruda (initially), followed by a strong community of [[developers]].
 - **Year**: 2014 (initial release)
-- **Purpose**: Neovim aims to improve upon Vim, providing better extensibility and modern features while retaining Vim's powerful editor capabilities.
+- **Purpose**: [[Neovim]] aims to improve upon [[Vim]], providing better extensibility and modern features while retaining [[Vim]]'s powerful editor capabilities.
 - ### **Key Features**
-- **Asynchronous Plugins**: Neovim allows for asynchronous plugin execution, meaning plugins can run in the background and improve performance without blocking the editor.
-- **Improved Extensibility**: Neovim has a built-in terminal emulator and integrates seamlessly with modern development tools and editors.
-- **Embedded Language Support**: It provides an API to embed Neovim in other applications, making it versatile and extensible for various use cases.
-- **Enhanced User Interface**: Neovim supports more advanced features like true color and GUI support, making it more visually appealing and user-friendly.
-- **Compatibility**: Neovim aims to be largely compatible with Vim, meaning most Vim configurations and plugins work without modification.
+- **Asynchronous Plugins**: [[Neovim]] allows for asynchronous plugin execution, meaning plugins can run in the background and improve performance without blocking the editor.
+- **Improved Extensibility**: [[Neovim]] has a built-in terminal emulator and integrates seamlessly with modern development tools and editors.
+- **Embedded Language Support**: It provides an API to embed [[Neovim]] in other applications, making it versatile and extensible for various use cases.
+- **Enhanced User Interface**: [[Neovim]] supports more advanced features like true color and [[GUI]] support, making it more visually appealing and user-friendly.
+- **Compatibility**: [[Neovim]] aims to be largely compatible with [[Vim]], meaning most [[Vim]] configurations and plugins work without modification.
 - ### **Basic Syntax**
   
-  Like Vim, Neovim uses a modal editing model with different modes such as Normal, Insert, Visual, and Command Mode.
-- **Commands**: Neovim uses similar command-line commands and key mappings as Vim.
+  Like [[Vim]], [[Neovim]] uses a modal editing model with different modes such as Normal, Insert, Visual, and Command Mode.
+- **Commands**: [[Neovim]] uses similar command-line commands and key mappings as [[Vim]].
 - **Configuration**: Configuration is typically done using a `init.vim` file (in later versions, `init.lua` for Lua-based configuration is also supported).
 - ### **Example Configuration**
   
